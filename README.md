@@ -1,4 +1,5 @@
 # Bootstrap v4 Snippets with Pug\Jade for VS Code
+A pack of **99** code snippets for Bootstrap toolkit.
 
 ## Getting started
 
@@ -12,8 +13,12 @@ To start using the snippets simply type **b-** *snippet_name*.
 * `ext install jade-bootstrap`
 * Alternatively, you can download the extension from the [marketplace](https://marketplace.visualstudio.com/items?itemName=pack.jade-bootstrap).
 
+## Bootstrap
+[Get Bootstrap here](https://getbootstrap.com/)
+Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
+
 ## Snippet codes
-| Snippet code                   |
+| **b-** *snippet_name*          |
 | ------------------------------ |
 | b-alert-header                 |
 | b-alert                        |
@@ -114,3 +119,5 @@ To start using the snippets simply type **b-** *snippet_name*.
 | b-flex-column                  |
 | b-flex-row-reverse             |
 | b-flex-row                     |
+
+[Took everything from here](https://github.com/Zaczero/bootstrap-v4-snippets/)
