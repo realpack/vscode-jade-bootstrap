@@ -1,7 +1,7 @@
 {
 	"name": "jade-bootstrap",
 	"displayName": "Pug\\Jade Bootstrap Snippets",
-	"description": "",
+	"description": "Bootstrap v4 Snippets with Pug\\Jade for VS Code",
 	"icon": "images/icon.png",
 	"publisher": "pack",
 	"repository": {
