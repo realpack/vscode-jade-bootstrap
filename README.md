@@ -10,5 +10,4 @@ To start using the snippets simply type **b-** *snippet_name*.
 ## Installing
 * Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter:
 * `code --install-extension pack.jade-bootstrap`
-12
 * Alternatively, you can download the extension from the [marketplace](https://marketplace.visualstudio.com/items?itemName=pack.jade-bootstrap).
