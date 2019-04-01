@@ -265,7 +265,7 @@
 	"b-dropdown": {
 		"prefix": "b-dropdown",
 		"body": [
-			".(class='${2|dropdown,dropup,dropright,dropleft|}')",
+			".${2|dropdown,dropup,dropright,dropleft|}",
 			"\tbutton.btn.btn-${3|primary,secondary,success,danger,warning,info,light,dark,link|}.dropdown-toggle#${1:my-dropdown}(data-toggle='dropdown', aria-haspopup='true', aria-expanded='false') ${4:Text}",
 			"\t.dropdown-menu(aria-labelledby='$1')",
 			"\t\ta.dropdown-item.active(href='#') ${5:Text}",
