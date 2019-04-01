@@ -1,0 +1,935 @@
+{
+	"b-alert-header": {
+		"prefix": "b-alert-header",
+		"body": [
+			".alert.alert-${1|primary,secondary,success,danger,warning,info,light,dark|}(role='alert')",
+			"\th4.alert-heading ${2:Header}",
+			"\t| ${3:Content}"
+		]
+	},
+	"b-alert": {
+		"prefix": "b-alert",
+		"body": [
+			".alert.alert-${1|primary,secondary,success,danger,warning,info,light,dark|}(role='alert')",
+			"\t| ${2:Content}"
+		]
+	},
+	"b-badge-pill": {
+		"prefix": "b-badge-pill",
+		"body": [
+			"span.badge.badge-pill.badge-${1|primary,secondary,success,danger,warning,info,light,dark|} ${2:Text}"
+		]
+	},
+	"b-badge": {
+		"prefix": "b-badge",
+		"body": [
+			"span.badge.badge-${1|primary,secondary,success,danger,warning,info,light,dark|} ${2:Text}"
+		]
+	},
+	"b-breadcrumb": {
+		"prefix": "b-breadcrumb",
+		"body": [
+			"nav(aria-label='${1:Page breadcrumb}')",
+			"\tol.breadcrumb",
+			"\t\tli.breadcrumb-item.active(aria-current='page') ${2:Item 1}",
+			"\t\tli.breadcrumb-item ${3:Item 2}"
+		]
+	},
+	"b-btn-group-vertical": {
+		"prefix": "b-btn-group-vertical",
+		"body": [
+			".btn-group-vertical(role='group', aria-label='${1:Vertical button group}')",
+			"\t$0"
+		]
+	},
+	"b-btn-group": {
+		"prefix": "b-btn-group",
+		"body": [
+			".btn-group(role='group', aria-label='${1:Vertical button group}')",
+			"\t$0"
+		]
+	},
+	"b-btn-checkbox": {
+		"prefix": "b-btn-checkbox",
+		"body": [
+			".btn-group-toggle(data-toggle='buttons')",
+			"\tlabel.btn.btn-${1|primary,secondary,success,danger,warning,info,light,dark,link|}",
+			"\t\tinput(type='checkbox')",
+			"\t\t| ${2:Text}"
+		]
+	},
+	"b-btn-radio": {
+		"prefix": "b-btn-radio",
+		"body": [
+			".btn-group.btn-group-toggle(data-toggle='buttons')",
+			"\tlabel.btn.btn-${1|primary,secondary,success,danger,warning,info,light,dark,link|}",
+			"\t\tinput(type='radio')",
+			"\t\t| ${2:Text}"
+		]
+	},
+	"b-btn": {
+		"prefix": "b-btn",
+		"body": [
+			"button.btn.btn-${1|primary,secondary,success,danger,warning,info,light,dark,link|}(type=${2|button,submit,reset|}) ${3:Text}"
+		]
+	},
+	"b-card-footer": {
+		"prefix": "b-card-footer",
+		"body": [
+			".card",
+			"\t.card-body",
+			"\t\th5.card-title ${1:Title}",
+			"\t\tp.card-text ${2:Content}",
+			"\t.card-footer",
+			"\t\t${3:Footer}"
+		]
+	},
+	"b-card-full": {
+		"prefix": "b-card-full",
+		"body": [
+			".card",
+			"\t.card-header",
+			"\t\t${1:Header}",
+			"\t.card-body",
+			"\t\th5.card-title ${2:Title}",
+			"\t\tp.card-text ${3:Content}",
+			"\t.card-footer",
+			"\t\t${4:Footer}"
+		]
+	},
+	"b-card-header": {
+		"prefix": "b-card-header",
+		"body": [
+			".card",
+			"\t.card-header",
+			"\t\t${1:Header}",
+			"\t.card-body",
+			"\t\th5.card-title ${2:Title}",
+			"\t\tp.card-text ${3:Content}",
+			"\t$0"
+		]
+	},
+	"b-card-img-bottom": {
+		"prefix": "b-card-img-bottom",
+		"body": [
+			".card",
+			"\t.card-body",
+			"\t\th5.card-title ${1:Title}",
+			"\t\tp.card-text ${2:Content}",
+			"\timg.card-img-bottom(src='$3', alt='$4')"
+		]
+	},
+	"b-card-img-full": {
+		"prefix": "b-card-img-full",
+		"body": [
+			".card",
+			"\timg.card-img-top(src='$1', alt='$2')",
+			"\t.card-body",
+			"\t\th5.card-title ${3:Title}",
+			"\t\tp.card-text ${4:Content}",
+			"\timg.card-img-bottom(src='$5', alt='$6')"
+		]
+	},
+	"b-card-img-overlay": {
+		"prefix": "b-card-img-overlay",
+		"body": [
+			".card",
+			"\timg.card-img(src='$1', alt='$2')",
+			"\t.card-img-overlay",
+			"\t\th5.card-title ${3:Title}",
+			"\t\tp.card-text ${4:Content}"
+		]
+	},
+	"b-card-img-top": {
+		"prefix": "b-card-img-top",
+		"body": [
+			".card",
+			"\timg.card-img-top(src='$1', alt='$2')",
+			"\t.card-body",
+			"\t\th5.card-title ${3:Title}",
+			"\t\tp.card-text ${4:Content}"
+		]
+	},
+	"b-card": {
+		"prefix": "b-card",
+		"body": [
+			".card",
+			"\t.card-body",
+			"\t\th5.card-title ${1:Title}",
+			"\t\tp.card-text ${2:Content}"
+		]
+	},
+	"b-carousel-controls": {
+		"prefix": "b-carousel-controls",
+		"body": [
+			".carousel.slide#${1:my-carousel}(data-ride='carousel')",
+			"\t.carousel-inner",
+			"\t\t.carousel-item.active",
+			"\t\t\timg.d-block.w-100(src='$2', alt='$3')",
+			"\t\t\t.carousel-caption.d-none.d-md-block",
+			"\t\t\t\th5 ${4:Title}",
+			"\t\t\t\tp ${5:Text}",
+			"\ta.carousel-control-prev(href='#$1', data-slide='prev', role='button')",
+			"\t\tspan.carousel-control-prev-icon(aria-hidden='true')",
+			"\t\tspan.sr-only ${6:Previous}",
+			"\ta.carousel-control-next(href='#$1', data-slide='next', role='button')",
+			"\t\tspan.carousel-control-next-icon(aria-hidden='true')",
+			"\t\tspan.sr-only ${7:Next}"
+		]
+	},
+	"b-carousel-full": {
+		"prefix": "b-carousel-full",
+		"body": [
+			".carousel.slide#${1:my-carousel}(data-ride='carousel')",
+			"\tol.carousel-indicators",
+			"\t\tli.active(data-target='#$1', data-slide-to='0', aria-current='location')",
+			"\t\tli(data-target='#$1', data-slide-to='1')",
+			"\t.carousel-inner",
+			"\t\t.carousel-item.active",
+			"\t\t\timg.d-block.w-100(src='$2', alt='$3')",
+			"\t\t\t.carousel-caption.d-none.d-md-block",
+			"\t\t\t\th5 ${4:Title}",
+			"\t\t\t\tp ${5:Text}",
+			"\t\t.carousel-item",
+			"\t\t\timg.d-block.w-100(src='$6', alt='$7')",
+			"\t\t\t.carousel-caption.d-none.d-md-block",
+			"\t\t\t\th5 ${8:Title}",
+			"\t\t\t\tp ${9:Text}",
+			"\ta.carousel-control-prev(href='#$1', data-slide='prev', role='button')",
+			"\t\tspan.carousel-control-prev-icon(aria-hidden='true')",
+			"\t\tspan.sr-only ${10:Previous}",
+			"\ta.carousel-control-next(href='#$1', data-slide='next', role='button')",
+			"\t\tspan.carousel-control-next-icon(aria-hidden='true')",
+			"\t\tspan.sr-only ${11:Next}"
+		]
+	},
+	"b-carousel-indicators": {
+		"prefix": "b-carousel-indicators",
+		"body": [
+			".carousel.slide#${1:my-carousel}(data-ride='carousel')",
+			"\tol.carousel-indicators",
+			"\t\tli.active(data-target='#$1', data-slide-to='0', aria-current='location')",
+			"\t\tli(data-target='#$1', data-slide-to='1')",
+			"\t.carousel-inner",
+			"\t\t.carousel-item.active",
+			"\t\t\timg.d-block.w-100(src='$2', alt='$3')",
+			"\t\t\t.carousel-caption.d-none.d-md-block",
+			"\t\t\t\th5 ${4:Title}",
+			"\t\t\t\tp ${5:Text}",
+			"\t\t.carousel-item",
+			"\t\t\timg.d-block.w-100(src='$6', alt='$7')",
+			"\t\t\t.carousel-caption.d-none.d-md-block",
+			"\t\t\t\th5 ${8:Title}",
+			"\t\t\t\tp ${9:Text}"
+		]
+	},
+	"b-carousel": {
+		"prefix": "b-carousel",
+		"body": [
+			".carousel.slide#${1:my-carousel}(data-ride='carousel')",
+			"\t.carousel-inner",
+			"\t\t.carousel-item.active",
+			"\t\t\timg.d-block.w-100(src='$2', alt='$3')",
+			"\t\t\t.carousel-caption.d-none.d-md-block",
+			"\t\t\t\th5 ${4:Title}",
+			"\t\t\t\tp ${5:Text}"
+		]
+	},
+	"b-collapse": {
+		"prefix": "b-collapse",
+		"body": [
+			"button.btn.btn-${2|primary,secondary,success,danger,warning,info,light,dark,link|}(data-target='#${1:my-collapse}', data-toggle='collapse', aria-expanded='false', aria-controls='$1') ${3:Text}",
+			".collapse(id='$1')",
+			"\t$0"
+		]
+	},
+	"b-dropdown-menu": {
+		"prefix": "b-dropdown-menu",
+		"body": [
+			".dropdown-menu",
+			"\ta.dropdown-item.active(href='#')",
+			"\t\t| ${1:Text}"
+		]
+	},
+	"b-dropdown-split": {
+		"prefix": "b-dropdown-split",
+		"body": [
+			".btn-group.${2|dropdown,dropup,dropright,dropleft|}",
+			"\tbutton.btn.btn-${3|primary,secondary,success,danger,warning,info,light,dark,link|} ${4:Text}",
+			"\tbutton.btn.btn-$3.dropdown-toggle.dropdown-toggle-split#${1:my-dropdown}(data-toggle='dropdown', aria-haspopup='true', aria-expanded='false')",
+			"\t\tspan.sr-only Toggle dropdown",
+			"\t.dropdown-menu(aria-labelledby='$1')",
+			"\t\ta.dropdown-item.active(href='#') ${5:Text}"
+		]
+	},
+	"b-dropdown": {
+		"prefix": "b-dropdown",
+		"body": [
+			".(class='${2|dropdown,dropup,dropright,dropleft|}')",
+			"\tbutton.btn.btn-${3|primary,secondary,success,danger,warning,info,light,dark,link|}.dropdown-toggle#${1:my-dropdown}(data-toggle='dropdown', aria-haspopup='true', aria-expanded='false') ${4:Text}",
+			"\t.dropdown-menu(aria-labelledby='$1')",
+			"\t\ta.dropdown-item.active(href='#') ${5:Text}",
+			"\t\t\t$0"
+		]
+	},
+	"b-form-check-inline": {
+		"prefix": "b-form-check-inline",
+		"body": [
+			".form-check.form-check-inline",
+			"\tinput.form-check-input#${1:my-input}(type='${2|checkbox,radio|}')",
+			"\tlabel.form-check-label(for='$1') ${3:Text}"
+		]
+	},
+	"b-form-check": {
+		"prefix": "b-form-check",
+		"body": [
+			".form-check",
+			"\tinput.form-check-input#${1:my-input}(type='${2|checkbox,radio|}')",
+			"\tlabel.form-check-label(for='$1') ${3:Text}"
+		]
+	},
+	"b-form-custom-check-inline": {
+		"prefix": "b-form-custom-check-inline",
+		"body": [
+			".custom-control.custom-control-inline.custom-${2|checkbox,radio|}",
+			"\tinput.custom-control-input#${1:my-input}(type='${2|checkbox,radio|}')",
+			"\tlabel.custom-control-label(for='$1') ${3:Text}"
+		]
+	},
+	"b-form-custom-check": {
+		"prefix": "b-form-custom-check",
+		"body": [
+			".custom-control.custom-${2|checkbox,radio|}",
+			"\tinput.custom-control-input#${1:my-input}(type='${2|checkbox,radio|}')",
+			"\tlabel.custom-control-label(for='$1') ${3:Text}"
+		]
+	},
+	"b-form-custom-file": {
+		"prefix": "b-form-custom-file",
+		"body": [
+			".custom-file",
+			"\tinput.custom-file-input#${1:my-input}(type='file')",
+			"\tlabel.custom-file-label(for='$1') ${2:Text}"
+		]
+	},
+	"b-form-custom-range": {
+		"prefix": "b-form-custom-range",
+		"body": [
+			".form-group",
+			"\tlabel(for='${1:my-input}') ${4:Text}",
+			"\tinput.custom-range$1(type='range', min='${2:0}', max='${3:100}')"
+		]
+	},
+	"b-form-custom-select-multiple": {
+		"prefix": "b-form-custom-select-multiple",
+		"body": [
+			".form-group",
+			"\tlabel(for='${1:my-input}') ${2:Text}",
+			"\tselect.custom-select$1(multiple='')",
+			"\t\toption ${3:Text}"
+		]
+	},
+	"b-form-custom-select": {
+		"prefix": "b-form-custom-select",
+		"body": [
+			".form-group",
+			"\tlabel(for='${1:my-input}') ${2:Text}",
+			"\tselect.custom-select$1",
+			"\t\toption ${3:Text}"
+		]
+	},
+	"b-form-custom-switch": {
+		"prefix": "b-form-custom-switch",
+		"body": [
+			".custom-control.custom-switch",
+			"\tinput.custom-control-input#${1:my-input}(type='checkbox')",
+			"\tlabel.custom-control-label(for='$1') ${2:Text}"
+		]
+	},
+	"b-form-file": {
+		"prefix": "b-form-file",
+		"body": [
+			".form-group",
+			"\tlabel(for='${1:my-input}') ${2:Text}",
+			"\tinput.form-control-file$1(type='file')"
+		]
+	},
+	"b-form-group": {
+		"prefix": "b-form-group",
+		"body": [
+			".form-group",
+			"\tlabel(for='${1:my-input}') ${2:Text}",
+			"\tinput.form-control-file$1(type='${2|text,number,email,password|}')"
+		]
+	},
+	"b-form-help": {
+		"prefix": "b-form-help",
+		"body": [
+			"small.form-text.text-muted ${1:Content}"
+		]
+	},
+	"b-form-inline": {
+		"prefix": "b-form-inline",
+		"body": [
+			"form.form-inline(method='${1|get,post|}' action='$2')",
+			"\t$0"
+		]
+	},
+	"b-form-invalid": {
+		"prefix": "b-form-invalid",
+		"body": [
+			".invalid-${1|feedback,tooltip|} ${2:Content}"
+		]
+	},
+	"b-form-range": {
+		"prefix": "b-form-range",
+		"body": [
+			".form-group",
+			"\tlabel(for='${1:my-input}') ${4:Text}",
+			"\tinput.form-control-range$1(type='range', min='${2:0}', max='${3:100}')"
+		]
+	},
+	"b-form-select-multiple": {
+		"prefix": "b-form-select-multiple",
+		"body": [
+			".form-group",
+			"\tlabel(for='${1:my-input}') ${2:Text}",
+			"\tselect.form-control$1(multiple='')",
+			"\t\toption ${3:Text}"
+		]
+	},
+	"b-form-select": {
+		"prefix": "b-form-select",
+		"body": [
+			".form-group",
+			"\tlabel(for='${1:my-input}') ${2:Text}",
+			"\tselect.form-control$1",
+			"\t\toption ${3:Text}"
+		]
+	},
+	"b-form-textarea": {
+		"prefix": "b-form-textarea",
+		"body": [
+			".form-group",
+			"\tlabel(for='${1:my-input}') ${3:Text}",
+			"\ttextarea.form-control$1(rows='${2:3}')"
+		]
+	},
+	"b-form-valid": {
+		"prefix": "b-form-valid",
+		"body": [
+			".valid-${1|feedback,tooltip|} ${2:Content}"
+		]
+	},
+	"b-form": {
+		"prefix": "b-form",
+		"body": [
+			"form(method='${1|get,post|}' action='$2')",
+			"\t$0"
+		]
+	},
+	"b-input-hidden": {
+		"prefix": "b-input-hidden",
+		"body": [
+			"input$1(type='hidden' value='$2')"
+		]
+	},
+	"b-input": {
+		"prefix": "b-input",
+		"body": [
+			"input.form-control$1(type='${2|text,number,email,password|}')"
+		]
+	},
+	"b-input-group-append": {
+		"prefix": "b-input-group-append",
+		"body": [
+			".input-group",
+			"\tinput.form-control(type='${2|text,number,email,password|}', placeholder='${3:Recipient's $2}', aria-label='$3', aria-describedby='${1:my-addon}')",
+			"\t.input-group-append",
+			"\t\tspan.input-group-text(id='$1') ${4:Text}"
+		]
+	},
+	"b-input-group-full": {
+		"prefix": "b-input-group-full",
+		"body": [
+			".input-group",
+			"\t.input-group-prepend",
+			"\t\tspan.input-group-text ${3:Text}",
+			"\tinput.form-control(type='${1|text,number,email,password|}', placeholder='${3:Recipient's $2}', aria-label='$2')",
+			"\t.input-group-append",
+			"\t\tspan.input-group-text ${4:Text}"
+		]
+	},
+	"b-input-group-prepend": {
+		"prefix": "b-input-group-prepend",
+		"body": [
+			".input-group",
+			"\t.input-group-prepend",
+			"\t\tspan.input-group-text#${1:my-addon} ${4:Text}",
+			"\tinput.form-control(type='${2|text,number,email,password|}', placeholder='${3:Recipient's $2}', aria-label='$3', aria-describedby='$1')"
+		]
+	},
+	"b-jumbotron-fluid": {
+		"prefix": "b-jumbotron-fluid",
+		"body": [
+			".jumbotron.jumbotron-fluid",
+			"\th1.display-4 ${1:Title}",
+			"\tp.lead ${2:Subtitle}",
+			"\thr.my-4",
+			"\tp ${3:Content}"
+		]
+	},
+	"b-jumbotron": {
+		"prefix": "b-jumbotron",
+		"body": [
+			".jumbotron",
+			"\th1.display-4 ${1:Title}",
+			"\tp.lead ${2:Subtitle}",
+			"\thr.my-4",
+			"\tp ${3:Content}"
+		]
+	},
+	"b-list-group-action-flush": {
+		"prefix": "b-list-group-action-flush",
+		"body": [
+			"ul.list-group.list-group-flush",
+			"\tli.list-group-item.list-group-item-action.active(href='#') ${1:Text}",
+			"\tli.list-group-item.list-group-item-action.disabled(href='#', aria-disabled='true', tabindex=-1) ${2:Disabled item}"
+		]
+	},
+	"b-list-group-action-horizontal": {
+		"prefix": "b-list-group-action-horizontal",
+		"body": [
+			"ul.list-group.list-group-horizontal",
+			"\tli.list-group-item.list-group-item-action.active(href='#') ${1:Text}",
+			"\tli.list-group-item.list-group-item-action.disabled(href='#', aria-disabled='true', tabindex=-1) ${2:Disabled item}"
+		]
+	},
+	"b-list-group-action": {
+		"prefix": "b-list-group-action",
+		"body": [
+			"ul.list-group",
+			"\tli.list-group-item.list-group-item-action.active(href='#') ${1:Text}",
+			"\tli.list-group-item.list-group-item-action.disabled(href='#', aria-disabled='true', tabindex=-1) ${2:Disabled item}"
+		]
+	},
+	"b-list-group-flush": {
+		"prefix": "b-list-group-flush",
+		"body": [
+			"ul.list-group.list-group-flush",
+			"\tli.list-group-item.active ${1:Text}",
+			"\tli.list-group-item.disabled(aria-disabled='true') ${2:Disabled item}"
+		]
+	},
+	"b-list-group-horizontal": {
+		"prefix": "b-list-group-horizontal",
+		"body": [
+			"ul.list-group.list-group-horizontal",
+			"\tli.list-group-item.active ${1:Text}",
+			"\tli.list-group-item.disabled(aria-disabled='true') ${2:Disabled item}"
+		]
+	},
+	"b-list-group": {
+		"prefix": "b-list-group",
+		"body": [
+			"ul.list-group",
+			"\tli.list-group-item.active ${1:Text}",
+			"\tli.list-group-item.disabled(aria-disabled='true') ${2:Disabled item}"
+		]
+	},
+	"b-media-left": {
+		"prefix": "b-media-left",
+		"body": [
+			".media",
+			"\timg.align-self-${1|start,center,end|}(src='$2', alt='$3')",
+			"\t.media-body",
+			"\t\th5.mb-0 ${4:Header}",
+			"\t\t${5:Content}"
+		]
+	},
+	"b-media-right": {
+		"prefix": "b-media-right",
+		"body": [
+			".media",
+			"\t.media-body",
+			"\t\th5.mb-0 ${2:Header}",
+			"\t\t${3:Content}",
+			"\timg.align-self-${1|start,center,end|}(src='$4', alt='$5')"
+		]
+	},
+	"b-modal-center": {
+		"prefix": "b-modal-center",
+		"body": [
+			".modal.fade(tabindex='-1', role='dialog', aria-hidden='true')",
+			"\t.modal-dialog.modal-dialog-centered(role='document')",
+			"\t\t.modal-content",
+			"\t\t\t.modal-body",
+			"\t\t\t\tp ${1:Content}"
+		]
+	},
+	"b-modal-footer-center": {
+		"prefix": "b-modal-footer-center",
+		"body": [
+			".modal.fade(tabindex='-1', role='dialog', aria-hidden='true')",
+			"\t.modal-dialog.modal-dialog-centered(role='document')",
+			"\t\t.modal-content",
+			"\t\t\t.modal-body",
+			"\t\t\t\tp ${1:Content}",
+			"\t\t\t.modal-footer",
+			"\t\t\t\t${2:Footer}"
+		]
+	},
+	"b-modal-footer": {
+		"prefix": "b-modal-footer",
+		"body": [
+			".modal.fade(tabindex='-1', role='dialog', aria-hidden='true')",
+			"\t.modal-dialog(role='document')",
+			"\t\t.modal-content",
+			"\t\t\t.modal-body",
+			"\t\t\t\tp ${1:Content}",
+			"\t\t\t.modal-footer",
+			"\t\t\t\t${2:Footer}"
+		]
+	},
+	"b-modal-full-center": {
+		"prefix": "b-modal-full-center",
+		"body": [
+			".modal.fade(tabindex='-1', role='dialog', aria-labelledby='${1:my-modal-title}', aria-hidden='true')",
+			"\t.modal-dialog.modal-dialog-centered(role='document')",
+			"\t\t.modal-content",
+			"\t\t\t.modal-header",
+			"\t\t\t\th5.modal-title(id='$1') ${2:Title}",
+			"\t\t\t\tbutton.close(data-dismiss='modal', aria-label='Close')",
+			"\t\t\t\t\tspan(aria-hidden='true') &times;",
+			"\t\t\t.modal-body",
+			"\t\t\t\tp ${3:Content}",
+			"\t\t\t.modal-footer",
+			"\t\t\t\t${4:Footer}"
+		]
+	},
+	"b-modal-full": {
+		"prefix": "b-modal-full",
+		"body": [
+			".modal.fade(tabindex='-1', role='dialog', aria-labelledby='${1:my-modal-title}', aria-hidden='true')",
+			"\t.modal-dialog(role='document')",
+			"\t\t.modal-content",
+			"\t\t\t.modal-header",
+			"\t\t\t\th5.modal-title(id='$1') ${2:Title}",
+			"\t\t\t\tbutton.close(data-dismiss='modal', aria-label='Close')",
+			"\t\t\t\t\tspan(aria-hidden='true') &times;",
+			"\t\t\t.modal-body",
+			"\t\t\t\tp ${3:Content}",
+			"\t\t\t.modal-footer",
+			"\t\t\t\t${4:Footer}"
+		]
+	},
+	"b-modal-header-center": {
+		"prefix": "b-modal-header-center",
+		"body": [
+			".modal.fade(tabindex='-1', role='dialog', aria-labelledby='${1:my-modal-title}', aria-hidden='true')",
+			"\t.modal-dialog.modal-dialog-centered(role='document')",
+			"\t\t.modal-content",
+			"\t\t\t.modal-header",
+			"\t\t\t\th5.modal-title(id='$1') ${2:Title}",
+			"\t\t\t\tbutton.close(data-dismiss='modal', aria-label='Close')",
+			"\t\t\t\t\tspan(aria-hidden='true') &times;",
+			"\t\t\t.modal-body",
+			"\t\t\t\tp ${3:Content}",
+			"\t\t\t.modal-footer",
+			"\t\t\t\t${4:Footer}"
+		]
+	},
+	"b-modal-header": {
+		"prefix": "b-modal-header",
+		"body": [
+			".modal.fade(tabindex='-1', role='dialog', aria-labelledby='${1:my-modal-title}', aria-hidden='true')",
+			"\t.modal-dialog(role='document')",
+			"\t\t.modal-content",
+			"\t\t\t.modal-header",
+			"\t\t\t\th5.modal-title(id='$1') ${2:Title}",
+			"\t\t\t\tbutton.close(data-dismiss='modal', aria-label='Close')",
+			"\t\t\t\t\tspan(aria-hidden='true') &times;",
+			"\t\t\t.modal-body",
+			"\t\t\t\tp ${3:Content}"
+		]
+	},
+	"b-modal": {
+		"prefix": "b-modal",
+		"body": [
+			".modal.fade(tabindex='-1', role='dialog', aria-hidden='true')",
+			"\t.modal-dialog(role='document')",
+			"\t\t.modal-content",
+			"\t\t\t.modal-body",
+			"\t\t\t\tp ${1:Content}"
+		]
+	},
+	"b-navbar": {
+		"prefix": "b-navbar",
+		"body": [
+			"nav.navbar.navbar-expand-lg.navbar-${1|light,dark|}.bg-$1.${2|fixed-top,fixed-bottom,sticky-top|}",
+			"\ta.navbar-brand ${5:Brand}",
+			"\tbutton.navbar-toggler(data-target='#${3:my-nav}', data-toggle='collapse', aria-controls='$3', aria-expanded='false', aria-label='${4:Toggle navigation}')",
+			"\t\tspan.navbar-toggler-icon",
+			"\t.collapse.navbar-collapse#$3",
+			"\t\tul.navbar-nav.mr-auto",
+			"\t\t\tli.nav-item.active",
+			"\t\t\t\ta.nav-link(href='#')",
+			"\t\t\t\t\t${6:Item 1} ",
+			"\t\t\t\t\tspan.sr-only (current)",
+			"\t\t\tli.nav-item",
+			"\t\t\t\ta.nav-link.disabled(href='#', tabindex='-1', aria-disabled='true')",
+			"\t\t\t\t\t${7:Item 2}",
+			"\t\t\t$0"
+		]
+	},
+	"b-nav-fill": {
+		"prefix": "b-nav-fill",
+		"body": [
+			"nav.nav.nav-fill",
+			"\tli.nav-item",
+			"\t\ta.nav-link.active(href='#') ${1:Item 1}",
+			"\tli.nav-item",
+			"\t\ta.nav-link.disabled(href='#', tabindex='-1', aria-disabled='true') ${2:Item 2}"
+		]
+	},
+	"b-nav-vertical": {
+		"prefix": "b-nav-vertical",
+		"body": [
+			"nav.nav.flex-column",
+			"\tli.nav-item",
+			"\t\ta.nav-link.active(href='#') ${1:Item 1}",
+			"\tli.nav-item",
+			"\t\ta.nav-link.disabled(href='#', tabindex='-1', aria-disabled='true') ${2:Item 2}"
+		]
+	},
+	"b-nav": {
+		"prefix": "b-nav",
+		"body": [
+			"nav.nav",
+			"\tli.nav-item",
+			"\t\ta.nav-link.active(href='#') ${1:Item 1}",
+			"\tli.nav-item",
+			"\t\ta.nav-link.disabled(href='#', tabindex='-1', aria-disabled='true') ${2:Item 2}"
+		]
+	},
+	"b-pagination": {
+		"prefix": "b-pagination",
+		"body": [
+			"nav(aria-label='${1:Page navigation}')",
+			"\tul.pagination",
+			"\t\tli.page-item.active(aria-current='page')",
+			"\t\t\ta.page-link(href='#')",
+			"\t\t\t\t| ${2:Page 1} ",
+			"\t\t\t\tspan.sr-only (current)",
+			"\t\tli.page-item.disabled",
+			"\t\t\ta.page-link(href='#', tabindex='-1', aria-disabled='true') ${3:Page 2}",
+			"\t\tli.page-item",
+			"\t\t\ta.page-link(href='#') ${4:Page 3}"
+		]
+	},
+	"b-popover-title": {
+		"prefix": "b-popover-title",
+		"body": [
+			"button.btn.btn-${1|primary,secondary,success,danger,warning,info,light,dark,link|}(type='${2|button,submit,reset|}', data-toggle='popover', data-placement='${3|top,bottom,right,left|}', data-trigger='focus', title='${4:Title}', data-content='${5:Content}') ${6:Text}"
+		]
+	},
+	"b-popover": {
+		"prefix": "b-popover",
+		"body": [
+			"button.btn.btn-${1|primary,secondary,success,danger,warning,info,light,dark,link|}(type='${2|button,submit,reset|}', data-toggle='popover', data-placement='${3|top,bottom,right,left|}', data-trigger='focus', data-content='${5:Content}') ${6:Text}"
+		]
+	},
+	"b-progress-striped": {
+		"prefix": "b-progress-striped",
+		"body": [
+			".progress",
+			"\t.progress-bar.progress-bar-striped.bg-primary(style='width: ${1:25}%', role='progressbar', aria-valuenow='$1', aria-valuemin='0', aria-valuemax='100') ${2:Text}"
+		]
+	},
+	"b-progress": {
+		"prefix": "b-progress",
+		"body": [
+			".progress",
+			"\t.progress-bar.bg-primary(style='width: ${1:25}%', role='progressbar', aria-valuenow='$1', aria-valuemin='0', aria-valuemax='100') ${2:Text}"
+		]
+	},
+	"b-spinner-growing": {
+		"prefix": "b-spinner-growing",
+		"body": [
+			".spinner-grow(class='text-${1|primary,secondary,success,danger,warning,info,light,dark|}', role='status')",
+			"\tspan.sr-only ${2:Loading...}"
+		]
+	},
+	"b-spinner": {
+		"prefix": "b-spinner",
+		"body": [
+			".spinner-border(class='text-${1|primary,secondary,success,danger,warning,info,light,dark|}', role='status')",
+			"\tspan.sr-only ${2:Loading...}"
+		]
+	},
+	"b-toast": {
+		"prefix": "b-toast",
+		"body": [
+			".toast(role='alert', aria-live='assertive', aria-atomic='true')",
+			"\t.toast-header",
+			"\t\timg.rounded.mr-2(src='$1', alt='${2:Toast icon alternate text}')",
+			"\t\tstrong.mr-auto ${3:Title}",
+			"\t\tsmall ${4:Note}",
+			"\t\tbutton.ml-2.mb-1.close(type='button', data-dismiss='toast', aria-label='Close')",
+			"\t\t\tspan(aria-hidden='true') &times;",
+			"\t.toast-body",
+			"\t\t$0"
+		]
+	},
+	"b-figure": {
+		"prefix": "b-figure",
+		"body": [
+			"<figure class=\"figure\">",
+			"\t<img class=\"figure-img img-fluid\" src=\"$2\" alt=\"$3\">",
+			"\t<figcaption class=\"figure-caption\">${1:Content}</figcaption>",
+			"</figure>"
+		]
+	},
+	"b-img-fluid": {
+		"prefix": "b-img-fluid",
+		"body": [
+			"img.img-fluid(src='$1', alt='$2')"
+		]
+	},
+	"b-img-thumbnail": {
+		"prefix": "b-img-thumbnail",
+		"body": [
+			"img.img-thumbnail(src='$1', alt='$2')"
+		]
+	},
+	"b-table-footer": {
+		"prefix": "b-table-footer",
+		"body": [
+			"table.table.table-${1|light,dark|}",
+			"\ttbody",
+			"\t\ttr",
+			"\t\t\ttd $2",
+			"\ttfoot",
+			"\t\ttr",
+			"\t\t\tth #"
+		]
+	},
+	"b-table-full": {
+		"prefix": "b-table-full",
+		"body": [
+			"table.table.table-${1|light,dark|}",
+			"\tthead.thead-${2|light,dark|}",
+			"\t\ttr",
+			"\t\t\tth #",
+			"\ttbody",
+			"\t\ttr",
+			"\t\t\ttd $3",
+			"\ttfoot",
+			"\t\ttr",
+			"\t\t\tth #"
+		]
+	},
+	"b-table-header": {
+		"prefix": "b-table-header",
+		"body": [
+			"table.table.table-${1|light,dark|}",
+			"\tthead.thead-${2|light,dark|}",
+			"\t\ttr",
+			"\t\t\tth #",
+			"\ttbody",
+			"\t\ttr",
+			"\t\t\ttd $3",
+			"\t\t$0"
+		]
+	},
+	"b-table": {
+		"prefix": "b-table",
+		"body": [
+			"table.table.table-${1|light,dark|}",
+			"\ttbody",
+			"\t\ttr",
+			"\t\t\ttd $2",
+			"\t\t$0"
+		]
+	},
+	"b-abbr": {
+		"prefix": "b-abbr",
+		"body": [
+			"abbr(title='${1:Title}') ${2:Text}"
+		]
+	},
+	"b-blockquote-footer": {
+		"prefix": "b-blockquote-footer",
+		"body": [
+			"blockquote.blockquote",
+			"\tp.mb-0 ${1:Text}",
+			"\tfooter.blockquote-footer ${2:Footer}"
+		]
+	},
+	"b-blockquote": {
+		"prefix": "b-blockquote",
+		"body": [
+			"blockquote.blockquote",
+			"\tp.mb-0 ${1:Text}"
+		]
+	},
+	"b-list-inline": {
+		"prefix": "b-list-inline",
+		"body": [
+			"ul.list-inline",
+			"\tli.list-inline-item ${1:Text}"
+		]
+	},
+	"b-list-unstyled": {
+		"prefix": "b-list-unstyled",
+		"body": [
+		   "ul.list-unstyled",
+			"\tli ${1:Text}"
+		]
+	},
+	"b-clearfix": {
+		"prefix": "b-clearfix",
+		"body": [
+			".clearfix",
+			"\t.float-left",
+			"\t\t$1",
+			"\t.float-right",
+			"\t\t$0"
+		]
+	},
+	"b-embed-responsive": {
+		"prefix": "b-embed-responsive",
+		"body": [
+            ".embed-responsive.embed-responsive-${1|16by9,21by9,4by3,1by1|}",
+            "\tiframe.embed-responsive-item(src='$2')"
+		]
+	},
+	"b-flex-column-reverse": {
+		"prefix": "b-flex-column-reverse",
+		"body": [
+			".d-flex.flex-column-reverse",
+			"\t$0"
+		]
+	},
+	"b-flex-column": {
+		"prefix": "b-flex-column",
+		"body": [
+			".d-flex.flex-column",
+			"\t$0"
+		]
+	},
+	"b-flex-row-reverse": {
+		"prefix": "b-flex-row-reverse",
+		"body": [
+			".d-flex.flex-row-reverse",
+			"\t$0"
+		]
+	},
+	"b-flex-row": {
+		"prefix": "b-flex-row",
+		"body": [
+			".d-flex.flex-row",
+			"\t$0"
+		]
+	}
+}

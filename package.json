@@ -1,0 +1,34 @@
+{
+	"name": "jade-bootstrap",
+	"displayName": "Pug\\Jade Bootstrap Snippets",
+	"description": "",
+	"icon": "images/icon.png",
+	"publisher": "pack",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/realpack/vscode-jade-bootstrap"
+	},
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.32.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "jade",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"dependencies": {
+		"vsce": "^1.59.0"
+	},
+	"__metadata": {
+		"id": "de1f021a-8ed2-4a23-91cb-fe75ac6372e8",
+		"publisherDisplayName": "pack",
+		"publisherId": "764e9d87-bc36-4c96-94a5-d8dabcf419c6"
+	}
+}
