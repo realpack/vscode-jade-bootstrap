@@ -6,7 +6,7 @@
 			"\th4.alert-heading ${2:Header}",
 			"\t| ${3:Content}"
 		],
-        "description": "Alert with color choices"
+		"description": "Alert with color choices"
 	},
 	"b-alert": {
 		"prefix": "b-alert",
@@ -14,21 +14,21 @@
 			".alert.alert-${1|primary,secondary,success,danger,warning,info,light,dark|}(role='alert')",
 			"\t| ${2:Content}"
 		],
-        "description": "Alert with color choices and heading class"
+		"description": "Alert with color choices and heading class"
 	},
 	"b-badge-pill": {
 		"prefix": "b-badge-pill",
 		"body": [
 			"span.badge.badge-pill.badge-${1|primary,secondary,success,danger,warning,info,light,dark|} ${2:Text}"
 		],
-        "description": "Badge with color choices and pill class"
+		"description": "Badge with color choices and pill class"
 	},
 	"b-badge": {
 		"prefix": "b-badge",
 		"body": [
 			"span.badge.badge-${1|primary,secondary,success,danger,warning,info,light,dark|} ${2:Text}"
 		],
-        "description": "Badge with color choices"
+		"description": "Badge with color choices"
 	},
 	"b-breadcrumb": {
 		"prefix": "b-breadcrumb",
@@ -87,7 +87,7 @@
 			"\t.card-footer",
 			"\t\t${3:Footer}"
 		],
-        "description": "Card body with title, text and footer"
+		"description": "Card body with title, text and footer"
 	},
 	"b-card-full": {
 		"prefix": "b-card-full",
@@ -101,7 +101,7 @@
 			"\t.card-footer",
 			"\t\t${4:Footer}"
 		],
-        "description": "Card body with footer, title, text and header"
+		"description": "Card body with footer, title, text and header"
 	},
 	"b-card-header": {
 		"prefix": "b-card-header",
@@ -114,7 +114,7 @@
 			"\t\tp.card-text ${3:Content}",
 			"\t$0"
 		],
-        "description": "Card body with title, text and header"
+		"description": "Card body with title, text and header"
 	},
 	"b-card-img-bottom": {
 		"prefix": "b-card-img-bottom",
@@ -125,7 +125,7 @@
 			"\t\tp.card-text ${2:Content}",
 			"\timg.card-img-bottom(src='$3', alt='$4')"
 		],
-        "description": "Card body with title, text and image bottom"
+		"description": "Card body with title, text and image bottom"
 	},
 	"b-card-img-full": {
 		"prefix": "b-card-img-full",
@@ -137,7 +137,7 @@
 			"\t\tp.card-text ${4:Content}",
 			"\timg.card-img-bottom(src='$5', alt='$6')"
 		],
-        "description": "Card body with title, text and image full"
+		"description": "Card body with title, text and image full"
 	},
 	"b-card-img-overlay": {
 		"prefix": "b-card-img-overlay",
@@ -148,7 +148,7 @@
 			"\t\th5.card-title ${3:Title}",
 			"\t\tp.card-text ${4:Content}"
 		],
-        "description": "Card body with title, text and image overlay"
+		"description": "Card body with title, text and image overlay"
 	},
 	"b-card-img-top": {
 		"prefix": "b-card-img-top",
@@ -159,7 +159,7 @@
 			"\t\th5.card-title ${3:Title}",
 			"\t\tp.card-text ${4:Content}"
 		],
-        "description": "Card body with title, text and image"
+		"description": "Card body with title, text and image"
 	},
 	"b-card": {
 		"prefix": "b-card",
@@ -169,7 +169,7 @@
 			"\t\th5.card-title ${1:Title}",
 			"\t\tp.card-text ${2:Content}"
 		],
-        "description": "Card body with title and text"
+		"description": "Card body with title and text"
 	},
 	"b-carousel-controls": {
 		"prefix": "b-carousel-controls",
@@ -439,7 +439,7 @@
 			"form(method='${1|get,post|}' action='$2')",
 			"\t$0"
 		],
-        "description": "Form with methods"
+		"description": "Form with methods"
 	},
 	"b-input-hidden": {
 		"prefix": "b-input-hidden",
@@ -452,7 +452,7 @@
 		"body": [
 			"input.form-control$1(type='${2|text,number,email,password|}')"
 		],
-        "description": "Input form with types"
+		"description": "Input form with types"
 	},
 	"b-input-group-append": {
 		"prefix": "b-input-group-append",
@@ -715,7 +715,7 @@
 			"\tli.nav-item",
 			"\t\ta.nav-link.disabled(href='#', tabindex='-1', aria-disabled='true') ${2:Item 2}"
 		],
-        "description": "Vertical navbar with 2 items"
+		"description": "Vertical navbar with 2 items"
 	},
 	"b-nav": {
 		"prefix": "b-nav",
@@ -726,7 +726,7 @@
 			"\tli.nav-item",
 			"\t\ta.nav-link.disabled(href='#', tabindex='-1', aria-disabled='true') ${2:Item 2}"
 		],
-        "description": "Default navbar with 2 items"
+		"description": "Default navbar with 2 items"
 	},
 	"b-pagination": {
 		"prefix": "b-pagination",
@@ -916,8 +916,8 @@
 	"b-embed-responsive": {
 		"prefix": "b-embed-responsive",
 		"body": [
-            ".embed-responsive.embed-responsive-${1|16by9,21by9,4by3,1by1|}",
-            "\tiframe.embed-responsive-item(src='$2')"
+			".embed-responsive.embed-responsive-${1|16by9,21by9,4by3,1by1|}",
+			"\tiframe.embed-responsive-item(src='$2')"
 		]
 	},
 	"b-flex-column-reverse": {

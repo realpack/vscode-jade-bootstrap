@@ -1,14 +1,14 @@
 {
 	"name": "jade-bootstrap",
-	"displayName": "Pug\\Jade Bootstrap Snippets",
-	"description": "Bootstrap v4 Snippets with Pug\\Jade for VS Code",
+	"displayName": "Pug\\Jade Bootstrap, Font Awesome Snippets",
+	"description": "Bootstrap and Font Awesome Snippets with Pug\\Jade for VS Code",
 	"icon": "images/icon.png",
 	"publisher": "pack",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/realpack/vscode-jade-bootstrap"
 	},
-	"version": "0.1.1",
+	"version": "0.2.1",
 	"engines": {
 		"vscode": "^1.32.0"
 	},
@@ -19,7 +19,11 @@
 		"snippets": [
 			{
 				"language": "jade",
-				"path": "./snippets/snippets.json"
+				"path": "./snippets/bootstrap-v4.json"
+			},
+			{
+				"language": "jade",
+				"path": "./snippets/font-awesome-5.json"
 			}
 		]
 	},
