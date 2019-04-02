@@ -1,9 +1,9 @@
 # Bootstrap v4 Snippets with Pug\Jade for VS Code
-A pack of **99** code snippets for Bootstrap and Font Awesome toolkit.
+A pack of **99** code snippets for Bootstrap, and Font Awesome toolkit.
 
 ## Getting started
 
-To start using the snippets simply type **b-** *snippet_name* or **fa-** *snippet_name*.
+To start using the snippets simply type **b-** or **fa-** *snippet_name*.
 
 * To preview the selected snippet click `CTRL+SPACEBAR`.
 * To use the selected snippet simply click `TAB`.
