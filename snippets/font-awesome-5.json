@@ -7,4717 +7,4717 @@
 	},
 	"500px" : {
 		"prefix" : "fa-500px",
-		"body" : ".fa.fa-500px(aria-hidden='true')$0",
+		"body" : "i.fa.fa-500px(aria-hidden='true')$0",
 		"description" : "500px",
 		"scope" : ""
 	},
 	"address-book" : {
 		"prefix" : "fa-address-book",
-		"body" : ".fa.fa-address-book(aria-hidden='true')$0",
+		"body" : "i.fa.fa-address-book(aria-hidden='true')$0",
 		"description" : "address-book",
 		"scope" : ""
 	},
 	"address-book-o" : {
 		"prefix" : "fa-address-book-o",
-		"body" : ".fa.fa-address-book-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-address-book-o(aria-hidden='true')$0",
 		"description" : "address-book-o",
 		"scope" : ""
 	},
 	"address-card" : {
 		"prefix" : "fa-address-card",
-		"body" : ".fa.fa-address-card(aria-hidden='true')$0",
+		"body" : "i.fa.fa-address-card(aria-hidden='true')$0",
 		"description" : "address-card",
 		"scope" : ""
 	},
 	"address-card-o" : {
 		"prefix" : "fa-address-card-o",
-		"body" : ".fa.fa-address-card-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-address-card-o(aria-hidden='true')$0",
 		"description" : "address-card-o",
 		"scope" : ""
 	},
 	"adjust" : {
 		"prefix" : "fa-adjust",
-		"body" : ".fa.fa-adjust(aria-hidden='true')$0",
+		"body" : "i.fa.fa-adjust(aria-hidden='true')$0",
 		"description" : "adjust",
 		"scope" : ""
 	},
 	"adn" : {
 		"prefix" : "fa-adn",
-		"body" : ".fa.fa-adn(aria-hidden='true')$0",
+		"body" : "i.fa.fa-adn(aria-hidden='true')$0",
 		"description" : "adn",
 		"scope" : ""
 	},
 	"align-center" : {
 		"prefix" : "fa-align-center",
-		"body" : ".fa.fa-align-center(aria-hidden='true')$0",
+		"body" : "i.fa.fa-align-center(aria-hidden='true')$0",
 		"description" : "align-center",
 		"scope" : ""
 	},
 	"align-justify" : {
 		"prefix" : "fa-align-justify",
-		"body" : ".fa.fa-align-justify(aria-hidden='true')$0",
+		"body" : "i.fa.fa-align-justify(aria-hidden='true')$0",
 		"description" : "align-justify",
 		"scope" : ""
 	},
 	"align-left" : {
 		"prefix" : "fa-align-left",
-		"body" : ".fa.fa-align-left(aria-hidden='true')$0",
+		"body" : "i.fa.fa-align-left(aria-hidden='true')$0",
 		"description" : "align-left",
 		"scope" : ""
 	},
 	"align-right" : {
 		"prefix" : "fa-align-right",
-		"body" : ".fa.fa-align-right(aria-hidden='true')$0",
+		"body" : "i.fa.fa-align-right(aria-hidden='true')$0",
 		"description" : "align-right",
 		"scope" : ""
 	},
 	"amazon" : {
 		"prefix" : "fa-amazon",
-		"body" : ".fa.fa-amazon(aria-hidden='true')$0",
+		"body" : "i.fa.fa-amazon(aria-hidden='true')$0",
 		"description" : "amazon",
 		"scope" : ""
 	},
 	"ambulance" : {
 		"prefix" : "fa-ambulance",
-		"body" : ".fa.fa-ambulance(aria-hidden='true')$0",
+		"body" : "i.fa.fa-ambulance(aria-hidden='true')$0",
 		"description" : "ambulance",
 		"scope" : ""
 	},
 	"american-sign-language-interpreting" : {
 		"prefix" : "fa-american-sign-language-interpreting",
-		"body" : ".fa.fa-american-sign-language-interpreting(aria-hidden='true')$0",
+		"body" : "i.fa.fa-american-sign-language-interpreting(aria-hidden='true')$0",
 		"description" : "american-sign-language-interpreting",
 		"scope" : ""
 	},
 	"anchor" : {
 		"prefix" : "fa-anchor",
-		"body" : ".fa.fa-anchor(aria-hidden='true')$0",
+		"body" : "i.fa.fa-anchor(aria-hidden='true')$0",
 		"description" : "anchor",
 		"scope" : ""
 	},
 	"android" : {
 		"prefix" : "fa-android",
-		"body" : ".fa.fa-android(aria-hidden='true')$0",
+		"body" : "i.fa.fa-android(aria-hidden='true')$0",
 		"description" : "android",
 		"scope" : ""
 	},
 	"angellist" : {
 		"prefix" : "fa-angellist",
-		"body" : ".fa.fa-angellist(aria-hidden='true')$0",
+		"body" : "i.fa.fa-angellist(aria-hidden='true')$0",
 		"description" : "angellist",
 		"scope" : ""
 	},
 	"angle-double-down" : {
 		"prefix" : "fa-angle-double-down",
-		"body" : ".fa.fa-angle-double-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-angle-double-down(aria-hidden='true')$0",
 		"description" : "angle-double-down",
 		"scope" : ""
 	},
 	"angle-double-left" : {
 		"prefix" : "fa-angle-double-left",
-		"body" : ".fa.fa-angle-double-left(aria-hidden='true')$0",
+		"body" : "i.fa.fa-angle-double-left(aria-hidden='true')$0",
 		"description" : "angle-double-left",
 		"scope" : ""
 	},
 	"angle-double-right" : {
 		"prefix" : "fa-angle-double-right",
-		"body" : ".fa.fa-angle-double-right(aria-hidden='true')$0",
+		"body" : "i.fa.fa-angle-double-right(aria-hidden='true')$0",
 		"description" : "angle-double-right",
 		"scope" : ""
 	},
 	"angle-double-up" : {
 		"prefix" : "fa-angle-double-up",
-		"body" : ".fa.fa-angle-double-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-angle-double-up(aria-hidden='true')$0",
 		"description" : "angle-double-up",
 		"scope" : ""
 	},
 	"angle-down" : {
 		"prefix" : "fa-angle-down",
-		"body" : ".fa.fa-angle-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-angle-down(aria-hidden='true')$0",
 		"description" : "angle-down",
 		"scope" : ""
 	},
 	"angle-left" : {
 		"prefix" : "fa-angle-left",
-		"body" : ".fa.fa-angle-left(aria-hidden='true')$0",
+		"body" : "i.fa.fa-angle-left(aria-hidden='true')$0",
 		"description" : "angle-left",
 		"scope" : ""
 	},
 	"angle-right" : {
 		"prefix" : "fa-angle-right",
-		"body" : ".fa.fa-angle-right(aria-hidden='true')$0",
+		"body" : "i.fa.fa-angle-right(aria-hidden='true')$0",
 		"description" : "angle-right",
 		"scope" : ""
 	},
 	"angle-up" : {
 		"prefix" : "fa-angle-up",
-		"body" : ".fa.fa-angle-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-angle-up(aria-hidden='true')$0",
 		"description" : "angle-up",
 		"scope" : ""
 	},
 	"apple" : {
 		"prefix" : "fa-apple",
-		"body" : ".fa.fa-apple(aria-hidden='true')$0",
+		"body" : "i.fa.fa-apple(aria-hidden='true')$0",
 		"description" : "apple",
 		"scope" : ""
 	},
 	"archive" : {
 		"prefix" : "fa-archive",
-		"body" : ".fa.fa-archive(aria-hidden='true')$0",
+		"body" : "i.fa.fa-archive(aria-hidden='true')$0",
 		"description" : "archive",
 		"scope" : ""
 	},
 	"area-chart" : {
 		"prefix" : "fa-area-chart",
-		"body" : ".fa.fa-area-chart(aria-hidden='true')$0",
+		"body" : "i.fa.fa-area-chart(aria-hidden='true')$0",
 		"description" : "area-chart",
 		"scope" : ""
 	},
 	"arrow-circle-down" : {
 		"prefix" : "fa-arrow-circle-down",
-		"body" : ".fa.fa-arrow-circle-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrow-circle-down(aria-hidden='true')$0",
 		"description" : "arrow-circle-down",
 		"scope" : ""
 	},
 	"arrow-circle-left" : {
 		"prefix" : "fa-arrow-circle-left",
-		"body" : ".fa.fa-arrow-circle-left(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrow-circle-left(aria-hidden='true')$0",
 		"description" : "arrow-circle-left",
 		"scope" : ""
 	},
 	"arrow-circle-o-down" : {
 		"prefix" : "fa-arrow-circle-o-down",
-		"body" : ".fa.fa-arrow-circle-o-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrow-circle-o-down(aria-hidden='true')$0",
 		"description" : "arrow-circle-o-down",
 		"scope" : ""
 	},
 	"arrow-circle-o-left" : {
 		"prefix" : "fa-arrow-circle-o-left",
-		"body" : ".fa.fa-arrow-circle-o-left(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrow-circle-o-left(aria-hidden='true')$0",
 		"description" : "arrow-circle-o-left",
 		"scope" : ""
 	},
 	"arrow-circle-o-right" : {
 		"prefix" : "fa-arrow-circle-o-right",
-		"body" : ".fa.fa-arrow-circle-o-right(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrow-circle-o-right(aria-hidden='true')$0",
 		"description" : "arrow-circle-o-right",
 		"scope" : ""
 	},
 	"arrow-circle-o-up" : {
 		"prefix" : "fa-arrow-circle-o-up",
-		"body" : ".fa.fa-arrow-circle-o-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrow-circle-o-up(aria-hidden='true')$0",
 		"description" : "arrow-circle-o-up",
 		"scope" : ""
 	},
 	"arrow-circle-right" : {
 		"prefix" : "fa-arrow-circle-right",
-		"body" : ".fa.fa-arrow-circle-right(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrow-circle-right(aria-hidden='true')$0",
 		"description" : "arrow-circle-right",
 		"scope" : ""
 	},
 	"arrow-circle-up" : {
 		"prefix" : "fa-arrow-circle-up",
-		"body" : ".fa.fa-arrow-circle-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrow-circle-up(aria-hidden='true')$0",
 		"description" : "arrow-circle-up",
 		"scope" : ""
 	},
 	"arrow-down" : {
 		"prefix" : "fa-arrow-down",
-		"body" : ".fa.fa-arrow-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrow-down(aria-hidden='true')$0",
 		"description" : "arrow-down",
 		"scope" : ""
 	},
 	"arrow-left" : {
 		"prefix" : "fa-arrow-left",
-		"body" : ".fa.fa-arrow-left(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrow-left(aria-hidden='true')$0",
 		"description" : "arrow-left",
 		"scope" : ""
 	},
 	"arrow-right" : {
 		"prefix" : "fa-arrow-right",
-		"body" : ".fa.fa-arrow-right(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrow-right(aria-hidden='true')$0",
 		"description" : "arrow-right",
 		"scope" : ""
 	},
 	"arrows" : {
 		"prefix" : "fa-arrows",
-		"body" : ".fa.fa-arrows(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrows(aria-hidden='true')$0",
 		"description" : "arrows",
 		"scope" : ""
 	},
 	"arrows-alt" : {
 		"prefix" : "fa-arrows-alt",
-		"body" : ".fa.fa-arrows-alt(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrows-alt(aria-hidden='true')$0",
 		"description" : "arrows-alt",
 		"scope" : ""
 	},
 	"arrows-h" : {
 		"prefix" : "fa-arrows-h",
-		"body" : ".fa.fa-arrows-h(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrows-h(aria-hidden='true')$0",
 		"description" : "arrows-h",
 		"scope" : ""
 	},
 	"arrows-v" : {
 		"prefix" : "fa-arrows-v",
-		"body" : ".fa.fa-arrows-v(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrows-v(aria-hidden='true')$0",
 		"description" : "arrows-v",
 		"scope" : ""
 	},
 	"arrow-up" : {
 		"prefix" : "fa-arrow-up",
-		"body" : ".fa.fa-arrow-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-arrow-up(aria-hidden='true')$0",
 		"description" : "arrow-up",
 		"scope" : ""
 	},
 	"asl-interpreting" : {
 		"prefix" : "fa-asl-interpreting",
-		"body" : ".fa.fa-asl-interpreting(aria-hidden='true')$0",
+		"body" : "i.fa.fa-asl-interpreting(aria-hidden='true')$0",
 		"description" : "asl-interpreting",
 		"scope" : ""
 	},
 	"assistive-listening-systems" : {
 		"prefix" : "fa-assistive-listening-systems",
-		"body" : ".fa.fa-assistive-listening-systems(aria-hidden='true')$0",
+		"body" : "i.fa.fa-assistive-listening-systems(aria-hidden='true')$0",
 		"description" : "assistive-listening-systems",
 		"scope" : ""
 	},
 	"asterisk" : {
 		"prefix" : "fa-asterisk",
-		"body" : ".fa.fa-asterisk(aria-hidden='true')$0",
+		"body" : "i.fa.fa-asterisk(aria-hidden='true')$0",
 		"description" : "asterisk",
 		"scope" : ""
 	},
 	"at" : {
 		"prefix" : "fa-at",
-		"body" : ".fa.fa-at(aria-hidden='true')$0",
+		"body" : "i.fa.fa-at(aria-hidden='true')$0",
 		"description" : "at",
 		"scope" : ""
 	},
 	"audio-description" : {
 		"prefix" : "fa-audio-description",
-		"body" : ".fa.fa-audio-description(aria-hidden='true')$0",
+		"body" : "i.fa.fa-audio-description(aria-hidden='true')$0",
 		"description" : "audio-description",
 		"scope" : ""
 	},
 	"automobile" : {
 		"prefix" : "fa-automobile",
-		"body" : ".fa.fa-automobile(aria-hidden='true')$0",
+		"body" : "i.fa.fa-automobile(aria-hidden='true')$0",
 		"description" : "automobile",
 		"scope" : ""
 	},
 	"backward" : {
 		"prefix" : "fa-backward",
-		"body" : ".fa.fa-backward(aria-hidden='true')$0",
+		"body" : "i.fa.fa-backward(aria-hidden='true')$0",
 		"description" : "backward",
 		"scope" : ""
 	},
 	"balance-scale" : {
 		"prefix" : "fa-balance-scale",
-		"body" : ".fa.fa-balance-scale(aria-hidden='true')$0",
+		"body" : "i.fa.fa-balance-scale(aria-hidden='true')$0",
 		"description" : "balance-scale",
 		"scope" : ""
 	},
 	"ban" : {
 		"prefix" : "fa-ban",
-		"body" : ".fa.fa-ban(aria-hidden='true')$0",
+		"body" : "i.fa.fa-ban(aria-hidden='true')$0",
 		"description" : "ban",
 		"scope" : ""
 	},
 	"bandcamp" : {
 		"prefix" : "fa-bandcamp",
-		"body" : ".fa.fa-bandcamp(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bandcamp(aria-hidden='true')$0",
 		"description" : "bandcamp",
 		"scope" : ""
 	},
 	"bank" : {
 		"prefix" : "fa-bank",
-		"body" : ".fa.fa-bank(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bank(aria-hidden='true')$0",
 		"description" : "bank",
 		"scope" : ""
 	},
 	"bar-chart" : {
 		"prefix" : "fa-bar-chart",
-		"body" : ".fa.fa-bar-chart(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bar-chart(aria-hidden='true')$0",
 		"description" : "bar-chart",
 		"scope" : ""
 	},
 	"bar-chart-o" : {
 		"prefix" : "fa-bar-chart-o",
-		"body" : ".fa.fa-bar-chart-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bar-chart-o(aria-hidden='true')$0",
 		"description" : "bar-chart-o",
 		"scope" : ""
 	},
 	"barcode" : {
 		"prefix" : "fa-barcode",
-		"body" : ".fa.fa-barcode(aria-hidden='true')$0",
+		"body" : "i.fa.fa-barcode(aria-hidden='true')$0",
 		"description" : "barcode",
 		"scope" : ""
 	},
 	"bars" : {
 		"prefix" : "fa-bars",
-		"body" : ".fa.fa-bars(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bars(aria-hidden='true')$0",
 		"description" : "bars",
 		"scope" : ""
 	},
 	"bath" : {
 		"prefix" : "fa-bath",
-		"body" : ".fa.fa-bath(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bath(aria-hidden='true')$0",
 		"description" : "bath",
 		"scope" : ""
 	},
 	"bathtub" : {
 		"prefix" : "fa-bathtub",
-		"body" : ".fa.fa-bathtub(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bathtub(aria-hidden='true')$0",
 		"description" : "bathtub",
 		"scope" : ""
 	},
 	"battery" : {
 		"prefix" : "fa-battery",
-		"body" : ".fa.fa-battery(aria-hidden='true')$0",
+		"body" : "i.fa.fa-battery(aria-hidden='true')$0",
 		"description" : "battery",
 		"scope" : ""
 	},
 	"battery-0" : {
 		"prefix" : "fa-battery-0",
-		"body" : ".fa.fa-battery-0(aria-hidden='true')$0",
+		"body" : "i.fa.fa-battery-0(aria-hidden='true')$0",
 		"description" : "battery-0",
 		"scope" : ""
 	},
 	"battery-1" : {
 		"prefix" : "fa-battery-1",
-		"body" : ".fa.fa-battery-1(aria-hidden='true')$0",
+		"body" : "i.fa.fa-battery-1(aria-hidden='true')$0",
 		"description" : "battery-1",
 		"scope" : ""
 	},
 	"battery-2" : {
 		"prefix" : "fa-battery-2",
-		"body" : ".fa.fa-battery-2(aria-hidden='true')$0",
+		"body" : "i.fa.fa-battery-2(aria-hidden='true')$0",
 		"description" : "battery-2",
 		"scope" : ""
 	},
 	"battery-3" : {
 		"prefix" : "fa-battery-3",
-		"body" : ".fa.fa-battery-3(aria-hidden='true')$0",
+		"body" : "i.fa.fa-battery-3(aria-hidden='true')$0",
 		"description" : "battery-3",
 		"scope" : ""
 	},
 	"battery-4" : {
 		"prefix" : "fa-battery-4",
-		"body" : ".fa.fa-battery-4(aria-hidden='true')$0",
+		"body" : "i.fa.fa-battery-4(aria-hidden='true')$0",
 		"description" : "battery-4",
 		"scope" : ""
 	},
 	"battery-empty" : {
 		"prefix" : "fa-battery-empty",
-		"body" : ".fa.fa-battery-empty(aria-hidden='true')$0",
+		"body" : "i.fa.fa-battery-empty(aria-hidden='true')$0",
 		"description" : "battery-empty",
 		"scope" : ""
 	},
 	"battery-full" : {
 		"prefix" : "fa-battery-full",
-		"body" : ".fa.fa-battery-full(aria-hidden='true')$0",
+		"body" : "i.fa.fa-battery-full(aria-hidden='true')$0",
 		"description" : "battery-full",
 		"scope" : ""
 	},
 	"battery-half" : {
 		"prefix" : "fa-battery-half",
-		"body" : ".fa.fa-battery-half(aria-hidden='true')$0",
+		"body" : "i.fa.fa-battery-half(aria-hidden='true')$0",
 		"description" : "battery-half",
 		"scope" : ""
 	},
 	"battery-quarter" : {
 		"prefix" : "fa-battery-quarter",
-		"body" : ".fa.fa-battery-quarter(aria-hidden='true')$0",
+		"body" : "i.fa.fa-battery-quarter(aria-hidden='true')$0",
 		"description" : "battery-quarter",
 		"scope" : ""
 	},
 	"battery-three-quarters" : {
 		"prefix" : "fa-battery-three-quarters",
-		"body" : ".fa.fa-battery-three-quarters(aria-hidden='true')$0",
+		"body" : "i.fa.fa-battery-three-quarters(aria-hidden='true')$0",
 		"description" : "battery-three-quarters",
 		"scope" : ""
 	},
 	"bed" : {
 		"prefix" : "fa-bed",
-		"body" : ".fa.fa-bed(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bed(aria-hidden='true')$0",
 		"description" : "bed",
 		"scope" : ""
 	},
 	"beer" : {
 		"prefix" : "fa-beer",
-		"body" : ".fa.fa-beer(aria-hidden='true')$0",
+		"body" : "i.fa.fa-beer(aria-hidden='true')$0",
 		"description" : "beer",
 		"scope" : ""
 	},
 	"behance" : {
 		"prefix" : "fa-behance",
-		"body" : ".fa.fa-behance(aria-hidden='true')$0",
+		"body" : "i.fa.fa-behance(aria-hidden='true')$0",
 		"description" : "behance",
 		"scope" : ""
 	},
 	"behance-square" : {
 		"prefix" : "fa-behance-square",
-		"body" : ".fa.fa-behance-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-behance-square(aria-hidden='true')$0",
 		"description" : "behance-square",
 		"scope" : ""
 	},
 	"bell" : {
 		"prefix" : "fa-bell",
-		"body" : ".fa.fa-bell(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bell(aria-hidden='true')$0",
 		"description" : "bell",
 		"scope" : ""
 	},
 	"bell-o" : {
 		"prefix" : "fa-bell-o",
-		"body" : ".fa.fa-bell-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bell-o(aria-hidden='true')$0",
 		"description" : "bell-o",
 		"scope" : ""
 	},
 	"bell-slash" : {
 		"prefix" : "fa-bell-slash",
-		"body" : ".fa.fa-bell-slash(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bell-slash(aria-hidden='true')$0",
 		"description" : "bell-slash",
 		"scope" : ""
 	},
 	"bell-slash-o" : {
 		"prefix" : "fa-bell-slash-o",
-		"body" : ".fa.fa-bell-slash-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bell-slash-o(aria-hidden='true')$0",
 		"description" : "bell-slash-o",
 		"scope" : ""
 	},
 	"bicycle" : {
 		"prefix" : "fa-bicycle",
-		"body" : ".fa.fa-bicycle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bicycle(aria-hidden='true')$0",
 		"description" : "bicycle",
 		"scope" : ""
 	},
 	"binoculars" : {
 		"prefix" : "fa-binoculars",
-		"body" : ".fa.fa-binoculars(aria-hidden='true')$0",
+		"body" : "i.fa.fa-binoculars(aria-hidden='true')$0",
 		"description" : "binoculars",
 		"scope" : ""
 	},
 	"birthday-cake" : {
 		"prefix" : "fa-birthday-cake",
-		"body" : ".fa.fa-birthday-cake(aria-hidden='true')$0",
+		"body" : "i.fa.fa-birthday-cake(aria-hidden='true')$0",
 		"description" : "birthday-cake",
 		"scope" : ""
 	},
 	"bitbucket" : {
 		"prefix" : "fa-bitbucket",
-		"body" : ".fa.fa-bitbucket(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bitbucket(aria-hidden='true')$0",
 		"description" : "bitbucket",
 		"scope" : ""
 	},
 	"bitbucket-square" : {
 		"prefix" : "fa-bitbucket-square",
-		"body" : ".fa.fa-bitbucket-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bitbucket-square(aria-hidden='true')$0",
 		"description" : "bitbucket-square",
 		"scope" : ""
 	},
 	"bitcoin" : {
 		"prefix" : "fa-bitcoin",
-		"body" : ".fa.fa-bitcoin(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bitcoin(aria-hidden='true')$0",
 		"description" : "bitcoin",
 		"scope" : ""
 	},
 	"black-tie" : {
 		"prefix" : "fa-black-tie",
-		"body" : ".fa.fa-black-tie(aria-hidden='true')$0",
+		"body" : "i.fa.fa-black-tie(aria-hidden='true')$0",
 		"description" : "black-tie",
 		"scope" : ""
 	},
 	"blind" : {
 		"prefix" : "fa-blind",
-		"body" : ".fa.fa-blind(aria-hidden='true')$0",
+		"body" : "i.fa.fa-blind(aria-hidden='true')$0",
 		"description" : "blind",
 		"scope" : ""
 	},
 	"bluetooth" : {
 		"prefix" : "fa-bluetooth",
-		"body" : ".fa.fa-bluetooth(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bluetooth(aria-hidden='true')$0",
 		"description" : "bluetooth",
 		"scope" : ""
 	},
 	"bluetooth-b" : {
 		"prefix" : "fa-bluetooth-b",
-		"body" : ".fa.fa-bluetooth-b(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bluetooth-b(aria-hidden='true')$0",
 		"description" : "bluetooth-b",
 		"scope" : ""
 	},
 	"bold" : {
 		"prefix" : "fa-bold",
-		"body" : ".fa.fa-bold(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bold(aria-hidden='true')$0",
 		"description" : "bold",
 		"scope" : ""
 	},
 	"bolt" : {
 		"prefix" : "fa-bolt",
-		"body" : ".fa.fa-bolt(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bolt(aria-hidden='true')$0",
 		"description" : "bolt",
 		"scope" : ""
 	},
 	"bomb" : {
 		"prefix" : "fa-bomb",
-		"body" : ".fa.fa-bomb(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bomb(aria-hidden='true')$0",
 		"description" : "bomb",
 		"scope" : ""
 	},
 	"book" : {
 		"prefix" : "fa-book",
-		"body" : ".fa.fa-book(aria-hidden='true')$0",
+		"body" : "i.fa.fa-book(aria-hidden='true')$0",
 		"description" : "book",
 		"scope" : ""
 	},
 	"bookmark" : {
 		"prefix" : "fa-bookmark",
-		"body" : ".fa.fa-bookmark(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bookmark(aria-hidden='true')$0",
 		"description" : "bookmark",
 		"scope" : ""
 	},
 	"bookmark-o" : {
 		"prefix" : "fa-bookmark-o",
-		"body" : ".fa.fa-bookmark-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bookmark-o(aria-hidden='true')$0",
 		"description" : "bookmark-o",
 		"scope" : ""
 	},
 	"braille" : {
 		"prefix" : "fa-braille",
-		"body" : ".fa.fa-braille(aria-hidden='true')$0",
+		"body" : "i.fa.fa-braille(aria-hidden='true')$0",
 		"description" : "braille",
 		"scope" : ""
 	},
 	"briefcase" : {
 		"prefix" : "fa-briefcase",
-		"body" : ".fa.fa-briefcase(aria-hidden='true')$0",
+		"body" : "i.fa.fa-briefcase(aria-hidden='true')$0",
 		"description" : "briefcase",
 		"scope" : ""
 	},
 	"btc" : {
 		"prefix" : "fa-btc",
-		"body" : ".fa.fa-btc(aria-hidden='true')$0",
+		"body" : "i.fa.fa-btc(aria-hidden='true')$0",
 		"description" : "btc",
 		"scope" : ""
 	},
 	"bug" : {
 		"prefix" : "fa-bug",
-		"body" : ".fa.fa-bug(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bug(aria-hidden='true')$0",
 		"description" : "bug",
 		"scope" : ""
 	},
 	"building" : {
 		"prefix" : "fa-building",
-		"body" : ".fa.fa-building(aria-hidden='true')$0",
+		"body" : "i.fa.fa-building(aria-hidden='true')$0",
 		"description" : "building",
 		"scope" : ""
 	},
 	"building-o" : {
 		"prefix" : "fa-building-o",
-		"body" : ".fa.fa-building-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-building-o(aria-hidden='true')$0",
 		"description" : "building-o",
 		"scope" : ""
 	},
 	"bullhorn" : {
 		"prefix" : "fa-bullhorn",
-		"body" : ".fa.fa-bullhorn(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bullhorn(aria-hidden='true')$0",
 		"description" : "bullhorn",
 		"scope" : ""
 	},
 	"bullseye" : {
 		"prefix" : "fa-bullseye",
-		"body" : ".fa.fa-bullseye(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bullseye(aria-hidden='true')$0",
 		"description" : "bullseye",
 		"scope" : ""
 	},
 	"bus" : {
 		"prefix" : "fa-bus",
-		"body" : ".fa.fa-bus(aria-hidden='true')$0",
+		"body" : "i.fa.fa-bus(aria-hidden='true')$0",
 		"description" : "bus",
 		"scope" : ""
 	},
 	"buysellads" : {
 		"prefix" : "fa-buysellads",
-		"body" : ".fa.fa-buysellads(aria-hidden='true')$0",
+		"body" : "i.fa.fa-buysellads(aria-hidden='true')$0",
 		"description" : "buysellads",
 		"scope" : ""
 	},
 	"cab" : {
 		"prefix" : "fa-cab",
-		"body" : ".fa.fa-cab(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cab(aria-hidden='true')$0",
 		"description" : "cab",
 		"scope" : ""
 	},
 	"calculator" : {
 		"prefix" : "fa-calculator",
-		"body" : ".fa.fa-calculator(aria-hidden='true')$0",
+		"body" : "i.fa.fa-calculator(aria-hidden='true')$0",
 		"description" : "calculator",
 		"scope" : ""
 	},
 	"calendar" : {
 		"prefix" : "fa-calendar",
-		"body" : ".fa.fa-calendar(aria-hidden='true')$0",
+		"body" : "i.fa.fa-calendar(aria-hidden='true')$0",
 		"description" : "calendar",
 		"scope" : ""
 	},
 	"calendar-check-o" : {
 		"prefix" : "fa-calendar-check-o",
-		"body" : ".fa.fa-calendar-check-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-calendar-check-o(aria-hidden='true')$0",
 		"description" : "calendar-check-o",
 		"scope" : ""
 	},
 	"calendar-minus-o" : {
 		"prefix" : "fa-calendar-minus-o",
-		"body" : ".fa.fa-calendar-minus-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-calendar-minus-o(aria-hidden='true')$0",
 		"description" : "calendar-minus-o",
 		"scope" : ""
 	},
 	"calendar-o" : {
 		"prefix" : "fa-calendar-o",
-		"body" : ".fa.fa-calendar-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-calendar-o(aria-hidden='true')$0",
 		"description" : "calendar-o",
 		"scope" : ""
 	},
 	"calendar-plus-o" : {
 		"prefix" : "fa-calendar-plus-o",
-		"body" : ".fa.fa-calendar-plus-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-calendar-plus-o(aria-hidden='true')$0",
 		"description" : "calendar-plus-o",
 		"scope" : ""
 	},
 	"calendar-times-o" : {
 		"prefix" : "fa-calendar-times-o",
-		"body" : ".fa.fa-calendar-times-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-calendar-times-o(aria-hidden='true')$0",
 		"description" : "calendar-times-o",
 		"scope" : ""
 	},
 	"camera" : {
 		"prefix" : "fa-camera",
-		"body" : ".fa.fa-camera(aria-hidden='true')$0",
+		"body" : "i.fa.fa-camera(aria-hidden='true')$0",
 		"description" : "camera",
 		"scope" : ""
 	},
 	"camera-retro" : {
 		"prefix" : "fa-camera-retro",
-		"body" : ".fa.fa-camera-retro(aria-hidden='true')$0",
+		"body" : "i.fa.fa-camera-retro(aria-hidden='true')$0",
 		"description" : "camera-retro",
 		"scope" : ""
 	},
 	"car" : {
 		"prefix" : "fa-car",
-		"body" : ".fa.fa-car(aria-hidden='true')$0",
+		"body" : "i.fa.fa-car(aria-hidden='true')$0",
 		"description" : "car",
 		"scope" : ""
 	},
 	"caret-down" : {
 		"prefix" : "fa-caret-down",
-		"body" : ".fa.fa-caret-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-caret-down(aria-hidden='true')$0",
 		"description" : "caret-down",
 		"scope" : ""
 	},
 	"caret-left" : {
 		"prefix" : "fa-caret-left",
-		"body" : ".fa.fa-caret-left(aria-hidden='true')$0",
+		"body" : "i.fa.fa-caret-left(aria-hidden='true')$0",
 		"description" : "caret-left",
 		"scope" : ""
 	},
 	"caret-right" : {
 		"prefix" : "fa-caret-right",
-		"body" : ".fa.fa-caret-right(aria-hidden='true')$0",
+		"body" : "i.fa.fa-caret-right(aria-hidden='true')$0",
 		"description" : "caret-right",
 		"scope" : ""
 	},
 	"caret-square-o-down" : {
 		"prefix" : "fa-caret-square-o-down",
-		"body" : ".fa.fa-caret-square-o-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-caret-square-o-down(aria-hidden='true')$0",
 		"description" : "caret-square-o-down",
 		"scope" : ""
 	},
 	"caret-square-o-left" : {
 		"prefix" : "fa-caret-square-o-left",
-		"body" : ".fa.fa-caret-square-o-left(aria-hidden='true')$0",
+		"body" : "i.fa.fa-caret-square-o-left(aria-hidden='true')$0",
 		"description" : "caret-square-o-left",
 		"scope" : ""
 	},
 	"caret-square-o-right" : {
 		"prefix" : "fa-caret-square-o-right",
-		"body" : ".fa.fa-caret-square-o-right(aria-hidden='true')$0",
+		"body" : "i.fa.fa-caret-square-o-right(aria-hidden='true')$0",
 		"description" : "caret-square-o-right",
 		"scope" : ""
 	},
 	"caret-square-o-up" : {
 		"prefix" : "fa-caret-square-o-up",
-		"body" : ".fa.fa-caret-square-o-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-caret-square-o-up(aria-hidden='true')$0",
 		"description" : "caret-square-o-up",
 		"scope" : ""
 	},
 	"caret-up" : {
 		"prefix" : "fa-caret-up",
-		"body" : ".fa.fa-caret-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-caret-up(aria-hidden='true')$0",
 		"description" : "caret-up",
 		"scope" : ""
 	},
 	"cart-arrow-down" : {
 		"prefix" : "fa-cart-arrow-down",
-		"body" : ".fa.fa-cart-arrow-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cart-arrow-down(aria-hidden='true')$0",
 		"description" : "cart-arrow-down",
 		"scope" : ""
 	},
 	"cart-plus" : {
 		"prefix" : "fa-cart-plus",
-		"body" : ".fa.fa-cart-plus(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cart-plus(aria-hidden='true')$0",
 		"description" : "cart-plus",
 		"scope" : ""
 	},
 	"cc" : {
 		"prefix" : "fa-cc",
-		"body" : ".fa.fa-cc(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cc(aria-hidden='true')$0",
 		"description" : "cc",
 		"scope" : ""
 	},
 	"cc-amex" : {
 		"prefix" : "fa-cc-amex",
-		"body" : ".fa.fa-cc-amex(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cc-amex(aria-hidden='true')$0",
 		"description" : "cc-amex",
 		"scope" : ""
 	},
 	"cc-diners-club" : {
 		"prefix" : "fa-cc-diners-club",
-		"body" : ".fa.fa-cc-diners-club(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cc-diners-club(aria-hidden='true')$0",
 		"description" : "cc-diners-club",
 		"scope" : ""
 	},
 	"cc-discover" : {
 		"prefix" : "fa-cc-discover",
-		"body" : ".fa.fa-cc-discover(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cc-discover(aria-hidden='true')$0",
 		"description" : "cc-discover",
 		"scope" : ""
 	},
 	"cc-jcb" : {
 		"prefix" : "fa-cc-jcb",
-		"body" : ".fa.fa-cc-jcb(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cc-jcb(aria-hidden='true')$0",
 		"description" : "cc-jcb",
 		"scope" : ""
 	},
 	"cc-mastercard" : {
 		"prefix" : "fa-cc-mastercard",
-		"body" : ".fa.fa-cc-mastercard(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cc-mastercard(aria-hidden='true')$0",
 		"description" : "cc-mastercard",
 		"scope" : ""
 	},
 	"cc-paypal" : {
 		"prefix" : "fa-cc-paypal",
-		"body" : ".fa.fa-cc-paypal(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cc-paypal(aria-hidden='true')$0",
 		"description" : "cc-paypal",
 		"scope" : ""
 	},
 	"cc-stripe" : {
 		"prefix" : "fa-cc-stripe",
-		"body" : ".fa.fa-cc-stripe(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cc-stripe(aria-hidden='true')$0",
 		"description" : "cc-stripe",
 		"scope" : ""
 	},
 	"cc-visa" : {
 		"prefix" : "fa-cc-visa",
-		"body" : ".fa.fa-cc-visa(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cc-visa(aria-hidden='true')$0",
 		"description" : "cc-visa",
 		"scope" : ""
 	},
 	"certificate" : {
 		"prefix" : "fa-certificate",
-		"body" : ".fa.fa-certificate(aria-hidden='true')$0",
+		"body" : "i.fa.fa-certificate(aria-hidden='true')$0",
 		"description" : "certificate",
 		"scope" : ""
 	},
 	"chain" : {
 		"prefix" : "fa-chain",
-		"body" : ".fa.fa-chain(aria-hidden='true')$0",
+		"body" : "i.fa.fa-chain(aria-hidden='true')$0",
 		"description" : "chain",
 		"scope" : ""
 	},
 	"chain-broken" : {
 		"prefix" : "fa-chain-broken",
-		"body" : ".fa.fa-chain-broken(aria-hidden='true')$0",
+		"body" : "i.fa.fa-chain-broken(aria-hidden='true')$0",
 		"description" : "chain-broken",
 		"scope" : ""
 	},
 	"check" : {
 		"prefix" : "fa-check",
-		"body" : ".fa.fa-check(aria-hidden='true')$0",
+		"body" : "i.fa.fa-check(aria-hidden='true')$0",
 		"description" : "check",
 		"scope" : ""
 	},
 	"check-circle" : {
 		"prefix" : "fa-check-circle",
-		"body" : ".fa.fa-check-circle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-check-circle(aria-hidden='true')$0",
 		"description" : "check-circle",
 		"scope" : ""
 	},
 	"check-circle-o" : {
 		"prefix" : "fa-check-circle-o",
-		"body" : ".fa.fa-check-circle-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-check-circle-o(aria-hidden='true')$0",
 		"description" : "check-circle-o",
 		"scope" : ""
 	},
 	"check-square" : {
 		"prefix" : "fa-check-square",
-		"body" : ".fa.fa-check-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-check-square(aria-hidden='true')$0",
 		"description" : "check-square",
 		"scope" : ""
 	},
 	"check-square-o" : {
 		"prefix" : "fa-check-square-o",
-		"body" : ".fa.fa-check-square-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-check-square-o(aria-hidden='true')$0",
 		"description" : "check-square-o",
 		"scope" : ""
 	},
 	"chevron-circle-down" : {
 		"prefix" : "fa-chevron-circle-down",
-		"body" : ".fa.fa-chevron-circle-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-chevron-circle-down(aria-hidden='true')$0",
 		"description" : "chevron-circle-down",
 		"scope" : ""
 	},
 	"chevron-circle-left" : {
 		"prefix" : "fa-chevron-circle-left",
-		"body" : ".fa.fa-chevron-circle-left(aria-hidden='true')$0",
+		"body" : "i.fa.fa-chevron-circle-left(aria-hidden='true')$0",
 		"description" : "chevron-circle-left",
 		"scope" : ""
 	},
 	"chevron-circle-right" : {
 		"prefix" : "fa-chevron-circle-right",
-		"body" : ".fa.fa-chevron-circle-right(aria-hidden='true')$0",
+		"body" : "i.fa.fa-chevron-circle-right(aria-hidden='true')$0",
 		"description" : "chevron-circle-right",
 		"scope" : ""
 	},
 	"chevron-circle-up" : {
 		"prefix" : "fa-chevron-circle-up",
-		"body" : ".fa.fa-chevron-circle-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-chevron-circle-up(aria-hidden='true')$0",
 		"description" : "chevron-circle-up",
 		"scope" : ""
 	},
 	"chevron-down" : {
 		"prefix" : "fa-chevron-down",
-		"body" : ".fa.fa-chevron-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-chevron-down(aria-hidden='true')$0",
 		"description" : "chevron-down",
 		"scope" : ""
 	},
 	"chevron-left" : {
 		"prefix" : "fa-chevron-left",
-		"body" : ".fa.fa-chevron-left(aria-hidden='true')$0",
+		"body" : "i.fa.fa-chevron-left(aria-hidden='true')$0",
 		"description" : "chevron-left",
 		"scope" : ""
 	},
 	"chevron-right" : {
 		"prefix" : "fa-chevron-right",
-		"body" : ".fa.fa-chevron-right(aria-hidden='true')$0",
+		"body" : "i.fa.fa-chevron-right(aria-hidden='true')$0",
 		"description" : "chevron-right",
 		"scope" : ""
 	},
 	"chevron-up" : {
 		"prefix" : "fa-chevron-up",
-		"body" : ".fa.fa-chevron-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-chevron-up(aria-hidden='true')$0",
 		"description" : "chevron-up",
 		"scope" : ""
 	},
 	"child" : {
 		"prefix" : "fa-child",
-		"body" : ".fa.fa-child(aria-hidden='true')$0",
+		"body" : "i.fa.fa-child(aria-hidden='true')$0",
 		"description" : "child",
 		"scope" : ""
 	},
 	"chrome" : {
 		"prefix" : "fa-chrome",
-		"body" : ".fa.fa-chrome(aria-hidden='true')$0",
+		"body" : "i.fa.fa-chrome(aria-hidden='true')$0",
 		"description" : "chrome",
 		"scope" : ""
 	},
 	"circle" : {
 		"prefix" : "fa-circle",
-		"body" : ".fa.fa-circle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-circle(aria-hidden='true')$0",
 		"description" : "circle",
 		"scope" : ""
 	},
 	"circle-o" : {
 		"prefix" : "fa-circle-o",
-		"body" : ".fa.fa-circle-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-circle-o(aria-hidden='true')$0",
 		"description" : "circle-o",
 		"scope" : ""
 	},
 	"circle-o-notch" : {
 		"prefix" : "fa-circle-o-notch",
-		"body" : ".fa.fa-circle-o-notch(aria-hidden='true')$0",
+		"body" : "i.fa.fa-circle-o-notch(aria-hidden='true')$0",
 		"description" : "circle-o-notch",
 		"scope" : ""
 	},
 	"circle-thin" : {
 		"prefix" : "fa-circle-thin",
-		"body" : ".fa.fa-circle-thin(aria-hidden='true')$0",
+		"body" : "i.fa.fa-circle-thin(aria-hidden='true')$0",
 		"description" : "circle-thin",
 		"scope" : ""
 	},
 	"clipboard" : {
 		"prefix" : "fa-clipboard",
-		"body" : ".fa.fa-clipboard(aria-hidden='true')$0",
+		"body" : "i.fa.fa-clipboard(aria-hidden='true')$0",
 		"description" : "clipboard",
 		"scope" : ""
 	},
 	"clock-o" : {
 		"prefix" : "fa-clock-o",
-		"body" : ".fa.fa-clock-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-clock-o(aria-hidden='true')$0",
 		"description" : "clock-o",
 		"scope" : ""
 	},
 	"clone" : {
 		"prefix" : "fa-clone",
-		"body" : ".fa.fa-clone(aria-hidden='true')$0",
+		"body" : "i.fa.fa-clone(aria-hidden='true')$0",
 		"description" : "clone",
 		"scope" : ""
 	},
 	"close" : {
 		"prefix" : "fa-close",
-		"body" : ".fa.fa-close(aria-hidden='true')$0",
+		"body" : "i.fa.fa-close(aria-hidden='true')$0",
 		"description" : "close",
 		"scope" : ""
 	},
 	"cloud" : {
 		"prefix" : "fa-cloud",
-		"body" : ".fa.fa-cloud(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cloud(aria-hidden='true')$0",
 		"description" : "cloud",
 		"scope" : ""
 	},
 	"cloud-download" : {
 		"prefix" : "fa-cloud-download",
-		"body" : ".fa.fa-cloud-download(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cloud-download(aria-hidden='true')$0",
 		"description" : "cloud-download",
 		"scope" : ""
 	},
 	"cloud-upload" : {
 		"prefix" : "fa-cloud-upload",
-		"body" : ".fa.fa-cloud-upload(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cloud-upload(aria-hidden='true')$0",
 		"description" : "cloud-upload",
 		"scope" : ""
 	},
 	"cny" : {
 		"prefix" : "fa-cny",
-		"body" : ".fa.fa-cny(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cny(aria-hidden='true')$0",
 		"description" : "cny",
 		"scope" : ""
 	},
 	"code" : {
 		"prefix" : "fa-code",
-		"body" : ".fa.fa-code(aria-hidden='true')$0",
+		"body" : "i.fa.fa-code(aria-hidden='true')$0",
 		"description" : "code",
 		"scope" : ""
 	},
 	"code-fork" : {
 		"prefix" : "fa-code-fork",
-		"body" : ".fa.fa-code-fork(aria-hidden='true')$0",
+		"body" : "i.fa.fa-code-fork(aria-hidden='true')$0",
 		"description" : "code-fork",
 		"scope" : ""
 	},
 	"codepen" : {
 		"prefix" : "fa-codepen",
-		"body" : ".fa.fa-codepen(aria-hidden='true')$0",
+		"body" : "i.fa.fa-codepen(aria-hidden='true')$0",
 		"description" : "codepen",
 		"scope" : ""
 	},
 	"codiepie" : {
 		"prefix" : "fa-codiepie",
-		"body" : ".fa.fa-codiepie(aria-hidden='true')$0",
+		"body" : "i.fa.fa-codiepie(aria-hidden='true')$0",
 		"description" : "codiepie",
 		"scope" : ""
 	},
 	"coffee" : {
 		"prefix" : "fa-coffee",
-		"body" : ".fa.fa-coffee(aria-hidden='true')$0",
+		"body" : "i.fa.fa-coffee(aria-hidden='true')$0",
 		"description" : "coffee",
 		"scope" : ""
 	},
 	"cog" : {
 		"prefix" : "fa-cog",
-		"body" : ".fa.fa-cog(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cog(aria-hidden='true')$0",
 		"description" : "cog",
 		"scope" : ""
 	},
 	"cogs" : {
 		"prefix" : "fa-cogs",
-		"body" : ".fa.fa-cogs(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cogs(aria-hidden='true')$0",
 		"description" : "cogs",
 		"scope" : ""
 	},
 	"columns" : {
 		"prefix" : "fa-columns",
-		"body" : ".fa.fa-columns(aria-hidden='true')$0",
+		"body" : "i.fa.fa-columns(aria-hidden='true')$0",
 		"description" : "columns",
 		"scope" : ""
 	},
 	"comment" : {
 		"prefix" : "fa-comment",
-		"body" : ".fa.fa-comment(aria-hidden='true')$0",
+		"body" : "i.fa.fa-comment(aria-hidden='true')$0",
 		"description" : "comment",
 		"scope" : ""
 	},
 	"commenting" : {
 		"prefix" : "fa-commenting",
-		"body" : ".fa.fa-commenting(aria-hidden='true')$0",
+		"body" : "i.fa.fa-commenting(aria-hidden='true')$0",
 		"description" : "commenting",
 		"scope" : ""
 	},
 	"commenting-o" : {
 		"prefix" : "fa-commenting-o",
-		"body" : ".fa.fa-commenting-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-commenting-o(aria-hidden='true')$0",
 		"description" : "commenting-o",
 		"scope" : ""
 	},
 	"comment-o" : {
 		"prefix" : "fa-comment-o",
-		"body" : ".fa.fa-comment-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-comment-o(aria-hidden='true')$0",
 		"description" : "comment-o",
 		"scope" : ""
 	},
 	"comments" : {
 		"prefix" : "fa-comments",
-		"body" : ".fa.fa-comments(aria-hidden='true')$0",
+		"body" : "i.fa.fa-comments(aria-hidden='true')$0",
 		"description" : "comments",
 		"scope" : ""
 	},
 	"comments-o" : {
 		"prefix" : "fa-comments-o",
-		"body" : ".fa.fa-comments-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-comments-o(aria-hidden='true')$0",
 		"description" : "comments-o",
 		"scope" : ""
 	},
 	"compass" : {
 		"prefix" : "fa-compass",
-		"body" : ".fa.fa-compass(aria-hidden='true')$0",
+		"body" : "i.fa.fa-compass(aria-hidden='true')$0",
 		"description" : "compass",
 		"scope" : ""
 	},
 	"compress" : {
 		"prefix" : "fa-compress",
-		"body" : ".fa.fa-compress(aria-hidden='true')$0",
+		"body" : "i.fa.fa-compress(aria-hidden='true')$0",
 		"description" : "compress",
 		"scope" : ""
 	},
 	"connectdevelop" : {
 		"prefix" : "fa-connectdevelop",
-		"body" : ".fa.fa-connectdevelop(aria-hidden='true')$0",
+		"body" : "i.fa.fa-connectdevelop(aria-hidden='true')$0",
 		"description" : "connectdevelop",
 		"scope" : ""
 	},
 	"contao" : {
 		"prefix" : "fa-contao",
-		"body" : ".fa.fa-contao(aria-hidden='true')$0",
+		"body" : "i.fa.fa-contao(aria-hidden='true')$0",
 		"description" : "contao",
 		"scope" : ""
 	},
 	"copy" : {
 		"prefix" : "fa-copy",
-		"body" : ".fa.fa-copy(aria-hidden='true')$0",
+		"body" : "i.fa.fa-copy(aria-hidden='true')$0",
 		"description" : "copy",
 		"scope" : ""
 	},
 	"copyright" : {
 		"prefix" : "fa-copyright",
-		"body" : ".fa.fa-copyright(aria-hidden='true')$0",
+		"body" : "i.fa.fa-copyright(aria-hidden='true')$0",
 		"description" : "copyright",
 		"scope" : ""
 	},
 	"creative-commons" : {
 		"prefix" : "fa-creative-commons",
-		"body" : ".fa.fa-creative-commons(aria-hidden='true')$0",
+		"body" : "i.fa.fa-creative-commons(aria-hidden='true')$0",
 		"description" : "creative-commons",
 		"scope" : ""
 	},
 	"credit-card" : {
 		"prefix" : "fa-credit-card",
-		"body" : ".fa.fa-credit-card(aria-hidden='true')$0",
+		"body" : "i.fa.fa-credit-card(aria-hidden='true')$0",
 		"description" : "credit-card",
 		"scope" : ""
 	},
 	"credit-card-alt" : {
 		"prefix" : "fa-credit-card-alt",
-		"body" : ".fa.fa-credit-card-alt(aria-hidden='true')$0",
+		"body" : "i.fa.fa-credit-card-alt(aria-hidden='true')$0",
 		"description" : "credit-card-alt",
 		"scope" : ""
 	},
 	"crop" : {
 		"prefix" : "fa-crop",
-		"body" : ".fa.fa-crop(aria-hidden='true')$0",
+		"body" : "i.fa.fa-crop(aria-hidden='true')$0",
 		"description" : "crop",
 		"scope" : ""
 	},
 	"crosshairs" : {
 		"prefix" : "fa-crosshairs",
-		"body" : ".fa.fa-crosshairs(aria-hidden='true')$0",
+		"body" : "i.fa.fa-crosshairs(aria-hidden='true')$0",
 		"description" : "crosshairs",
 		"scope" : ""
 	},
 	"css3" : {
 		"prefix" : "fa-css3",
-		"body" : ".fa.fa-css3(aria-hidden='true')$0",
+		"body" : "i.fa.fa-css3(aria-hidden='true')$0",
 		"description" : "css3",
 		"scope" : ""
 	},
 	"cube" : {
 		"prefix" : "fa-cube",
-		"body" : ".fa.fa-cube(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cube(aria-hidden='true')$0",
 		"description" : "cube",
 		"scope" : ""
 	},
 	"cubes" : {
 		"prefix" : "fa-cubes",
-		"body" : ".fa.fa-cubes(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cubes(aria-hidden='true')$0",
 		"description" : "cubes",
 		"scope" : ""
 	},
 	"cut" : {
 		"prefix" : "fa-cut",
-		"body" : ".fa.fa-cut(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cut(aria-hidden='true')$0",
 		"description" : "cut",
 		"scope" : ""
 	},
 	"cutlery" : {
 		"prefix" : "fa-cutlery",
-		"body" : ".fa.fa-cutlery(aria-hidden='true')$0",
+		"body" : "i.fa.fa-cutlery(aria-hidden='true')$0",
 		"description" : "cutlery",
 		"scope" : ""
 	},
 	"dashboard" : {
 		"prefix" : "fa-dashboard",
-		"body" : ".fa.fa-dashboard(aria-hidden='true')$0",
+		"body" : "i.fa.fa-dashboard(aria-hidden='true')$0",
 		"description" : "dashboard",
 		"scope" : ""
 	},
 	"dashcube" : {
 		"prefix" : "fa-dashcube",
-		"body" : ".fa.fa-dashcube(aria-hidden='true')$0",
+		"body" : "i.fa.fa-dashcube(aria-hidden='true')$0",
 		"description" : "dashcube",
 		"scope" : ""
 	},
 	"database" : {
 		"prefix" : "fa-database",
-		"body" : ".fa.fa-database(aria-hidden='true')$0",
+		"body" : "i.fa.fa-database(aria-hidden='true')$0",
 		"description" : "database",
 		"scope" : ""
 	},
 	"deaf" : {
 		"prefix" : "fa-deaf",
-		"body" : ".fa.fa-deaf(aria-hidden='true')$0",
+		"body" : "i.fa.fa-deaf(aria-hidden='true')$0",
 		"description" : "deaf",
 		"scope" : ""
 	},
 	"deafness" : {
 		"prefix" : "fa-deafness",
-		"body" : ".fa.fa-deafness(aria-hidden='true')$0",
+		"body" : "i.fa.fa-deafness(aria-hidden='true')$0",
 		"description" : "deafness",
 		"scope" : ""
 	},
 	"dedent" : {
 		"prefix" : "fa-dedent",
-		"body" : ".fa.fa-dedent(aria-hidden='true')$0",
+		"body" : "i.fa.fa-dedent(aria-hidden='true')$0",
 		"description" : "dedent",
 		"scope" : ""
 	},
 	"delicious" : {
 		"prefix" : "fa-delicious",
-		"body" : ".fa.fa-delicious(aria-hidden='true')$0",
+		"body" : "i.fa.fa-delicious(aria-hidden='true')$0",
 		"description" : "delicious",
 		"scope" : ""
 	},
 	"desktop" : {
 		"prefix" : "fa-desktop",
-		"body" : ".fa.fa-desktop(aria-hidden='true')$0",
+		"body" : "i.fa.fa-desktop(aria-hidden='true')$0",
 		"description" : "desktop",
 		"scope" : ""
 	},
 	"deviantart" : {
 		"prefix" : "fa-deviantart",
-		"body" : ".fa.fa-deviantart(aria-hidden='true')$0",
+		"body" : "i.fa.fa-deviantart(aria-hidden='true')$0",
 		"description" : "deviantart",
 		"scope" : ""
 	},
 	"diamond" : {
 		"prefix" : "fa-diamond",
-		"body" : ".fa.fa-diamond(aria-hidden='true')$0",
+		"body" : "i.fa.fa-diamond(aria-hidden='true')$0",
 		"description" : "diamond",
 		"scope" : ""
 	},
 	"digg" : {
 		"prefix" : "fa-digg",
-		"body" : ".fa.fa-digg(aria-hidden='true')$0",
+		"body" : "i.fa.fa-digg(aria-hidden='true')$0",
 		"description" : "digg",
 		"scope" : ""
 	},
 	"dollar" : {
 		"prefix" : "fa-dollar",
-		"body" : ".fa.fa-dollar(aria-hidden='true')$0",
+		"body" : "i.fa.fa-dollar(aria-hidden='true')$0",
 		"description" : "dollar",
 		"scope" : ""
 	},
 	"dot-circle-o" : {
 		"prefix" : "fa-dot-circle-o",
-		"body" : ".fa.fa-dot-circle-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-dot-circle-o(aria-hidden='true')$0",
 		"description" : "dot-circle-o",
 		"scope" : ""
 	},
 	"download" : {
 		"prefix" : "fa-download",
-		"body" : ".fa.fa-download(aria-hidden='true')$0",
+		"body" : "i.fa.fa-download(aria-hidden='true')$0",
 		"description" : "download",
 		"scope" : ""
 	},
 	"dribbble" : {
 		"prefix" : "fa-dribbble",
-		"body" : ".fa.fa-dribbble(aria-hidden='true')$0",
+		"body" : "i.fa.fa-dribbble(aria-hidden='true')$0",
 		"description" : "dribbble",
 		"scope" : ""
 	},
 	"drivers-license" : {
 		"prefix" : "fa-drivers-license",
-		"body" : ".fa.fa-drivers-license(aria-hidden='true')$0",
+		"body" : "i.fa.fa-drivers-license(aria-hidden='true')$0",
 		"description" : "drivers-license",
 		"scope" : ""
 	},
 	"drivers-license-o" : {
 		"prefix" : "fa-drivers-license-o",
-		"body" : ".fa.fa-drivers-license-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-drivers-license-o(aria-hidden='true')$0",
 		"description" : "drivers-license-o",
 		"scope" : ""
 	},
 	"dropbox" : {
 		"prefix" : "fa-dropbox",
-		"body" : ".fa.fa-dropbox(aria-hidden='true')$0",
+		"body" : "i.fa.fa-dropbox(aria-hidden='true')$0",
 		"description" : "dropbox",
 		"scope" : ""
 	},
 	"drupal" : {
 		"prefix" : "fa-drupal",
-		"body" : ".fa.fa-drupal(aria-hidden='true')$0",
+		"body" : "i.fa.fa-drupal(aria-hidden='true')$0",
 		"description" : "drupal",
 		"scope" : ""
 	},
 	"edge" : {
 		"prefix" : "fa-edge",
-		"body" : ".fa.fa-edge(aria-hidden='true')$0",
+		"body" : "i.fa.fa-edge(aria-hidden='true')$0",
 		"description" : "edge",
 		"scope" : ""
 	},
 	"edit" : {
 		"prefix" : "fa-edit",
-		"body" : ".fa.fa-edit(aria-hidden='true')$0",
+		"body" : "i.fa.fa-edit(aria-hidden='true')$0",
 		"description" : "edit",
 		"scope" : ""
 	},
 	"eercast" : {
 		"prefix" : "fa-eercast",
-		"body" : ".fa.fa-eercast(aria-hidden='true')$0",
+		"body" : "i.fa.fa-eercast(aria-hidden='true')$0",
 		"description" : "eercast",
 		"scope" : ""
 	},
 	"eject" : {
 		"prefix" : "fa-eject",
-		"body" : ".fa.fa-eject(aria-hidden='true')$0",
+		"body" : "i.fa.fa-eject(aria-hidden='true')$0",
 		"description" : "eject",
 		"scope" : ""
 	},
 	"ellipsis-h" : {
 		"prefix" : "fa-ellipsis-h",
-		"body" : ".fa.fa-ellipsis-h(aria-hidden='true')$0",
+		"body" : "i.fa.fa-ellipsis-h(aria-hidden='true')$0",
 		"description" : "ellipsis-h",
 		"scope" : ""
 	},
 	"ellipsis-v" : {
 		"prefix" : "fa-ellipsis-v",
-		"body" : ".fa.fa-ellipsis-v(aria-hidden='true')$0",
+		"body" : "i.fa.fa-ellipsis-v(aria-hidden='true')$0",
 		"description" : "ellipsis-v",
 		"scope" : ""
 	},
 	"empire" : {
 		"prefix" : "fa-empire",
-		"body" : ".fa.fa-empire(aria-hidden='true')$0",
+		"body" : "i.fa.fa-empire(aria-hidden='true')$0",
 		"description" : "empire",
 		"scope" : ""
 	},
 	"envelope" : {
 		"prefix" : "fa-envelope",
-		"body" : ".fa.fa-envelope(aria-hidden='true')$0",
+		"body" : "i.fa.fa-envelope(aria-hidden='true')$0",
 		"description" : "envelope",
 		"scope" : ""
 	},
 	"envelope-o" : {
 		"prefix" : "fa-envelope-o",
-		"body" : ".fa.fa-envelope-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-envelope-o(aria-hidden='true')$0",
 		"description" : "envelope-o",
 		"scope" : ""
 	},
 	"envelope-open" : {
 		"prefix" : "fa-envelope-open",
-		"body" : ".fa.fa-envelope-open(aria-hidden='true')$0",
+		"body" : "i.fa.fa-envelope-open(aria-hidden='true')$0",
 		"description" : "envelope-open",
 		"scope" : ""
 	},
 	"envelope-open-o" : {
 		"prefix" : "fa-envelope-open-o",
-		"body" : ".fa.fa-envelope-open-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-envelope-open-o(aria-hidden='true')$0",
 		"description" : "envelope-open-o",
 		"scope" : ""
 	},
 	"envelope-square" : {
 		"prefix" : "fa-envelope-square",
-		"body" : ".fa.fa-envelope-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-envelope-square(aria-hidden='true')$0",
 		"description" : "envelope-square",
 		"scope" : ""
 	},
 	"envira" : {
 		"prefix" : "fa-envira",
-		"body" : ".fa.fa-envira(aria-hidden='true')$0",
+		"body" : "i.fa.fa-envira(aria-hidden='true')$0",
 		"description" : "envira",
 		"scope" : ""
 	},
 	"eraser" : {
 		"prefix" : "fa-eraser",
-		"body" : ".fa.fa-eraser(aria-hidden='true')$0",
+		"body" : "i.fa.fa-eraser(aria-hidden='true')$0",
 		"description" : "eraser",
 		"scope" : ""
 	},
 	"etsy" : {
 		"prefix" : "fa-etsy",
-		"body" : ".fa.fa-etsy(aria-hidden='true')$0",
+		"body" : "i.fa.fa-etsy(aria-hidden='true')$0",
 		"description" : "etsy",
 		"scope" : ""
 	},
 	"eur" : {
 		"prefix" : "fa-eur",
-		"body" : ".fa.fa-eur(aria-hidden='true')$0",
+		"body" : "i.fa.fa-eur(aria-hidden='true')$0",
 		"description" : "eur",
 		"scope" : ""
 	},
 	"euro" : {
 		"prefix" : "fa-euro",
-		"body" : ".fa.fa-euro(aria-hidden='true')$0",
+		"body" : "i.fa.fa-euro(aria-hidden='true')$0",
 		"description" : "euro",
 		"scope" : ""
 	},
 	"exchange" : {
 		"prefix" : "fa-exchange",
-		"body" : ".fa.fa-exchange(aria-hidden='true')$0",
+		"body" : "i.fa.fa-exchange(aria-hidden='true')$0",
 		"description" : "exchange",
 		"scope" : ""
 	},
 	"exclamation" : {
 		"prefix" : "fa-exclamation",
-		"body" : ".fa.fa-exclamation(aria-hidden='true')$0",
+		"body" : "i.fa.fa-exclamation(aria-hidden='true')$0",
 		"description" : "exclamation",
 		"scope" : ""
 	},
 	"exclamation-circle" : {
 		"prefix" : "fa-exclamation-circle",
-		"body" : ".fa.fa-exclamation-circle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-exclamation-circle(aria-hidden='true')$0",
 		"description" : "exclamation-circle",
 		"scope" : ""
 	},
 	"exclamation-triangle" : {
 		"prefix" : "fa-exclamation-triangle",
-		"body" : ".fa.fa-exclamation-triangle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-exclamation-triangle(aria-hidden='true')$0",
 		"description" : "exclamation-triangle",
 		"scope" : ""
 	},
 	"expand" : {
 		"prefix" : "fa-expand",
-		"body" : ".fa.fa-expand(aria-hidden='true')$0",
+		"body" : "i.fa.fa-expand(aria-hidden='true')$0",
 		"description" : "expand",
 		"scope" : ""
 	},
 	"expeditedssl" : {
 		"prefix" : "fa-expeditedssl",
-		"body" : ".fa.fa-expeditedssl(aria-hidden='true')$0",
+		"body" : "i.fa.fa-expeditedssl(aria-hidden='true')$0",
 		"description" : "expeditedssl",
 		"scope" : ""
 	},
 	"external-link" : {
 		"prefix" : "fa-external-link",
-		"body" : ".fa.fa-external-link(aria-hidden='true')$0",
+		"body" : "i.fa.fa-external-link(aria-hidden='true')$0",
 		"description" : "external-link",
 		"scope" : ""
 	},
 	"external-link-square" : {
 		"prefix" : "fa-external-link-square",
-		"body" : ".fa.fa-external-link-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-external-link-square(aria-hidden='true')$0",
 		"description" : "external-link-square",
 		"scope" : ""
 	},
 	"eye" : {
 		"prefix" : "fa-eye",
-		"body" : ".fa.fa-eye(aria-hidden='true')$0",
+		"body" : "i.fa.fa-eye(aria-hidden='true')$0",
 		"description" : "eye",
 		"scope" : ""
 	},
 	"eyedropper" : {
 		"prefix" : "fa-eyedropper",
-		"body" : ".fa.fa-eyedropper(aria-hidden='true')$0",
+		"body" : "i.fa.fa-eyedropper(aria-hidden='true')$0",
 		"description" : "eyedropper",
 		"scope" : ""
 	},
 	"eye-slash" : {
 		"prefix" : "fa-eye-slash",
-		"body" : ".fa.fa-eye-slash(aria-hidden='true')$0",
+		"body" : "i.fa.fa-eye-slash(aria-hidden='true')$0",
 		"description" : "eye-slash",
 		"scope" : ""
 	},
 	"fa" : {
 		"prefix" : "fa-fa",
-		"body" : ".fa.fa-fa(aria-hidden='true')$0",
+		"body" : "i.fa.fa-fa(aria-hidden='true')$0",
 		"description" : "fa",
 		"scope" : ""
 	},
 	"facebook" : {
 		"prefix" : "fa-facebook",
-		"body" : ".fa.fa-facebook(aria-hidden='true')$0",
+		"body" : "i.fa.fa-facebook(aria-hidden='true')$0",
 		"description" : "facebook",
 		"scope" : ""
 	},
 	"facebook-f" : {
 		"prefix" : "fa-facebook-f",
-		"body" : ".fa.fa-facebook-f(aria-hidden='true')$0",
+		"body" : "i.fa.fa-facebook-f(aria-hidden='true')$0",
 		"description" : "facebook-f",
 		"scope" : ""
 	},
 	"facebook-official" : {
 		"prefix" : "fa-facebook-official",
-		"body" : ".fa.fa-facebook-official(aria-hidden='true')$0",
+		"body" : "i.fa.fa-facebook-official(aria-hidden='true')$0",
 		"description" : "facebook-official",
 		"scope" : ""
 	},
 	"facebook-square" : {
 		"prefix" : "fa-facebook-square",
-		"body" : ".fa.fa-facebook-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-facebook-square(aria-hidden='true')$0",
 		"description" : "facebook-square",
 		"scope" : ""
 	},
 	"fast-backward" : {
 		"prefix" : "fa-fast-backward",
-		"body" : ".fa.fa-fast-backward(aria-hidden='true')$0",
+		"body" : "i.fa.fa-fast-backward(aria-hidden='true')$0",
 		"description" : "fast-backward",
 		"scope" : ""
 	},
 	"fast-forward" : {
 		"prefix" : "fa-fast-forward",
-		"body" : ".fa.fa-fast-forward(aria-hidden='true')$0",
+		"body" : "i.fa.fa-fast-forward(aria-hidden='true')$0",
 		"description" : "fast-forward",
 		"scope" : ""
 	},
 	"fax" : {
 		"prefix" : "fa-fax",
-		"body" : ".fa.fa-fax(aria-hidden='true')$0",
+		"body" : "i.fa.fa-fax(aria-hidden='true')$0",
 		"description" : "fax",
 		"scope" : ""
 	},
 	"feed" : {
 		"prefix" : "fa-feed",
-		"body" : ".fa.fa-feed(aria-hidden='true')$0",
+		"body" : "i.fa.fa-feed(aria-hidden='true')$0",
 		"description" : "feed",
 		"scope" : ""
 	},
 	"female" : {
 		"prefix" : "fa-female",
-		"body" : ".fa.fa-female(aria-hidden='true')$0",
+		"body" : "i.fa.fa-female(aria-hidden='true')$0",
 		"description" : "female",
 		"scope" : ""
 	},
 	"fighter-jet" : {
 		"prefix" : "fa-fighter-jet",
-		"body" : ".fa.fa-fighter-jet(aria-hidden='true')$0",
+		"body" : "i.fa.fa-fighter-jet(aria-hidden='true')$0",
 		"description" : "fighter-jet",
 		"scope" : ""
 	},
 	"file" : {
 		"prefix" : "fa-file",
-		"body" : ".fa.fa-file(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file(aria-hidden='true')$0",
 		"description" : "file",
 		"scope" : ""
 	},
 	"file-archive-o" : {
 		"prefix" : "fa-file-archive-o",
-		"body" : ".fa.fa-file-archive-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-archive-o(aria-hidden='true')$0",
 		"description" : "file-archive-o",
 		"scope" : ""
 	},
 	"file-audio-o" : {
 		"prefix" : "fa-file-audio-o",
-		"body" : ".fa.fa-file-audio-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-audio-o(aria-hidden='true')$0",
 		"description" : "file-audio-o",
 		"scope" : ""
 	},
 	"file-code-o" : {
 		"prefix" : "fa-file-code-o",
-		"body" : ".fa.fa-file-code-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-code-o(aria-hidden='true')$0",
 		"description" : "file-code-o",
 		"scope" : ""
 	},
 	"file-excel-o" : {
 		"prefix" : "fa-file-excel-o",
-		"body" : ".fa.fa-file-excel-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-excel-o(aria-hidden='true')$0",
 		"description" : "file-excel-o",
 		"scope" : ""
 	},
 	"file-image-o" : {
 		"prefix" : "fa-file-image-o",
-		"body" : ".fa.fa-file-image-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-image-o(aria-hidden='true')$0",
 		"description" : "file-image-o",
 		"scope" : ""
 	},
 	"file-movie-o" : {
 		"prefix" : "fa-file-movie-o",
-		"body" : ".fa.fa-file-movie-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-movie-o(aria-hidden='true')$0",
 		"description" : "file-movie-o",
 		"scope" : ""
 	},
 	"file-o" : {
 		"prefix" : "fa-file-o",
-		"body" : ".fa.fa-file-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-o(aria-hidden='true')$0",
 		"description" : "file-o",
 		"scope" : ""
 	},
 	"file-pdf-o" : {
 		"prefix" : "fa-file-pdf-o",
-		"body" : ".fa.fa-file-pdf-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-pdf-o(aria-hidden='true')$0",
 		"description" : "file-pdf-o",
 		"scope" : ""
 	},
 	"file-photo-o" : {
 		"prefix" : "fa-file-photo-o",
-		"body" : ".fa.fa-file-photo-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-photo-o(aria-hidden='true')$0",
 		"description" : "file-photo-o",
 		"scope" : ""
 	},
 	"file-picture-o" : {
 		"prefix" : "fa-file-picture-o",
-		"body" : ".fa.fa-file-picture-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-picture-o(aria-hidden='true')$0",
 		"description" : "file-picture-o",
 		"scope" : ""
 	},
 	"file-powerpoint-o" : {
 		"prefix" : "fa-file-powerpoint-o",
-		"body" : ".fa.fa-file-powerpoint-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-powerpoint-o(aria-hidden='true')$0",
 		"description" : "file-powerpoint-o",
 		"scope" : ""
 	},
 	"files-o" : {
 		"prefix" : "fa-files-o",
-		"body" : ".fa.fa-files-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-files-o(aria-hidden='true')$0",
 		"description" : "files-o",
 		"scope" : ""
 	},
 	"file-sound-o" : {
 		"prefix" : "fa-file-sound-o",
-		"body" : ".fa.fa-file-sound-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-sound-o(aria-hidden='true')$0",
 		"description" : "file-sound-o",
 		"scope" : ""
 	},
 	"file-text" : {
 		"prefix" : "fa-file-text",
-		"body" : ".fa.fa-file-text(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-text(aria-hidden='true')$0",
 		"description" : "file-text",
 		"scope" : ""
 	},
 	"file-text-o" : {
 		"prefix" : "fa-file-text-o",
-		"body" : ".fa.fa-file-text-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-text-o(aria-hidden='true')$0",
 		"description" : "file-text-o",
 		"scope" : ""
 	},
 	"file-video-o" : {
 		"prefix" : "fa-file-video-o",
-		"body" : ".fa.fa-file-video-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-video-o(aria-hidden='true')$0",
 		"description" : "file-video-o",
 		"scope" : ""
 	},
 	"file-word-o" : {
 		"prefix" : "fa-file-word-o",
-		"body" : ".fa.fa-file-word-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-word-o(aria-hidden='true')$0",
 		"description" : "file-word-o",
 		"scope" : ""
 	},
 	"file-zip-o" : {
 		"prefix" : "fa-file-zip-o",
-		"body" : ".fa.fa-file-zip-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-file-zip-o(aria-hidden='true')$0",
 		"description" : "file-zip-o",
 		"scope" : ""
 	},
 	"film" : {
 		"prefix" : "fa-film",
-		"body" : ".fa.fa-film(aria-hidden='true')$0",
+		"body" : "i.fa.fa-film(aria-hidden='true')$0",
 		"description" : "film",
 		"scope" : ""
 	},
 	"filter" : {
 		"prefix" : "fa-filter",
-		"body" : ".fa.fa-filter(aria-hidden='true')$0",
+		"body" : "i.fa.fa-filter(aria-hidden='true')$0",
 		"description" : "filter",
 		"scope" : ""
 	},
 	"fire" : {
 		"prefix" : "fa-fire",
-		"body" : ".fa.fa-fire(aria-hidden='true')$0",
+		"body" : "i.fa.fa-fire(aria-hidden='true')$0",
 		"description" : "fire",
 		"scope" : ""
 	},
 	"fire-extinguisher" : {
 		"prefix" : "fa-fire-extinguisher",
-		"body" : ".fa.fa-fire-extinguisher(aria-hidden='true')$0",
+		"body" : "i.fa.fa-fire-extinguisher(aria-hidden='true')$0",
 		"description" : "fire-extinguisher",
 		"scope" : ""
 	},
 	"firefox" : {
 		"prefix" : "fa-firefox",
-		"body" : ".fa.fa-firefox(aria-hidden='true')$0",
+		"body" : "i.fa.fa-firefox(aria-hidden='true')$0",
 		"description" : "firefox",
 		"scope" : ""
 	},
 	"first-order" : {
 		"prefix" : "fa-first-order",
-		"body" : ".fa.fa-first-order(aria-hidden='true')$0",
+		"body" : "i.fa.fa-first-order(aria-hidden='true')$0",
 		"description" : "first-order",
 		"scope" : ""
 	},
 	"flag" : {
 		"prefix" : "fa-flag",
-		"body" : ".fa.fa-flag(aria-hidden='true')$0",
+		"body" : "i.fa.fa-flag(aria-hidden='true')$0",
 		"description" : "flag",
 		"scope" : ""
 	},
 	"flag-checkered" : {
 		"prefix" : "fa-flag-checkered",
-		"body" : ".fa.fa-flag-checkered(aria-hidden='true')$0",
+		"body" : "i.fa.fa-flag-checkered(aria-hidden='true')$0",
 		"description" : "flag-checkered",
 		"scope" : ""
 	},
 	"flag-o" : {
 		"prefix" : "fa-flag-o",
-		"body" : ".fa.fa-flag-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-flag-o(aria-hidden='true')$0",
 		"description" : "flag-o",
 		"scope" : ""
 	},
 	"flash" : {
 		"prefix" : "fa-flash",
-		"body" : ".fa.fa-flash(aria-hidden='true')$0",
+		"body" : "i.fa.fa-flash(aria-hidden='true')$0",
 		"description" : "flash",
 		"scope" : ""
 	},
 	"flask" : {
 		"prefix" : "fa-flask",
-		"body" : ".fa.fa-flask(aria-hidden='true')$0",
+		"body" : "i.fa.fa-flask(aria-hidden='true')$0",
 		"description" : "flask",
 		"scope" : ""
 	},
 	"flickr" : {
 		"prefix" : "fa-flickr",
-		"body" : ".fa.fa-flickr(aria-hidden='true')$0",
+		"body" : "i.fa.fa-flickr(aria-hidden='true')$0",
 		"description" : "flickr",
 		"scope" : ""
 	},
 	"floppy-o" : {
 		"prefix" : "fa-floppy-o",
-		"body" : ".fa.fa-floppy-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-floppy-o(aria-hidden='true')$0",
 		"description" : "floppy-o",
 		"scope" : ""
 	},
 	"folder" : {
 		"prefix" : "fa-folder",
-		"body" : ".fa.fa-folder(aria-hidden='true')$0",
+		"body" : "i.fa.fa-folder(aria-hidden='true')$0",
 		"description" : "folder",
 		"scope" : ""
 	},
 	"folder-o" : {
 		"prefix" : "fa-folder-o",
-		"body" : ".fa.fa-folder-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-folder-o(aria-hidden='true')$0",
 		"description" : "folder-o",
 		"scope" : ""
 	},
 	"folder-open" : {
 		"prefix" : "fa-folder-open",
-		"body" : ".fa.fa-folder-open(aria-hidden='true')$0",
+		"body" : "i.fa.fa-folder-open(aria-hidden='true')$0",
 		"description" : "folder-open",
 		"scope" : ""
 	},
 	"folder-open-o" : {
 		"prefix" : "fa-folder-open-o",
-		"body" : ".fa.fa-folder-open-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-folder-open-o(aria-hidden='true')$0",
 		"description" : "folder-open-o",
 		"scope" : ""
 	},
 	"font" : {
 		"prefix" : "fa-font",
-		"body" : ".fa.fa-font(aria-hidden='true')$0",
+		"body" : "i.fa.fa-font(aria-hidden='true')$0",
 		"description" : "font",
 		"scope" : ""
 	},
 	"font-awesome" : {
 		"prefix" : "fa-font-awesome",
-		"body" : ".fa.fa-font-awesome(aria-hidden='true')$0",
+		"body" : "i.fa.fa-font-awesome(aria-hidden='true')$0",
 		"description" : "font-awesome",
 		"scope" : ""
 	},
 	"fonticons" : {
 		"prefix" : "fa-fonticons",
-		"body" : ".fa.fa-fonticons(aria-hidden='true')$0",
+		"body" : "i.fa.fa-fonticons(aria-hidden='true')$0",
 		"description" : "fonticons",
 		"scope" : ""
 	},
 	"fort-awesome" : {
 		"prefix" : "fa-fort-awesome",
-		"body" : ".fa.fa-fort-awesome(aria-hidden='true')$0",
+		"body" : "i.fa.fa-fort-awesome(aria-hidden='true')$0",
 		"description" : "fort-awesome",
 		"scope" : ""
 	},
 	"forumbee" : {
 		"prefix" : "fa-forumbee",
-		"body" : ".fa.fa-forumbee(aria-hidden='true')$0",
+		"body" : "i.fa.fa-forumbee(aria-hidden='true')$0",
 		"description" : "forumbee",
 		"scope" : ""
 	},
 	"forward" : {
 		"prefix" : "fa-forward",
-		"body" : ".fa.fa-forward(aria-hidden='true')$0",
+		"body" : "i.fa.fa-forward(aria-hidden='true')$0",
 		"description" : "forward",
 		"scope" : ""
 	},
 	"foursquare" : {
 		"prefix" : "fa-foursquare",
-		"body" : ".fa.fa-foursquare(aria-hidden='true')$0",
+		"body" : "i.fa.fa-foursquare(aria-hidden='true')$0",
 		"description" : "foursquare",
 		"scope" : ""
 	},
 	"free-code-camp" : {
 		"prefix" : "fa-free-code-camp",
-		"body" : ".fa.fa-free-code-camp(aria-hidden='true')$0",
+		"body" : "i.fa.fa-free-code-camp(aria-hidden='true')$0",
 		"description" : "free-code-camp",
 		"scope" : ""
 	},
 	"frown-o" : {
 		"prefix" : "fa-frown-o",
-		"body" : ".fa.fa-frown-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-frown-o(aria-hidden='true')$0",
 		"description" : "frown-o",
 		"scope" : ""
 	},
 	"futbol-o" : {
 		"prefix" : "fa-futbol-o",
-		"body" : ".fa.fa-futbol-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-futbol-o(aria-hidden='true')$0",
 		"description" : "futbol-o",
 		"scope" : ""
 	},
 	"gamepad" : {
 		"prefix" : "fa-gamepad",
-		"body" : ".fa.fa-gamepad(aria-hidden='true')$0",
+		"body" : "i.fa.fa-gamepad(aria-hidden='true')$0",
 		"description" : "gamepad",
 		"scope" : ""
 	},
 	"gavel" : {
 		"prefix" : "fa-gavel",
-		"body" : ".fa.fa-gavel(aria-hidden='true')$0",
+		"body" : "i.fa.fa-gavel(aria-hidden='true')$0",
 		"description" : "gavel",
 		"scope" : ""
 	},
 	"gbp" : {
 		"prefix" : "fa-gbp",
-		"body" : ".fa.fa-gbp(aria-hidden='true')$0",
+		"body" : "i.fa.fa-gbp(aria-hidden='true')$0",
 		"description" : "gbp",
 		"scope" : ""
 	},
 	"ge" : {
 		"prefix" : "fa-ge",
-		"body" : ".fa.fa-ge(aria-hidden='true')$0",
+		"body" : "i.fa.fa-ge(aria-hidden='true')$0",
 		"description" : "ge",
 		"scope" : ""
 	},
 	"gear" : {
 		"prefix" : "fa-gear",
-		"body" : ".fa.fa-gear(aria-hidden='true')$0",
+		"body" : "i.fa.fa-gear(aria-hidden='true')$0",
 		"description" : "gear",
 		"scope" : ""
 	},
 	"gears" : {
 		"prefix" : "fa-gears",
-		"body" : ".fa.fa-gears(aria-hidden='true')$0",
+		"body" : "i.fa.fa-gears(aria-hidden='true')$0",
 		"description" : "gears",
 		"scope" : ""
 	},
 	"genderless" : {
 		"prefix" : "fa-genderless",
-		"body" : ".fa.fa-genderless(aria-hidden='true')$0",
+		"body" : "i.fa.fa-genderless(aria-hidden='true')$0",
 		"description" : "genderless",
 		"scope" : ""
 	},
 	"get-pocket" : {
 		"prefix" : "fa-get-pocket",
-		"body" : ".fa.fa-get-pocket(aria-hidden='true')$0",
+		"body" : "i.fa.fa-get-pocket(aria-hidden='true')$0",
 		"description" : "get-pocket",
 		"scope" : ""
 	},
 	"gg" : {
 		"prefix" : "fa-gg",
-		"body" : ".fa.fa-gg(aria-hidden='true')$0",
+		"body" : "i.fa.fa-gg(aria-hidden='true')$0",
 		"description" : "gg",
 		"scope" : ""
 	},
 	"gg-circle" : {
 		"prefix" : "fa-gg-circle",
-		"body" : ".fa.fa-gg-circle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-gg-circle(aria-hidden='true')$0",
 		"description" : "gg-circle",
 		"scope" : ""
 	},
 	"gift" : {
 		"prefix" : "fa-gift",
-		"body" : ".fa.fa-gift(aria-hidden='true')$0",
+		"body" : "i.fa.fa-gift(aria-hidden='true')$0",
 		"description" : "gift",
 		"scope" : ""
 	},
 	"git" : {
 		"prefix" : "fa-git",
-		"body" : ".fa.fa-git(aria-hidden='true')$0",
+		"body" : "i.fa.fa-git(aria-hidden='true')$0",
 		"description" : "git",
 		"scope" : ""
 	},
 	"github" : {
 		"prefix" : "fa-github",
-		"body" : ".fa.fa-github(aria-hidden='true')$0",
+		"body" : "i.fa.fa-github(aria-hidden='true')$0",
 		"description" : "github",
 		"scope" : ""
 	},
 	"github-alt" : {
 		"prefix" : "fa-github-alt",
-		"body" : ".fa.fa-github-alt(aria-hidden='true')$0",
+		"body" : "i.fa.fa-github-alt(aria-hidden='true')$0",
 		"description" : "github-alt",
 		"scope" : ""
 	},
 	"github-square" : {
 		"prefix" : "fa-github-square",
-		"body" : ".fa.fa-github-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-github-square(aria-hidden='true')$0",
 		"description" : "github-square",
 		"scope" : ""
 	},
 	"gitlab" : {
 		"prefix" : "fa-gitlab",
-		"body" : ".fa.fa-gitlab(aria-hidden='true')$0",
+		"body" : "i.fa.fa-gitlab(aria-hidden='true')$0",
 		"description" : "gitlab",
 		"scope" : ""
 	},
 	"git-square" : {
 		"prefix" : "fa-git-square",
-		"body" : ".fa.fa-git-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-git-square(aria-hidden='true')$0",
 		"description" : "git-square",
 		"scope" : ""
 	},
 	"gittip" : {
 		"prefix" : "fa-gittip",
-		"body" : ".fa.fa-gittip(aria-hidden='true')$0",
+		"body" : "i.fa.fa-gittip(aria-hidden='true')$0",
 		"description" : "gittip",
 		"scope" : ""
 	},
 	"glass" : {
 		"prefix" : "fa-glass",
-		"body" : ".fa.fa-glass(aria-hidden='true')$0",
+		"body" : "i.fa.fa-glass(aria-hidden='true')$0",
 		"description" : "glass",
 		"scope" : ""
 	},
 	"glide" : {
 		"prefix" : "fa-glide",
-		"body" : ".fa.fa-glide(aria-hidden='true')$0",
+		"body" : "i.fa.fa-glide(aria-hidden='true')$0",
 		"description" : "glide",
 		"scope" : ""
 	},
 	"glide-g" : {
 		"prefix" : "fa-glide-g",
-		"body" : ".fa.fa-glide-g(aria-hidden='true')$0",
+		"body" : "i.fa.fa-glide-g(aria-hidden='true')$0",
 		"description" : "glide-g",
 		"scope" : ""
 	},
 	"globe" : {
 		"prefix" : "fa-globe",
-		"body" : ".fa.fa-globe(aria-hidden='true')$0",
+		"body" : "i.fa.fa-globe(aria-hidden='true')$0",
 		"description" : "globe",
 		"scope" : ""
 	},
 	"google" : {
 		"prefix" : "fa-google",
-		"body" : ".fa.fa-google(aria-hidden='true')$0",
+		"body" : "i.fa.fa-google(aria-hidden='true')$0",
 		"description" : "google",
 		"scope" : ""
 	},
 	"google-plus" : {
 		"prefix" : "fa-google-plus",
-		"body" : ".fa.fa-google-plus(aria-hidden='true')$0",
+		"body" : "i.fa.fa-google-plus(aria-hidden='true')$0",
 		"description" : "google-plus",
 		"scope" : ""
 	},
 	"google-plus-circle" : {
 		"prefix" : "fa-google-plus-circle",
-		"body" : ".fa.fa-google-plus-circle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-google-plus-circle(aria-hidden='true')$0",
 		"description" : "google-plus-circle",
 		"scope" : ""
 	},
 	"google-plus-official" : {
 		"prefix" : "fa-google-plus-official",
-		"body" : ".fa.fa-google-plus-official(aria-hidden='true')$0",
+		"body" : "i.fa.fa-google-plus-official(aria-hidden='true')$0",
 		"description" : "google-plus-official",
 		"scope" : ""
 	},
 	"google-plus-square" : {
 		"prefix" : "fa-google-plus-square",
-		"body" : ".fa.fa-google-plus-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-google-plus-square(aria-hidden='true')$0",
 		"description" : "google-plus-square",
 		"scope" : ""
 	},
 	"google-wallet" : {
 		"prefix" : "fa-google-wallet",
-		"body" : ".fa.fa-google-wallet(aria-hidden='true')$0",
+		"body" : "i.fa.fa-google-wallet(aria-hidden='true')$0",
 		"description" : "google-wallet",
 		"scope" : ""
 	},
 	"graduation-cap" : {
 		"prefix" : "fa-graduation-cap",
-		"body" : ".fa.fa-graduation-cap(aria-hidden='true')$0",
+		"body" : "i.fa.fa-graduation-cap(aria-hidden='true')$0",
 		"description" : "graduation-cap",
 		"scope" : ""
 	},
 	"gratipay" : {
 		"prefix" : "fa-gratipay",
-		"body" : ".fa.fa-gratipay(aria-hidden='true')$0",
+		"body" : "i.fa.fa-gratipay(aria-hidden='true')$0",
 		"description" : "gratipay",
 		"scope" : ""
 	},
 	"grav" : {
 		"prefix" : "fa-grav",
-		"body" : ".fa.fa-grav(aria-hidden='true')$0",
+		"body" : "i.fa.fa-grav(aria-hidden='true')$0",
 		"description" : "grav",
 		"scope" : ""
 	},
 	"group" : {
 		"prefix" : "fa-group",
-		"body" : ".fa.fa-group(aria-hidden='true')$0",
+		"body" : "i.fa.fa-group(aria-hidden='true')$0",
 		"description" : "group",
 		"scope" : ""
 	},
 	"hacker-news" : {
 		"prefix" : "fa-hacker-news",
-		"body" : ".fa.fa-hacker-news(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hacker-news(aria-hidden='true')$0",
 		"description" : "hacker-news",
 		"scope" : ""
 	},
 	"hand-grab-o" : {
 		"prefix" : "fa-hand-grab-o",
-		"body" : ".fa.fa-hand-grab-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hand-grab-o(aria-hidden='true')$0",
 		"description" : "hand-grab-o",
 		"scope" : ""
 	},
 	"hand-lizard-o" : {
 		"prefix" : "fa-hand-lizard-o",
-		"body" : ".fa.fa-hand-lizard-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hand-lizard-o(aria-hidden='true')$0",
 		"description" : "hand-lizard-o",
 		"scope" : ""
 	},
 	"hand-o-down" : {
 		"prefix" : "fa-hand-o-down",
-		"body" : ".fa.fa-hand-o-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hand-o-down(aria-hidden='true')$0",
 		"description" : "hand-o-down",
 		"scope" : ""
 	},
 	"hand-o-left" : {
 		"prefix" : "fa-hand-o-left",
-		"body" : ".fa.fa-hand-o-left(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hand-o-left(aria-hidden='true')$0",
 		"description" : "hand-o-left",
 		"scope" : ""
 	},
 	"hand-o-right" : {
 		"prefix" : "fa-hand-o-right",
-		"body" : ".fa.fa-hand-o-right(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hand-o-right(aria-hidden='true')$0",
 		"description" : "hand-o-right",
 		"scope" : ""
 	},
 	"hand-o-up" : {
 		"prefix" : "fa-hand-o-up",
-		"body" : ".fa.fa-hand-o-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hand-o-up(aria-hidden='true')$0",
 		"description" : "hand-o-up",
 		"scope" : ""
 	},
 	"hand-paper-o" : {
 		"prefix" : "fa-hand-paper-o",
-		"body" : ".fa.fa-hand-paper-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hand-paper-o(aria-hidden='true')$0",
 		"description" : "hand-paper-o",
 		"scope" : ""
 	},
 	"hand-peace-o" : {
 		"prefix" : "fa-hand-peace-o",
-		"body" : ".fa.fa-hand-peace-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hand-peace-o(aria-hidden='true')$0",
 		"description" : "hand-peace-o",
 		"scope" : ""
 	},
 	"hand-pointer-o" : {
 		"prefix" : "fa-hand-pointer-o",
-		"body" : ".fa.fa-hand-pointer-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hand-pointer-o(aria-hidden='true')$0",
 		"description" : "hand-pointer-o",
 		"scope" : ""
 	},
 	"hand-rock-o" : {
 		"prefix" : "fa-hand-rock-o",
-		"body" : ".fa.fa-hand-rock-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hand-rock-o(aria-hidden='true')$0",
 		"description" : "hand-rock-o",
 		"scope" : ""
 	},
 	"hand-scissors-o" : {
 		"prefix" : "fa-hand-scissors-o",
-		"body" : ".fa.fa-hand-scissors-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hand-scissors-o(aria-hidden='true')$0",
 		"description" : "hand-scissors-o",
 		"scope" : ""
 	},
 	"handshake-o" : {
 		"prefix" : "fa-handshake-o",
-		"body" : ".fa.fa-handshake-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-handshake-o(aria-hidden='true')$0",
 		"description" : "handshake-o",
 		"scope" : ""
 	},
 	"hand-spock-o" : {
 		"prefix" : "fa-hand-spock-o",
-		"body" : ".fa.fa-hand-spock-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hand-spock-o(aria-hidden='true')$0",
 		"description" : "hand-spock-o",
 		"scope" : ""
 	},
 	"hand-stop-o" : {
 		"prefix" : "fa-hand-stop-o",
-		"body" : ".fa.fa-hand-stop-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hand-stop-o(aria-hidden='true')$0",
 		"description" : "hand-stop-o",
 		"scope" : ""
 	},
 	"hard-of-hearing" : {
 		"prefix" : "fa-hard-of-hearing",
-		"body" : ".fa.fa-hard-of-hearing(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hard-of-hearing(aria-hidden='true')$0",
 		"description" : "hard-of-hearing",
 		"scope" : ""
 	},
 	"hashtag" : {
 		"prefix" : "fa-hashtag",
-		"body" : ".fa.fa-hashtag(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hashtag(aria-hidden='true')$0",
 		"description" : "hashtag",
 		"scope" : ""
 	},
 	"hdd-o" : {
 		"prefix" : "fa-hdd-o",
-		"body" : ".fa.fa-hdd-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hdd-o(aria-hidden='true')$0",
 		"description" : "hdd-o",
 		"scope" : ""
 	},
 	"header" : {
 		"prefix" : "fa-header",
-		"body" : ".fa.fa-header(aria-hidden='true')$0",
+		"body" : "i.fa.fa-header(aria-hidden='true')$0",
 		"description" : "header",
 		"scope" : ""
 	},
 	"headphones" : {
 		"prefix" : "fa-headphones",
-		"body" : ".fa.fa-headphones(aria-hidden='true')$0",
+		"body" : "i.fa.fa-headphones(aria-hidden='true')$0",
 		"description" : "headphones",
 		"scope" : ""
 	},
 	"heart" : {
 		"prefix" : "fa-heart",
-		"body" : ".fa.fa-heart(aria-hidden='true')$0",
+		"body" : "i.fa.fa-heart(aria-hidden='true')$0",
 		"description" : "heart",
 		"scope" : ""
 	},
 	"heartbeat" : {
 		"prefix" : "fa-heartbeat",
-		"body" : ".fa.fa-heartbeat(aria-hidden='true')$0",
+		"body" : "i.fa.fa-heartbeat(aria-hidden='true')$0",
 		"description" : "heartbeat",
 		"scope" : ""
 	},
 	"heart-o" : {
 		"prefix" : "fa-heart-o",
-		"body" : ".fa.fa-heart-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-heart-o(aria-hidden='true')$0",
 		"description" : "heart-o",
 		"scope" : ""
 	},
 	"history" : {
 		"prefix" : "fa-history",
-		"body" : ".fa.fa-history(aria-hidden='true')$0",
+		"body" : "i.fa.fa-history(aria-hidden='true')$0",
 		"description" : "history",
 		"scope" : ""
 	},
 	"home" : {
 		"prefix" : "fa-home",
-		"body" : ".fa.fa-home(aria-hidden='true')$0",
+		"body" : "i.fa.fa-home(aria-hidden='true')$0",
 		"description" : "home",
 		"scope" : ""
 	},
 	"hospital-o" : {
 		"prefix" : "fa-hospital-o",
-		"body" : ".fa.fa-hospital-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hospital-o(aria-hidden='true')$0",
 		"description" : "hospital-o",
 		"scope" : ""
 	},
 	"hotel" : {
 		"prefix" : "fa-hotel",
-		"body" : ".fa.fa-hotel(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hotel(aria-hidden='true')$0",
 		"description" : "hotel",
 		"scope" : ""
 	},
 	"hourglass" : {
 		"prefix" : "fa-hourglass",
-		"body" : ".fa.fa-hourglass(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hourglass(aria-hidden='true')$0",
 		"description" : "hourglass",
 		"scope" : ""
 	},
 	"hourglass-1" : {
 		"prefix" : "fa-hourglass-1",
-		"body" : ".fa.fa-hourglass-1(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hourglass-1(aria-hidden='true')$0",
 		"description" : "hourglass-1",
 		"scope" : ""
 	},
 	"hourglass-2" : {
 		"prefix" : "fa-hourglass-2",
-		"body" : ".fa.fa-hourglass-2(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hourglass-2(aria-hidden='true')$0",
 		"description" : "hourglass-2",
 		"scope" : ""
 	},
 	"hourglass-3" : {
 		"prefix" : "fa-hourglass-3",
-		"body" : ".fa.fa-hourglass-3(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hourglass-3(aria-hidden='true')$0",
 		"description" : "hourglass-3",
 		"scope" : ""
 	},
 	"hourglass-end" : {
 		"prefix" : "fa-hourglass-end",
-		"body" : ".fa.fa-hourglass-end(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hourglass-end(aria-hidden='true')$0",
 		"description" : "hourglass-end",
 		"scope" : ""
 	},
 	"hourglass-half" : {
 		"prefix" : "fa-hourglass-half",
-		"body" : ".fa.fa-hourglass-half(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hourglass-half(aria-hidden='true')$0",
 		"description" : "hourglass-half",
 		"scope" : ""
 	},
 	"hourglass-o" : {
 		"prefix" : "fa-hourglass-o",
-		"body" : ".fa.fa-hourglass-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hourglass-o(aria-hidden='true')$0",
 		"description" : "hourglass-o",
 		"scope" : ""
 	},
 	"hourglass-start" : {
 		"prefix" : "fa-hourglass-start",
-		"body" : ".fa.fa-hourglass-start(aria-hidden='true')$0",
+		"body" : "i.fa.fa-hourglass-start(aria-hidden='true')$0",
 		"description" : "hourglass-start",
 		"scope" : ""
 	},
 	"houzz" : {
 		"prefix" : "fa-houzz",
-		"body" : ".fa.fa-houzz(aria-hidden='true')$0",
+		"body" : "i.fa.fa-houzz(aria-hidden='true')$0",
 		"description" : "houzz",
 		"scope" : ""
 	},
 	"h-square" : {
 		"prefix" : "fa-h-square",
-		"body" : ".fa.fa-h-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-h-square(aria-hidden='true')$0",
 		"description" : "h-square",
 		"scope" : ""
 	},
 	"html5" : {
 		"prefix" : "fa-html5",
-		"body" : ".fa.fa-html5(aria-hidden='true')$0",
+		"body" : "i.fa.fa-html5(aria-hidden='true')$0",
 		"description" : "html5",
 		"scope" : ""
 	},
 	"i-cursor" : {
 		"prefix" : "fa-i-cursor",
-		"body" : ".fa.fa-i-cursor(aria-hidden='true')$0",
+		"body" : "i.fa.fa-i-cursor(aria-hidden='true')$0",
 		"description" : "i-cursor",
 		"scope" : ""
 	},
 	"id-badge" : {
 		"prefix" : "fa-id-badge",
-		"body" : ".fa.fa-id-badge(aria-hidden='true')$0",
+		"body" : "i.fa.fa-id-badge(aria-hidden='true')$0",
 		"description" : "id-badge",
 		"scope" : ""
 	},
 	"id-card" : {
 		"prefix" : "fa-id-card",
-		"body" : ".fa.fa-id-card(aria-hidden='true')$0",
+		"body" : "i.fa.fa-id-card(aria-hidden='true')$0",
 		"description" : "id-card",
 		"scope" : ""
 	},
 	"id-card-o" : {
 		"prefix" : "fa-id-card-o",
-		"body" : ".fa.fa-id-card-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-id-card-o(aria-hidden='true')$0",
 		"description" : "id-card-o",
 		"scope" : ""
 	},
 	"ils" : {
 		"prefix" : "fa-ils",
-		"body" : ".fa.fa-ils(aria-hidden='true')$0",
+		"body" : "i.fa.fa-ils(aria-hidden='true')$0",
 		"description" : "ils",
 		"scope" : ""
 	},
 	"image" : {
 		"prefix" : "fa-image",
-		"body" : ".fa.fa-image(aria-hidden='true')$0",
+		"body" : "i.fa.fa-image(aria-hidden='true')$0",
 		"description" : "image",
 		"scope" : ""
 	},
 	"imdb" : {
 		"prefix" : "fa-imdb",
-		"body" : ".fa.fa-imdb(aria-hidden='true')$0",
+		"body" : "i.fa.fa-imdb(aria-hidden='true')$0",
 		"description" : "imdb",
 		"scope" : ""
 	},
 	"inbox" : {
 		"prefix" : "fa-inbox",
-		"body" : ".fa.fa-inbox(aria-hidden='true')$0",
+		"body" : "i.fa.fa-inbox(aria-hidden='true')$0",
 		"description" : "inbox",
 		"scope" : ""
 	},
 	"indent" : {
 		"prefix" : "fa-indent",
-		"body" : ".fa.fa-indent(aria-hidden='true')$0",
+		"body" : "i.fa.fa-indent(aria-hidden='true')$0",
 		"description" : "indent",
 		"scope" : ""
 	},
 	"industry" : {
 		"prefix" : "fa-industry",
-		"body" : ".fa.fa-industry(aria-hidden='true')$0",
+		"body" : "i.fa.fa-industry(aria-hidden='true')$0",
 		"description" : "industry",
 		"scope" : ""
 	},
 	"info" : {
 		"prefix" : "fa-info",
-		"body" : ".fa.fa-info(aria-hidden='true')$0",
+		"body" : "i.fa.fa-info(aria-hidden='true')$0",
 		"description" : "info",
 		"scope" : ""
 	},
 	"info-circle" : {
 		"prefix" : "fa-info-circle",
-		"body" : ".fa.fa-info-circle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-info-circle(aria-hidden='true')$0",
 		"description" : "info-circle",
 		"scope" : ""
 	},
 	"inr" : {
 		"prefix" : "fa-inr",
-		"body" : ".fa.fa-inr(aria-hidden='true')$0",
+		"body" : "i.fa.fa-inr(aria-hidden='true')$0",
 		"description" : "inr",
 		"scope" : ""
 	},
 	"instagram" : {
 		"prefix" : "fa-instagram",
-		"body" : ".fa.fa-instagram(aria-hidden='true')$0",
+		"body" : "i.fa.fa-instagram(aria-hidden='true')$0",
 		"description" : "instagram",
 		"scope" : ""
 	},
 	"institution" : {
 		"prefix" : "fa-institution",
-		"body" : ".fa.fa-institution(aria-hidden='true')$0",
+		"body" : "i.fa.fa-institution(aria-hidden='true')$0",
 		"description" : "institution",
 		"scope" : ""
 	},
 	"internet-explorer" : {
 		"prefix" : "fa-internet-explorer",
-		"body" : ".fa.fa-internet-explorer(aria-hidden='true')$0",
+		"body" : "i.fa.fa-internet-explorer(aria-hidden='true')$0",
 		"description" : "internet-explorer",
 		"scope" : ""
 	},
 	"intersex" : {
 		"prefix" : "fa-intersex",
-		"body" : ".fa.fa-intersex(aria-hidden='true')$0",
+		"body" : "i.fa.fa-intersex(aria-hidden='true')$0",
 		"description" : "intersex",
 		"scope" : ""
 	},
 	"ioxhost" : {
 		"prefix" : "fa-ioxhost",
-		"body" : ".fa.fa-ioxhost(aria-hidden='true')$0",
+		"body" : "i.fa.fa-ioxhost(aria-hidden='true')$0",
 		"description" : "ioxhost",
 		"scope" : ""
 	},
 	"italic" : {
 		"prefix" : "fa-italic",
-		"body" : ".fa.fa-italic(aria-hidden='true')$0",
+		"body" : "i.fa.fa-italic(aria-hidden='true')$0",
 		"description" : "italic",
 		"scope" : ""
 	},
 	"joomla" : {
 		"prefix" : "fa-joomla",
-		"body" : ".fa.fa-joomla(aria-hidden='true')$0",
+		"body" : "i.fa.fa-joomla(aria-hidden='true')$0",
 		"description" : "joomla",
 		"scope" : ""
 	},
 	"jpy" : {
 		"prefix" : "fa-jpy",
-		"body" : ".fa.fa-jpy(aria-hidden='true')$0",
+		"body" : "i.fa.fa-jpy(aria-hidden='true')$0",
 		"description" : "jpy",
 		"scope" : ""
 	},
 	"jsfiddle" : {
 		"prefix" : "fa-jsfiddle",
-		"body" : ".fa.fa-jsfiddle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-jsfiddle(aria-hidden='true')$0",
 		"description" : "jsfiddle",
 		"scope" : ""
 	},
 	"key" : {
 		"prefix" : "fa-key",
-		"body" : ".fa.fa-key(aria-hidden='true')$0",
+		"body" : "i.fa.fa-key(aria-hidden='true')$0",
 		"description" : "key",
 		"scope" : ""
 	},
 	"keyboard-o" : {
 		"prefix" : "fa-keyboard-o",
-		"body" : ".fa.fa-keyboard-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-keyboard-o(aria-hidden='true')$0",
 		"description" : "keyboard-o",
 		"scope" : ""
 	},
 	"krw" : {
 		"prefix" : "fa-krw",
-		"body" : ".fa.fa-krw(aria-hidden='true')$0",
+		"body" : "i.fa.fa-krw(aria-hidden='true')$0",
 		"description" : "krw",
 		"scope" : ""
 	},
 	"language" : {
 		"prefix" : "fa-language",
-		"body" : ".fa.fa-language(aria-hidden='true')$0",
+		"body" : "i.fa.fa-language(aria-hidden='true')$0",
 		"description" : "language",
 		"scope" : ""
 	},
 	"laptop" : {
 		"prefix" : "fa-laptop",
-		"body" : ".fa.fa-laptop(aria-hidden='true')$0",
+		"body" : "i.fa.fa-laptop(aria-hidden='true')$0",
 		"description" : "laptop",
 		"scope" : ""
 	},
 	"lastfm" : {
 		"prefix" : "fa-lastfm",
-		"body" : ".fa.fa-lastfm(aria-hidden='true')$0",
+		"body" : "i.fa.fa-lastfm(aria-hidden='true')$0",
 		"description" : "lastfm",
 		"scope" : ""
 	},
 	"lastfm-square" : {
 		"prefix" : "fa-lastfm-square",
-		"body" : ".fa.fa-lastfm-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-lastfm-square(aria-hidden='true')$0",
 		"description" : "lastfm-square",
 		"scope" : ""
 	},
 	"leaf" : {
 		"prefix" : "fa-leaf",
-		"body" : ".fa.fa-leaf(aria-hidden='true')$0",
+		"body" : "i.fa.fa-leaf(aria-hidden='true')$0",
 		"description" : "leaf",
 		"scope" : ""
 	},
 	"leanpub" : {
 		"prefix" : "fa-leanpub",
-		"body" : ".fa.fa-leanpub(aria-hidden='true')$0",
+		"body" : "i.fa.fa-leanpub(aria-hidden='true')$0",
 		"description" : "leanpub",
 		"scope" : ""
 	},
 	"legal" : {
 		"prefix" : "fa-legal",
-		"body" : ".fa.fa-legal(aria-hidden='true')$0",
+		"body" : "i.fa.fa-legal(aria-hidden='true')$0",
 		"description" : "legal",
 		"scope" : ""
 	},
 	"lemon-o" : {
 		"prefix" : "fa-lemon-o",
-		"body" : ".fa.fa-lemon-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-lemon-o(aria-hidden='true')$0",
 		"description" : "lemon-o",
 		"scope" : ""
 	},
 	"level-down" : {
 		"prefix" : "fa-level-down",
-		"body" : ".fa.fa-level-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-level-down(aria-hidden='true')$0",
 		"description" : "level-down",
 		"scope" : ""
 	},
 	"level-up" : {
 		"prefix" : "fa-level-up",
-		"body" : ".fa.fa-level-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-level-up(aria-hidden='true')$0",
 		"description" : "level-up",
 		"scope" : ""
 	},
 	"life-bouy" : {
 		"prefix" : "fa-life-bouy",
-		"body" : ".fa.fa-life-bouy(aria-hidden='true')$0",
+		"body" : "i.fa.fa-life-bouy(aria-hidden='true')$0",
 		"description" : "life-bouy",
 		"scope" : ""
 	},
 	"life-buoy" : {
 		"prefix" : "fa-life-buoy",
-		"body" : ".fa.fa-life-buoy(aria-hidden='true')$0",
+		"body" : "i.fa.fa-life-buoy(aria-hidden='true')$0",
 		"description" : "life-buoy",
 		"scope" : ""
 	},
 	"life-ring" : {
 		"prefix" : "fa-life-ring",
-		"body" : ".fa.fa-life-ring(aria-hidden='true')$0",
+		"body" : "i.fa.fa-life-ring(aria-hidden='true')$0",
 		"description" : "life-ring",
 		"scope" : ""
 	},
 	"life-saver" : {
 		"prefix" : "fa-life-saver",
-		"body" : ".fa.fa-life-saver(aria-hidden='true')$0",
+		"body" : "i.fa.fa-life-saver(aria-hidden='true')$0",
 		"description" : "life-saver",
 		"scope" : ""
 	},
 	"lightbulb-o" : {
 		"prefix" : "fa-lightbulb-o",
-		"body" : ".fa.fa-lightbulb-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-lightbulb-o(aria-hidden='true')$0",
 		"description" : "lightbulb-o",
 		"scope" : ""
 	},
 	"line-chart" : {
 		"prefix" : "fa-line-chart",
-		"body" : ".fa.fa-line-chart(aria-hidden='true')$0",
+		"body" : "i.fa.fa-line-chart(aria-hidden='true')$0",
 		"description" : "line-chart",
 		"scope" : ""
 	},
 	"link" : {
 		"prefix" : "fa-link",
-		"body" : ".fa.fa-link(aria-hidden='true')$0",
+		"body" : "i.fa.fa-link(aria-hidden='true')$0",
 		"description" : "link",
 		"scope" : ""
 	},
 	"linkedin" : {
 		"prefix" : "fa-linkedin",
-		"body" : ".fa.fa-linkedin(aria-hidden='true')$0",
+		"body" : "i.fa.fa-linkedin(aria-hidden='true')$0",
 		"description" : "linkedin",
 		"scope" : ""
 	},
 	"linkedin-square" : {
 		"prefix" : "fa-linkedin-square",
-		"body" : ".fa.fa-linkedin-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-linkedin-square(aria-hidden='true')$0",
 		"description" : "linkedin-square",
 		"scope" : ""
 	},
 	"linode" : {
 		"prefix" : "fa-linode",
-		"body" : ".fa.fa-linode(aria-hidden='true')$0",
+		"body" : "i.fa.fa-linode(aria-hidden='true')$0",
 		"description" : "linode",
 		"scope" : ""
 	},
 	"linux" : {
 		"prefix" : "fa-linux",
-		"body" : ".fa.fa-linux(aria-hidden='true')$0",
+		"body" : "i.fa.fa-linux(aria-hidden='true')$0",
 		"description" : "linux",
 		"scope" : ""
 	},
 	"list" : {
 		"prefix" : "fa-list",
-		"body" : ".fa.fa-list(aria-hidden='true')$0",
+		"body" : "i.fa.fa-list(aria-hidden='true')$0",
 		"description" : "list",
 		"scope" : ""
 	},
 	"list-alt" : {
 		"prefix" : "fa-list-alt",
-		"body" : ".fa.fa-list-alt(aria-hidden='true')$0",
+		"body" : "i.fa.fa-list-alt(aria-hidden='true')$0",
 		"description" : "list-alt",
 		"scope" : ""
 	},
 	"list-ol" : {
 		"prefix" : "fa-list-ol",
-		"body" : ".fa.fa-list-ol(aria-hidden='true')$0",
+		"body" : "i.fa.fa-list-ol(aria-hidden='true')$0",
 		"description" : "list-ol",
 		"scope" : ""
 	},
 	"list-ul" : {
 		"prefix" : "fa-list-ul",
-		"body" : ".fa.fa-list-ul(aria-hidden='true')$0",
+		"body" : "i.fa.fa-list-ul(aria-hidden='true')$0",
 		"description" : "list-ul",
 		"scope" : ""
 	},
 	"location-arrow" : {
 		"prefix" : "fa-location-arrow",
-		"body" : ".fa.fa-location-arrow(aria-hidden='true')$0",
+		"body" : "i.fa.fa-location-arrow(aria-hidden='true')$0",
 		"description" : "location-arrow",
 		"scope" : ""
 	},
 	"lock" : {
 		"prefix" : "fa-lock",
-		"body" : ".fa.fa-lock(aria-hidden='true')$0",
+		"body" : "i.fa.fa-lock(aria-hidden='true')$0",
 		"description" : "lock",
 		"scope" : ""
 	},
 	"long-arrow-down" : {
 		"prefix" : "fa-long-arrow-down",
-		"body" : ".fa.fa-long-arrow-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-long-arrow-down(aria-hidden='true')$0",
 		"description" : "long-arrow-down",
 		"scope" : ""
 	},
 	"long-arrow-left" : {
 		"prefix" : "fa-long-arrow-left",
-		"body" : ".fa.fa-long-arrow-left(aria-hidden='true')$0",
+		"body" : "i.fa.fa-long-arrow-left(aria-hidden='true')$0",
 		"description" : "long-arrow-left",
 		"scope" : ""
 	},
 	"long-arrow-right" : {
 		"prefix" : "fa-long-arrow-right",
-		"body" : ".fa.fa-long-arrow-right(aria-hidden='true')$0",
+		"body" : "i.fa.fa-long-arrow-right(aria-hidden='true')$0",
 		"description" : "long-arrow-right",
 		"scope" : ""
 	},
 	"long-arrow-up" : {
 		"prefix" : "fa-long-arrow-up",
-		"body" : ".fa.fa-long-arrow-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-long-arrow-up(aria-hidden='true')$0",
 		"description" : "long-arrow-up",
 		"scope" : ""
 	},
 	"low-vision" : {
 		"prefix" : "fa-low-vision",
-		"body" : ".fa.fa-low-vision(aria-hidden='true')$0",
+		"body" : "i.fa.fa-low-vision(aria-hidden='true')$0",
 		"description" : "low-vision",
 		"scope" : ""
 	},
 	"magic" : {
 		"prefix" : "fa-magic",
-		"body" : ".fa.fa-magic(aria-hidden='true')$0",
+		"body" : "i.fa.fa-magic(aria-hidden='true')$0",
 		"description" : "magic",
 		"scope" : ""
 	},
 	"magnet" : {
 		"prefix" : "fa-magnet",
-		"body" : ".fa.fa-magnet(aria-hidden='true')$0",
+		"body" : "i.fa.fa-magnet(aria-hidden='true')$0",
 		"description" : "magnet",
 		"scope" : ""
 	},
 	"mail-forward" : {
 		"prefix" : "fa-mail-forward",
-		"body" : ".fa.fa-mail-forward(aria-hidden='true')$0",
+		"body" : "i.fa.fa-mail-forward(aria-hidden='true')$0",
 		"description" : "mail-forward",
 		"scope" : ""
 	},
 	"mail-reply" : {
 		"prefix" : "fa-mail-reply",
-		"body" : ".fa.fa-mail-reply(aria-hidden='true')$0",
+		"body" : "i.fa.fa-mail-reply(aria-hidden='true')$0",
 		"description" : "mail-reply",
 		"scope" : ""
 	},
 	"mail-reply-all" : {
 		"prefix" : "fa-mail-reply-all",
-		"body" : ".fa.fa-mail-reply-all(aria-hidden='true')$0",
+		"body" : "i.fa.fa-mail-reply-all(aria-hidden='true')$0",
 		"description" : "mail-reply-all",
 		"scope" : ""
 	},
 	"male" : {
 		"prefix" : "fa-male",
-		"body" : ".fa.fa-male(aria-hidden='true')$0",
+		"body" : "i.fa.fa-male(aria-hidden='true')$0",
 		"description" : "male",
 		"scope" : ""
 	},
 	"map" : {
 		"prefix" : "fa-map",
-		"body" : ".fa.fa-map(aria-hidden='true')$0",
+		"body" : "i.fa.fa-map(aria-hidden='true')$0",
 		"description" : "map",
 		"scope" : ""
 	},
 	"map-marker" : {
 		"prefix" : "fa-map-marker",
-		"body" : ".fa.fa-map-marker(aria-hidden='true')$0",
+		"body" : "i.fa.fa-map-marker(aria-hidden='true')$0",
 		"description" : "map-marker",
 		"scope" : ""
 	},
 	"map-o" : {
 		"prefix" : "fa-map-o",
-		"body" : ".fa.fa-map-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-map-o(aria-hidden='true')$0",
 		"description" : "map-o",
 		"scope" : ""
 	},
 	"map-pin" : {
 		"prefix" : "fa-map-pin",
-		"body" : ".fa.fa-map-pin(aria-hidden='true')$0",
+		"body" : "i.fa.fa-map-pin(aria-hidden='true')$0",
 		"description" : "map-pin",
 		"scope" : ""
 	},
 	"map-signs" : {
 		"prefix" : "fa-map-signs",
-		"body" : ".fa.fa-map-signs(aria-hidden='true')$0",
+		"body" : "i.fa.fa-map-signs(aria-hidden='true')$0",
 		"description" : "map-signs",
 		"scope" : ""
 	},
 	"mars" : {
 		"prefix" : "fa-mars",
-		"body" : ".fa.fa-mars(aria-hidden='true')$0",
+		"body" : "i.fa.fa-mars(aria-hidden='true')$0",
 		"description" : "mars",
 		"scope" : ""
 	},
 	"mars-double" : {
 		"prefix" : "fa-mars-double",
-		"body" : ".fa.fa-mars-double(aria-hidden='true')$0",
+		"body" : "i.fa.fa-mars-double(aria-hidden='true')$0",
 		"description" : "mars-double",
 		"scope" : ""
 	},
 	"mars-stroke" : {
 		"prefix" : "fa-mars-stroke",
-		"body" : ".fa.fa-mars-stroke(aria-hidden='true')$0",
+		"body" : "i.fa.fa-mars-stroke(aria-hidden='true')$0",
 		"description" : "mars-stroke",
 		"scope" : ""
 	},
 	"mars-stroke-h" : {
 		"prefix" : "fa-mars-stroke-h",
-		"body" : ".fa.fa-mars-stroke-h(aria-hidden='true')$0",
+		"body" : "i.fa.fa-mars-stroke-h(aria-hidden='true')$0",
 		"description" : "mars-stroke-h",
 		"scope" : ""
 	},
 	"mars-stroke-v" : {
 		"prefix" : "fa-mars-stroke-v",
-		"body" : ".fa.fa-mars-stroke-v(aria-hidden='true')$0",
+		"body" : "i.fa.fa-mars-stroke-v(aria-hidden='true')$0",
 		"description" : "mars-stroke-v",
 		"scope" : ""
 	},
 	"maxcdn" : {
 		"prefix" : "fa-maxcdn",
-		"body" : ".fa.fa-maxcdn(aria-hidden='true')$0",
+		"body" : "i.fa.fa-maxcdn(aria-hidden='true')$0",
 		"description" : "maxcdn",
 		"scope" : ""
 	},
 	"meanpath" : {
 		"prefix" : "fa-meanpath",
-		"body" : ".fa.fa-meanpath(aria-hidden='true')$0",
+		"body" : "i.fa.fa-meanpath(aria-hidden='true')$0",
 		"description" : "meanpath",
 		"scope" : ""
 	},
 	"medium" : {
 		"prefix" : "fa-medium",
-		"body" : ".fa.fa-medium(aria-hidden='true')$0",
+		"body" : "i.fa.fa-medium(aria-hidden='true')$0",
 		"description" : "medium",
 		"scope" : ""
 	},
 	"medkit" : {
 		"prefix" : "fa-medkit",
-		"body" : ".fa.fa-medkit(aria-hidden='true')$0",
+		"body" : "i.fa.fa-medkit(aria-hidden='true')$0",
 		"description" : "medkit",
 		"scope" : ""
 	},
 	"meetup" : {
 		"prefix" : "fa-meetup",
-		"body" : ".fa.fa-meetup(aria-hidden='true')$0",
+		"body" : "i.fa.fa-meetup(aria-hidden='true')$0",
 		"description" : "meetup",
 		"scope" : ""
 	},
 	"meh-o" : {
 		"prefix" : "fa-meh-o",
-		"body" : ".fa.fa-meh-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-meh-o(aria-hidden='true')$0",
 		"description" : "meh-o",
 		"scope" : ""
 	},
 	"mercury" : {
 		"prefix" : "fa-mercury",
-		"body" : ".fa.fa-mercury(aria-hidden='true')$0",
+		"body" : "i.fa.fa-mercury(aria-hidden='true')$0",
 		"description" : "mercury",
 		"scope" : ""
 	},
 	"microchip" : {
 		"prefix" : "fa-microchip",
-		"body" : ".fa.fa-microchip(aria-hidden='true')$0",
+		"body" : "i.fa.fa-microchip(aria-hidden='true')$0",
 		"description" : "microchip",
 		"scope" : ""
 	},
 	"microphone" : {
 		"prefix" : "fa-microphone",
-		"body" : ".fa.fa-microphone(aria-hidden='true')$0",
+		"body" : "i.fa.fa-microphone(aria-hidden='true')$0",
 		"description" : "microphone",
 		"scope" : ""
 	},
 	"microphone-slash" : {
 		"prefix" : "fa-microphone-slash",
-		"body" : ".fa.fa-microphone-slash(aria-hidden='true')$0",
+		"body" : "i.fa.fa-microphone-slash(aria-hidden='true')$0",
 		"description" : "microphone-slash",
 		"scope" : ""
 	},
 	"minus" : {
 		"prefix" : "fa-minus",
-		"body" : ".fa.fa-minus(aria-hidden='true')$0",
+		"body" : "i.fa.fa-minus(aria-hidden='true')$0",
 		"description" : "minus",
 		"scope" : ""
 	},
 	"minus-circle" : {
 		"prefix" : "fa-minus-circle",
-		"body" : ".fa.fa-minus-circle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-minus-circle(aria-hidden='true')$0",
 		"description" : "minus-circle",
 		"scope" : ""
 	},
 	"minus-square" : {
 		"prefix" : "fa-minus-square",
-		"body" : ".fa.fa-minus-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-minus-square(aria-hidden='true')$0",
 		"description" : "minus-square",
 		"scope" : ""
 	},
 	"minus-square-o" : {
 		"prefix" : "fa-minus-square-o",
-		"body" : ".fa.fa-minus-square-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-minus-square-o(aria-hidden='true')$0",
 		"description" : "minus-square-o",
 		"scope" : ""
 	},
 	"mixcloud" : {
 		"prefix" : "fa-mixcloud",
-		"body" : ".fa.fa-mixcloud(aria-hidden='true')$0",
+		"body" : "i.fa.fa-mixcloud(aria-hidden='true')$0",
 		"description" : "mixcloud",
 		"scope" : ""
 	},
 	"mobile" : {
 		"prefix" : "fa-mobile",
-		"body" : ".fa.fa-mobile(aria-hidden='true')$0",
+		"body" : "i.fa.fa-mobile(aria-hidden='true')$0",
 		"description" : "mobile",
 		"scope" : ""
 	},
 	"mobile-phone" : {
 		"prefix" : "fa-mobile-phone",
-		"body" : ".fa.fa-mobile-phone(aria-hidden='true')$0",
+		"body" : "i.fa.fa-mobile-phone(aria-hidden='true')$0",
 		"description" : "mobile-phone",
 		"scope" : ""
 	},
 	"modx" : {
 		"prefix" : "fa-modx",
-		"body" : ".fa.fa-modx(aria-hidden='true')$0",
+		"body" : "i.fa.fa-modx(aria-hidden='true')$0",
 		"description" : "modx",
 		"scope" : ""
 	},
 	"money" : {
 		"prefix" : "fa-money",
-		"body" : ".fa.fa-money(aria-hidden='true')$0",
+		"body" : "i.fa.fa-money(aria-hidden='true')$0",
 		"description" : "money",
 		"scope" : ""
 	},
 	"moon-o" : {
 		"prefix" : "fa-moon-o",
-		"body" : ".fa.fa-moon-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-moon-o(aria-hidden='true')$0",
 		"description" : "moon-o",
 		"scope" : ""
 	},
 	"mortar-board" : {
 		"prefix" : "fa-mortar-board",
-		"body" : ".fa.fa-mortar-board(aria-hidden='true')$0",
+		"body" : "i.fa.fa-mortar-board(aria-hidden='true')$0",
 		"description" : "mortar-board",
 		"scope" : ""
 	},
 	"motorcycle" : {
 		"prefix" : "fa-motorcycle",
-		"body" : ".fa.fa-motorcycle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-motorcycle(aria-hidden='true')$0",
 		"description" : "motorcycle",
 		"scope" : ""
 	},
 	"mouse-pointer" : {
 		"prefix" : "fa-mouse-pointer",
-		"body" : ".fa.fa-mouse-pointer(aria-hidden='true')$0",
+		"body" : "i.fa.fa-mouse-pointer(aria-hidden='true')$0",
 		"description" : "mouse-pointer",
 		"scope" : ""
 	},
 	"music" : {
 		"prefix" : "fa-music",
-		"body" : ".fa.fa-music(aria-hidden='true')$0",
+		"body" : "i.fa.fa-music(aria-hidden='true')$0",
 		"description" : "music",
 		"scope" : ""
 	},
 	"navicon" : {
 		"prefix" : "fa-navicon",
-		"body" : ".fa.fa-navicon(aria-hidden='true')$0",
+		"body" : "i.fa.fa-navicon(aria-hidden='true')$0",
 		"description" : "navicon",
 		"scope" : ""
 	},
 	"neuter" : {
 		"prefix" : "fa-neuter",
-		"body" : ".fa.fa-neuter(aria-hidden='true')$0",
+		"body" : "i.fa.fa-neuter(aria-hidden='true')$0",
 		"description" : "neuter",
 		"scope" : ""
 	},
 	"newspaper-o" : {
 		"prefix" : "fa-newspaper-o",
-		"body" : ".fa.fa-newspaper-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-newspaper-o(aria-hidden='true')$0",
 		"description" : "newspaper-o",
 		"scope" : ""
 	},
 	"object-group" : {
 		"prefix" : "fa-object-group",
-		"body" : ".fa.fa-object-group(aria-hidden='true')$0",
+		"body" : "i.fa.fa-object-group(aria-hidden='true')$0",
 		"description" : "object-group",
 		"scope" : ""
 	},
 	"object-ungroup" : {
 		"prefix" : "fa-object-ungroup",
-		"body" : ".fa.fa-object-ungroup(aria-hidden='true')$0",
+		"body" : "i.fa.fa-object-ungroup(aria-hidden='true')$0",
 		"description" : "object-ungroup",
 		"scope" : ""
 	},
 	"odnoklassniki" : {
 		"prefix" : "fa-odnoklassniki",
-		"body" : ".fa.fa-odnoklassniki(aria-hidden='true')$0",
+		"body" : "i.fa.fa-odnoklassniki(aria-hidden='true')$0",
 		"description" : "odnoklassniki",
 		"scope" : ""
 	},
 	"odnoklassniki-square" : {
 		"prefix" : "fa-odnoklassniki-square",
-		"body" : ".fa.fa-odnoklassniki-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-odnoklassniki-square(aria-hidden='true')$0",
 		"description" : "odnoklassniki-square",
 		"scope" : ""
 	},
 	"opencart" : {
 		"prefix" : "fa-opencart",
-		"body" : ".fa.fa-opencart(aria-hidden='true')$0",
+		"body" : "i.fa.fa-opencart(aria-hidden='true')$0",
 		"description" : "opencart",
 		"scope" : ""
 	},
 	"openid" : {
 		"prefix" : "fa-openid",
-		"body" : ".fa.fa-openid(aria-hidden='true')$0",
+		"body" : "i.fa.fa-openid(aria-hidden='true')$0",
 		"description" : "openid",
 		"scope" : ""
 	},
 	"opera" : {
 		"prefix" : "fa-opera",
-		"body" : ".fa.fa-opera(aria-hidden='true')$0",
+		"body" : "i.fa.fa-opera(aria-hidden='true')$0",
 		"description" : "opera",
 		"scope" : ""
 	},
 	"optin-monster" : {
 		"prefix" : "fa-optin-monster",
-		"body" : ".fa.fa-optin-monster(aria-hidden='true')$0",
+		"body" : "i.fa.fa-optin-monster(aria-hidden='true')$0",
 		"description" : "optin-monster",
 		"scope" : ""
 	},
 	"outdent" : {
 		"prefix" : "fa-outdent",
-		"body" : ".fa.fa-outdent(aria-hidden='true')$0",
+		"body" : "i.fa.fa-outdent(aria-hidden='true')$0",
 		"description" : "outdent",
 		"scope" : ""
 	},
 	"pagelines" : {
 		"prefix" : "fa-pagelines",
-		"body" : ".fa.fa-pagelines(aria-hidden='true')$0",
+		"body" : "i.fa.fa-pagelines(aria-hidden='true')$0",
 		"description" : "pagelines",
 		"scope" : ""
 	},
 	"paint-brush" : {
 		"prefix" : "fa-paint-brush",
-		"body" : ".fa.fa-paint-brush(aria-hidden='true')$0",
+		"body" : "i.fa.fa-paint-brush(aria-hidden='true')$0",
 		"description" : "paint-brush",
 		"scope" : ""
 	},
 	"paperclip" : {
 		"prefix" : "fa-paperclip",
-		"body" : ".fa.fa-paperclip(aria-hidden='true')$0",
+		"body" : "i.fa.fa-paperclip(aria-hidden='true')$0",
 		"description" : "paperclip",
 		"scope" : ""
 	},
 	"paper-plane" : {
 		"prefix" : "fa-paper-plane",
-		"body" : ".fa.fa-paper-plane(aria-hidden='true')$0",
+		"body" : "i.fa.fa-paper-plane(aria-hidden='true')$0",
 		"description" : "paper-plane",
 		"scope" : ""
 	},
 	"paper-plane-o" : {
 		"prefix" : "fa-paper-plane-o",
-		"body" : ".fa.fa-paper-plane-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-paper-plane-o(aria-hidden='true')$0",
 		"description" : "paper-plane-o",
 		"scope" : ""
 	},
 	"paragraph" : {
 		"prefix" : "fa-paragraph",
-		"body" : ".fa.fa-paragraph(aria-hidden='true')$0",
+		"body" : "i.fa.fa-paragraph(aria-hidden='true')$0",
 		"description" : "paragraph",
 		"scope" : ""
 	},
 	"paste" : {
 		"prefix" : "fa-paste",
-		"body" : ".fa.fa-paste(aria-hidden='true')$0",
+		"body" : "i.fa.fa-paste(aria-hidden='true')$0",
 		"description" : "paste",
 		"scope" : ""
 	},
 	"pause" : {
 		"prefix" : "fa-pause",
-		"body" : ".fa.fa-pause(aria-hidden='true')$0",
+		"body" : "i.fa.fa-pause(aria-hidden='true')$0",
 		"description" : "pause",
 		"scope" : ""
 	},
 	"pause-circle" : {
 		"prefix" : "fa-pause-circle",
-		"body" : ".fa.fa-pause-circle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-pause-circle(aria-hidden='true')$0",
 		"description" : "pause-circle",
 		"scope" : ""
 	},
 	"pause-circle-o" : {
 		"prefix" : "fa-pause-circle-o",
-		"body" : ".fa.fa-pause-circle-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-pause-circle-o(aria-hidden='true')$0",
 		"description" : "pause-circle-o",
 		"scope" : ""
 	},
 	"paw" : {
 		"prefix" : "fa-paw",
-		"body" : ".fa.fa-paw(aria-hidden='true')$0",
+		"body" : "i.fa.fa-paw(aria-hidden='true')$0",
 		"description" : "paw",
 		"scope" : ""
 	},
 	"paypal" : {
 		"prefix" : "fa-paypal",
-		"body" : ".fa.fa-paypal(aria-hidden='true')$0",
+		"body" : "i.fa.fa-paypal(aria-hidden='true')$0",
 		"description" : "paypal",
 		"scope" : ""
 	},
 	"pencil" : {
 		"prefix" : "fa-pencil",
-		"body" : ".fa.fa-pencil(aria-hidden='true')$0",
+		"body" : "i.fa.fa-pencil(aria-hidden='true')$0",
 		"description" : "pencil",
 		"scope" : ""
 	},
 	"pencil-square" : {
 		"prefix" : "fa-pencil-square",
-		"body" : ".fa.fa-pencil-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-pencil-square(aria-hidden='true')$0",
 		"description" : "pencil-square",
 		"scope" : ""
 	},
 	"pencil-square-o" : {
 		"prefix" : "fa-pencil-square-o",
-		"body" : ".fa.fa-pencil-square-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-pencil-square-o(aria-hidden='true')$0",
 		"description" : "pencil-square-o",
 		"scope" : ""
 	},
 	"percent" : {
 		"prefix" : "fa-percent",
-		"body" : ".fa.fa-percent(aria-hidden='true')$0",
+		"body" : "i.fa.fa-percent(aria-hidden='true')$0",
 		"description" : "percent",
 		"scope" : ""
 	},
 	"phone" : {
 		"prefix" : "fa-phone",
-		"body" : ".fa.fa-phone(aria-hidden='true')$0",
+		"body" : "i.fa.fa-phone(aria-hidden='true')$0",
 		"description" : "phone",
 		"scope" : ""
 	},
 	"phone-square" : {
 		"prefix" : "fa-phone-square",
-		"body" : ".fa.fa-phone-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-phone-square(aria-hidden='true')$0",
 		"description" : "phone-square",
 		"scope" : ""
 	},
 	"photo" : {
 		"prefix" : "fa-photo",
-		"body" : ".fa.fa-photo(aria-hidden='true')$0",
+		"body" : "i.fa.fa-photo(aria-hidden='true')$0",
 		"description" : "photo",
 		"scope" : ""
 	},
 	"picture-o" : {
 		"prefix" : "fa-picture-o",
-		"body" : ".fa.fa-picture-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-picture-o(aria-hidden='true')$0",
 		"description" : "picture-o",
 		"scope" : ""
 	},
 	"pie-chart" : {
 		"prefix" : "fa-pie-chart",
-		"body" : ".fa.fa-pie-chart(aria-hidden='true')$0",
+		"body" : "i.fa.fa-pie-chart(aria-hidden='true')$0",
 		"description" : "pie-chart",
 		"scope" : ""
 	},
 	"pied-piper" : {
 		"prefix" : "fa-pied-piper",
-		"body" : ".fa.fa-pied-piper(aria-hidden='true')$0",
+		"body" : "i.fa.fa-pied-piper(aria-hidden='true')$0",
 		"description" : "pied-piper",
 		"scope" : ""
 	},
 	"pied-piper-alt" : {
 		"prefix" : "fa-pied-piper-alt",
-		"body" : ".fa.fa-pied-piper-alt(aria-hidden='true')$0",
+		"body" : "i.fa.fa-pied-piper-alt(aria-hidden='true')$0",
 		"description" : "pied-piper-alt",
 		"scope" : ""
 	},
 	"pied-piper-pp" : {
 		"prefix" : "fa-pied-piper-pp",
-		"body" : ".fa.fa-pied-piper-pp(aria-hidden='true')$0",
+		"body" : "i.fa.fa-pied-piper-pp(aria-hidden='true')$0",
 		"description" : "pied-piper-pp",
 		"scope" : ""
 	},
 	"pinterest" : {
 		"prefix" : "fa-pinterest",
-		"body" : ".fa.fa-pinterest(aria-hidden='true')$0",
+		"body" : "i.fa.fa-pinterest(aria-hidden='true')$0",
 		"description" : "pinterest",
 		"scope" : ""
 	},
 	"pinterest-p" : {
 		"prefix" : "fa-pinterest-p",
-		"body" : ".fa.fa-pinterest-p(aria-hidden='true')$0",
+		"body" : "i.fa.fa-pinterest-p(aria-hidden='true')$0",
 		"description" : "pinterest-p",
 		"scope" : ""
 	},
 	"pinterest-square" : {
 		"prefix" : "fa-pinterest-square",
-		"body" : ".fa.fa-pinterest-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-pinterest-square(aria-hidden='true')$0",
 		"description" : "pinterest-square",
 		"scope" : ""
 	},
 	"plane" : {
 		"prefix" : "fa-plane",
-		"body" : ".fa.fa-plane(aria-hidden='true')$0",
+		"body" : "i.fa.fa-plane(aria-hidden='true')$0",
 		"description" : "plane",
 		"scope" : ""
 	},
 	"play" : {
 		"prefix" : "fa-play",
-		"body" : ".fa.fa-play(aria-hidden='true')$0",
+		"body" : "i.fa.fa-play(aria-hidden='true')$0",
 		"description" : "play",
 		"scope" : ""
 	},
 	"play-circle" : {
 		"prefix" : "fa-play-circle",
-		"body" : ".fa.fa-play-circle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-play-circle(aria-hidden='true')$0",
 		"description" : "play-circle",
 		"scope" : ""
 	},
 	"play-circle-o" : {
 		"prefix" : "fa-play-circle-o",
-		"body" : ".fa.fa-play-circle-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-play-circle-o(aria-hidden='true')$0",
 		"description" : "play-circle-o",
 		"scope" : ""
 	},
 	"plug" : {
 		"prefix" : "fa-plug",
-		"body" : ".fa.fa-plug(aria-hidden='true')$0",
+		"body" : "i.fa.fa-plug(aria-hidden='true')$0",
 		"description" : "plug",
 		"scope" : ""
 	},
 	"plus" : {
 		"prefix" : "fa-plus",
-		"body" : ".fa.fa-plus(aria-hidden='true')$0",
+		"body" : "i.fa.fa-plus(aria-hidden='true')$0",
 		"description" : "plus",
 		"scope" : ""
 	},
 	"plus-circle" : {
 		"prefix" : "fa-plus-circle",
-		"body" : ".fa.fa-plus-circle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-plus-circle(aria-hidden='true')$0",
 		"description" : "plus-circle",
 		"scope" : ""
 	},
 	"plus-square" : {
 		"prefix" : "fa-plus-square",
-		"body" : ".fa.fa-plus-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-plus-square(aria-hidden='true')$0",
 		"description" : "plus-square",
 		"scope" : ""
 	},
 	"plus-square-o" : {
 		"prefix" : "fa-plus-square-o",
-		"body" : ".fa.fa-plus-square-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-plus-square-o(aria-hidden='true')$0",
 		"description" : "plus-square-o",
 		"scope" : ""
 	},
 	"podcast" : {
 		"prefix" : "fa-podcast",
-		"body" : ".fa.fa-podcast(aria-hidden='true')$0",
+		"body" : "i.fa.fa-podcast(aria-hidden='true')$0",
 		"description" : "podcast",
 		"scope" : ""
 	},
 	"power-off" : {
 		"prefix" : "fa-power-off",
-		"body" : ".fa.fa-power-off(aria-hidden='true')$0",
+		"body" : "i.fa.fa-power-off(aria-hidden='true')$0",
 		"description" : "power-off",
 		"scope" : ""
 	},
 	"print" : {
 		"prefix" : "fa-print",
-		"body" : ".fa.fa-print(aria-hidden='true')$0",
+		"body" : "i.fa.fa-print(aria-hidden='true')$0",
 		"description" : "print",
 		"scope" : ""
 	},
 	"product-hunt" : {
 		"prefix" : "fa-product-hunt",
-		"body" : ".fa.fa-product-hunt(aria-hidden='true')$0",
+		"body" : "i.fa.fa-product-hunt(aria-hidden='true')$0",
 		"description" : "product-hunt",
 		"scope" : ""
 	},
 	"puzzle-piece" : {
 		"prefix" : "fa-puzzle-piece",
-		"body" : ".fa.fa-puzzle-piece(aria-hidden='true')$0",
+		"body" : "i.fa.fa-puzzle-piece(aria-hidden='true')$0",
 		"description" : "puzzle-piece",
 		"scope" : ""
 	},
 	"qq" : {
 		"prefix" : "fa-qq",
-		"body" : ".fa.fa-qq(aria-hidden='true')$0",
+		"body" : "i.fa.fa-qq(aria-hidden='true')$0",
 		"description" : "qq",
 		"scope" : ""
 	},
 	"qrcode" : {
 		"prefix" : "fa-qrcode",
-		"body" : ".fa.fa-qrcode(aria-hidden='true')$0",
+		"body" : "i.fa.fa-qrcode(aria-hidden='true')$0",
 		"description" : "qrcode",
 		"scope" : ""
 	},
 	"question" : {
 		"prefix" : "fa-question",
-		"body" : ".fa.fa-question(aria-hidden='true')$0",
+		"body" : "i.fa.fa-question(aria-hidden='true')$0",
 		"description" : "question",
 		"scope" : ""
 	},
 	"question-circle" : {
 		"prefix" : "fa-question-circle",
-		"body" : ".fa.fa-question-circle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-question-circle(aria-hidden='true')$0",
 		"description" : "question-circle",
 		"scope" : ""
 	},
 	"question-circle-o" : {
 		"prefix" : "fa-question-circle-o",
-		"body" : ".fa.fa-question-circle-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-question-circle-o(aria-hidden='true')$0",
 		"description" : "question-circle-o",
 		"scope" : ""
 	},
 	"quora" : {
 		"prefix" : "fa-quora",
-		"body" : ".fa.fa-quora(aria-hidden='true')$0",
+		"body" : "i.fa.fa-quora(aria-hidden='true')$0",
 		"description" : "quora",
 		"scope" : ""
 	},
 	"quote-left" : {
 		"prefix" : "fa-quote-left",
-		"body" : ".fa.fa-quote-left(aria-hidden='true')$0",
+		"body" : "i.fa.fa-quote-left(aria-hidden='true')$0",
 		"description" : "quote-left",
 		"scope" : ""
 	},
 	"quote-right" : {
 		"prefix" : "fa-quote-right",
-		"body" : ".fa.fa-quote-right(aria-hidden='true')$0",
+		"body" : "i.fa.fa-quote-right(aria-hidden='true')$0",
 		"description" : "quote-right",
 		"scope" : ""
 	},
 	"ra" : {
 		"prefix" : "fa-ra",
-		"body" : ".fa.fa-ra(aria-hidden='true')$0",
+		"body" : "i.fa.fa-ra(aria-hidden='true')$0",
 		"description" : "ra",
 		"scope" : ""
 	},
 	"random" : {
 		"prefix" : "fa-random",
-		"body" : ".fa.fa-random(aria-hidden='true')$0",
+		"body" : "i.fa.fa-random(aria-hidden='true')$0",
 		"description" : "random",
 		"scope" : ""
 	},
 	"ravelry" : {
 		"prefix" : "fa-ravelry",
-		"body" : ".fa.fa-ravelry(aria-hidden='true')$0",
+		"body" : "i.fa.fa-ravelry(aria-hidden='true')$0",
 		"description" : "ravelry",
 		"scope" : ""
 	},
 	"rebel" : {
 		"prefix" : "fa-rebel",
-		"body" : ".fa.fa-rebel(aria-hidden='true')$0",
+		"body" : "i.fa.fa-rebel(aria-hidden='true')$0",
 		"description" : "rebel",
 		"scope" : ""
 	},
 	"recycle" : {
 		"prefix" : "fa-recycle",
-		"body" : ".fa.fa-recycle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-recycle(aria-hidden='true')$0",
 		"description" : "recycle",
 		"scope" : ""
 	},
 	"reddit" : {
 		"prefix" : "fa-reddit",
-		"body" : ".fa.fa-reddit(aria-hidden='true')$0",
+		"body" : "i.fa.fa-reddit(aria-hidden='true')$0",
 		"description" : "reddit",
 		"scope" : ""
 	},
 	"reddit-alien" : {
 		"prefix" : "fa-reddit-alien",
-		"body" : ".fa.fa-reddit-alien(aria-hidden='true')$0",
+		"body" : "i.fa.fa-reddit-alien(aria-hidden='true')$0",
 		"description" : "reddit-alien",
 		"scope" : ""
 	},
 	"reddit-square" : {
 		"prefix" : "fa-reddit-square",
-		"body" : ".fa.fa-reddit-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-reddit-square(aria-hidden='true')$0",
 		"description" : "reddit-square",
 		"scope" : ""
 	},
 	"refresh" : {
 		"prefix" : "fa-refresh",
-		"body" : ".fa.fa-refresh(aria-hidden='true')$0",
+		"body" : "i.fa.fa-refresh(aria-hidden='true')$0",
 		"description" : "refresh",
 		"scope" : ""
 	},
 	"registered" : {
 		"prefix" : "fa-registered",
-		"body" : ".fa.fa-registered(aria-hidden='true')$0",
+		"body" : "i.fa.fa-registered(aria-hidden='true')$0",
 		"description" : "registered",
 		"scope" : ""
 	},
 	"remove" : {
 		"prefix" : "fa-remove",
-		"body" : ".fa.fa-remove(aria-hidden='true')$0",
+		"body" : "i.fa.fa-remove(aria-hidden='true')$0",
 		"description" : "remove",
 		"scope" : ""
 	},
 	"renren" : {
 		"prefix" : "fa-renren",
-		"body" : ".fa.fa-renren(aria-hidden='true')$0",
+		"body" : "i.fa.fa-renren(aria-hidden='true')$0",
 		"description" : "renren",
 		"scope" : ""
 	},
 	"reorder" : {
 		"prefix" : "fa-reorder",
-		"body" : ".fa.fa-reorder(aria-hidden='true')$0",
+		"body" : "i.fa.fa-reorder(aria-hidden='true')$0",
 		"description" : "reorder",
 		"scope" : ""
 	},
 	"repeat" : {
 		"prefix" : "fa-repeat",
-		"body" : ".fa.fa-repeat(aria-hidden='true')$0",
+		"body" : "i.fa.fa-repeat(aria-hidden='true')$0",
 		"description" : "repeat",
 		"scope" : ""
 	},
 	"reply" : {
 		"prefix" : "fa-reply",
-		"body" : ".fa.fa-reply(aria-hidden='true')$0",
+		"body" : "i.fa.fa-reply(aria-hidden='true')$0",
 		"description" : "reply",
 		"scope" : ""
 	},
 	"reply-all" : {
 		"prefix" : "fa-reply-all",
-		"body" : ".fa.fa-reply-all(aria-hidden='true')$0",
+		"body" : "i.fa.fa-reply-all(aria-hidden='true')$0",
 		"description" : "reply-all",
 		"scope" : ""
 	},
 	"resistance" : {
 		"prefix" : "fa-resistance",
-		"body" : ".fa.fa-resistance(aria-hidden='true')$0",
+		"body" : "i.fa.fa-resistance(aria-hidden='true')$0",
 		"description" : "resistance",
 		"scope" : ""
 	},
 	"retweet" : {
 		"prefix" : "fa-retweet",
-		"body" : ".fa.fa-retweet(aria-hidden='true')$0",
+		"body" : "i.fa.fa-retweet(aria-hidden='true')$0",
 		"description" : "retweet",
 		"scope" : ""
 	},
 	"rmb" : {
 		"prefix" : "fa-rmb",
-		"body" : ".fa.fa-rmb(aria-hidden='true')$0",
+		"body" : "i.fa.fa-rmb(aria-hidden='true')$0",
 		"description" : "rmb",
 		"scope" : ""
 	},
 	"road" : {
 		"prefix" : "fa-road",
-		"body" : ".fa.fa-road(aria-hidden='true')$0",
+		"body" : "i.fa.fa-road(aria-hidden='true')$0",
 		"description" : "road",
 		"scope" : ""
 	},
 	"rocket" : {
 		"prefix" : "fa-rocket",
-		"body" : ".fa.fa-rocket(aria-hidden='true')$0",
+		"body" : "i.fa.fa-rocket(aria-hidden='true')$0",
 		"description" : "rocket",
 		"scope" : ""
 	},
 	"rotate-left" : {
 		"prefix" : "fa-rotate-left",
-		"body" : ".fa.fa-rotate-left(aria-hidden='true')$0",
+		"body" : "i.fa.fa-rotate-left(aria-hidden='true')$0",
 		"description" : "rotate-left",
 		"scope" : ""
 	},
 	"rotate-right" : {
 		"prefix" : "fa-rotate-right",
-		"body" : ".fa.fa-rotate-right(aria-hidden='true')$0",
+		"body" : "i.fa.fa-rotate-right(aria-hidden='true')$0",
 		"description" : "rotate-right",
 		"scope" : ""
 	},
 	"rouble" : {
 		"prefix" : "fa-rouble",
-		"body" : ".fa.fa-rouble(aria-hidden='true')$0",
+		"body" : "i.fa.fa-rouble(aria-hidden='true')$0",
 		"description" : "rouble",
 		"scope" : ""
 	},
 	"rss" : {
 		"prefix" : "fa-rss",
-		"body" : ".fa.fa-rss(aria-hidden='true')$0",
+		"body" : "i.fa.fa-rss(aria-hidden='true')$0",
 		"description" : "rss",
 		"scope" : ""
 	},
 	"rss-square" : {
 		"prefix" : "fa-rss-square",
-		"body" : ".fa.fa-rss-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-rss-square(aria-hidden='true')$0",
 		"description" : "rss-square",
 		"scope" : ""
 	},
 	"rub" : {
 		"prefix" : "fa-rub",
-		"body" : ".fa.fa-rub(aria-hidden='true')$0",
+		"body" : "i.fa.fa-rub(aria-hidden='true')$0",
 		"description" : "rub",
 		"scope" : ""
 	},
 	"ruble" : {
 		"prefix" : "fa-ruble",
-		"body" : ".fa.fa-ruble(aria-hidden='true')$0",
+		"body" : "i.fa.fa-ruble(aria-hidden='true')$0",
 		"description" : "ruble",
 		"scope" : ""
 	},
 	"rupee" : {
 		"prefix" : "fa-rupee",
-		"body" : ".fa.fa-rupee(aria-hidden='true')$0",
+		"body" : "i.fa.fa-rupee(aria-hidden='true')$0",
 		"description" : "rupee",
 		"scope" : ""
 	},
 	"s15" : {
 		"prefix" : "fa-s15",
-		"body" : ".fa.fa-s15(aria-hidden='true')$0",
+		"body" : "i.fa.fa-s15(aria-hidden='true')$0",
 		"description" : "s15",
 		"scope" : ""
 	},
 	"safari" : {
 		"prefix" : "fa-safari",
-		"body" : ".fa.fa-safari(aria-hidden='true')$0",
+		"body" : "i.fa.fa-safari(aria-hidden='true')$0",
 		"description" : "safari",
 		"scope" : ""
 	},
 	"save" : {
 		"prefix" : "fa-save",
-		"body" : ".fa.fa-save(aria-hidden='true')$0",
+		"body" : "i.fa.fa-save(aria-hidden='true')$0",
 		"description" : "save",
 		"scope" : ""
 	},
 	"scissors" : {
 		"prefix" : "fa-scissors",
-		"body" : ".fa.fa-scissors(aria-hidden='true')$0",
+		"body" : "i.fa.fa-scissors(aria-hidden='true')$0",
 		"description" : "scissors",
 		"scope" : ""
 	},
 	"scribd" : {
 		"prefix" : "fa-scribd",
-		"body" : ".fa.fa-scribd(aria-hidden='true')$0",
+		"body" : "i.fa.fa-scribd(aria-hidden='true')$0",
 		"description" : "scribd",
 		"scope" : ""
 	},
 	"search" : {
 		"prefix" : "fa-search",
-		"body" : ".fa.fa-search(aria-hidden='true')$0",
+		"body" : "i.fa.fa-search(aria-hidden='true')$0",
 		"description" : "search",
 		"scope" : ""
 	},
 	"search-minus" : {
 		"prefix" : "fa-search-minus",
-		"body" : ".fa.fa-search-minus(aria-hidden='true')$0",
+		"body" : "i.fa.fa-search-minus(aria-hidden='true')$0",
 		"description" : "search-minus",
 		"scope" : ""
 	},
 	"search-plus" : {
 		"prefix" : "fa-search-plus",
-		"body" : ".fa.fa-search-plus(aria-hidden='true')$0",
+		"body" : "i.fa.fa-search-plus(aria-hidden='true')$0",
 		"description" : "search-plus",
 		"scope" : ""
 	},
 	"sellsy" : {
 		"prefix" : "fa-sellsy",
-		"body" : ".fa.fa-sellsy(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sellsy(aria-hidden='true')$0",
 		"description" : "sellsy",
 		"scope" : ""
 	},
 	"send" : {
 		"prefix" : "fa-send",
-		"body" : ".fa.fa-send(aria-hidden='true')$0",
+		"body" : "i.fa.fa-send(aria-hidden='true')$0",
 		"description" : "send",
 		"scope" : ""
 	},
 	"send-o" : {
 		"prefix" : "fa-send-o",
-		"body" : ".fa.fa-send-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-send-o(aria-hidden='true')$0",
 		"description" : "send-o",
 		"scope" : ""
 	},
 	"server" : {
 		"prefix" : "fa-server",
-		"body" : ".fa.fa-server(aria-hidden='true')$0",
+		"body" : "i.fa.fa-server(aria-hidden='true')$0",
 		"description" : "server",
 		"scope" : ""
 	},
 	"share" : {
 		"prefix" : "fa-share",
-		"body" : ".fa.fa-share(aria-hidden='true')$0",
+		"body" : "i.fa.fa-share(aria-hidden='true')$0",
 		"description" : "share",
 		"scope" : ""
 	},
 	"share-alt" : {
 		"prefix" : "fa-share-alt",
-		"body" : ".fa.fa-share-alt(aria-hidden='true')$0",
+		"body" : "i.fa.fa-share-alt(aria-hidden='true')$0",
 		"description" : "share-alt",
 		"scope" : ""
 	},
 	"share-alt-square" : {
 		"prefix" : "fa-share-alt-square",
-		"body" : ".fa.fa-share-alt-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-share-alt-square(aria-hidden='true')$0",
 		"description" : "share-alt-square",
 		"scope" : ""
 	},
 	"share-square" : {
 		"prefix" : "fa-share-square",
-		"body" : ".fa.fa-share-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-share-square(aria-hidden='true')$0",
 		"description" : "share-square",
 		"scope" : ""
 	},
 	"share-square-o" : {
 		"prefix" : "fa-share-square-o",
-		"body" : ".fa.fa-share-square-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-share-square-o(aria-hidden='true')$0",
 		"description" : "share-square-o",
 		"scope" : ""
 	},
 	"shekel" : {
 		"prefix" : "fa-shekel",
-		"body" : ".fa.fa-shekel(aria-hidden='true')$0",
+		"body" : "i.fa.fa-shekel(aria-hidden='true')$0",
 		"description" : "shekel",
 		"scope" : ""
 	},
 	"sheqel" : {
 		"prefix" : "fa-sheqel",
-		"body" : ".fa.fa-sheqel(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sheqel(aria-hidden='true')$0",
 		"description" : "sheqel",
 		"scope" : ""
 	},
 	"shield" : {
 		"prefix" : "fa-shield",
-		"body" : ".fa.fa-shield(aria-hidden='true')$0",
+		"body" : "i.fa.fa-shield(aria-hidden='true')$0",
 		"description" : "shield",
 		"scope" : ""
 	},
 	"ship" : {
 		"prefix" : "fa-ship",
-		"body" : ".fa.fa-ship(aria-hidden='true')$0",
+		"body" : "i.fa.fa-ship(aria-hidden='true')$0",
 		"description" : "ship",
 		"scope" : ""
 	},
 	"shirtsinbulk" : {
 		"prefix" : "fa-shirtsinbulk",
-		"body" : ".fa.fa-shirtsinbulk(aria-hidden='true')$0",
+		"body" : "i.fa.fa-shirtsinbulk(aria-hidden='true')$0",
 		"description" : "shirtsinbulk",
 		"scope" : ""
 	},
 	"shopping-bag" : {
 		"prefix" : "fa-shopping-bag",
-		"body" : ".fa.fa-shopping-bag(aria-hidden='true')$0",
+		"body" : "i.fa.fa-shopping-bag(aria-hidden='true')$0",
 		"description" : "shopping-bag",
 		"scope" : ""
 	},
 	"shopping-basket" : {
 		"prefix" : "fa-shopping-basket",
-		"body" : ".fa.fa-shopping-basket(aria-hidden='true')$0",
+		"body" : "i.fa.fa-shopping-basket(aria-hidden='true')$0",
 		"description" : "shopping-basket",
 		"scope" : ""
 	},
 	"shopping-cart" : {
 		"prefix" : "fa-shopping-cart",
-		"body" : ".fa.fa-shopping-cart(aria-hidden='true')$0",
+		"body" : "i.fa.fa-shopping-cart(aria-hidden='true')$0",
 		"description" : "shopping-cart",
 		"scope" : ""
 	},
 	"shower" : {
 		"prefix" : "fa-shower",
-		"body" : ".fa.fa-shower(aria-hidden='true')$0",
+		"body" : "i.fa.fa-shower(aria-hidden='true')$0",
 		"description" : "shower",
 		"scope" : ""
 	},
 	"signal" : {
 		"prefix" : "fa-signal",
-		"body" : ".fa.fa-signal(aria-hidden='true')$0",
+		"body" : "i.fa.fa-signal(aria-hidden='true')$0",
 		"description" : "signal",
 		"scope" : ""
 	},
 	"sign-in" : {
 		"prefix" : "fa-sign-in",
-		"body" : ".fa.fa-sign-in(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sign-in(aria-hidden='true')$0",
 		"description" : "sign-in",
 		"scope" : ""
 	},
 	"signing" : {
 		"prefix" : "fa-signing",
-		"body" : ".fa.fa-signing(aria-hidden='true')$0",
+		"body" : "i.fa.fa-signing(aria-hidden='true')$0",
 		"description" : "signing",
 		"scope" : ""
 	},
 	"sign-language" : {
 		"prefix" : "fa-sign-language",
-		"body" : ".fa.fa-sign-language(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sign-language(aria-hidden='true')$0",
 		"description" : "sign-language",
 		"scope" : ""
 	},
 	"sign-out" : {
 		"prefix" : "fa-sign-out",
-		"body" : ".fa.fa-sign-out(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sign-out(aria-hidden='true')$0",
 		"description" : "sign-out",
 		"scope" : ""
 	},
 	"simplybuilt" : {
 		"prefix" : "fa-simplybuilt",
-		"body" : ".fa.fa-simplybuilt(aria-hidden='true')$0",
+		"body" : "i.fa.fa-simplybuilt(aria-hidden='true')$0",
 		"description" : "simplybuilt",
 		"scope" : ""
 	},
 	"sitemap" : {
 		"prefix" : "fa-sitemap",
-		"body" : ".fa.fa-sitemap(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sitemap(aria-hidden='true')$0",
 		"description" : "sitemap",
 		"scope" : ""
 	},
 	"skyatlas" : {
 		"prefix" : "fa-skyatlas",
-		"body" : ".fa.fa-skyatlas(aria-hidden='true')$0",
+		"body" : "i.fa.fa-skyatlas(aria-hidden='true')$0",
 		"description" : "skyatlas",
 		"scope" : ""
 	},
 	"skype" : {
 		"prefix" : "fa-skype",
-		"body" : ".fa.fa-skype(aria-hidden='true')$0",
+		"body" : "i.fa.fa-skype(aria-hidden='true')$0",
 		"description" : "skype",
 		"scope" : ""
 	},
 	"slack" : {
 		"prefix" : "fa-slack",
-		"body" : ".fa.fa-slack(aria-hidden='true')$0",
+		"body" : "i.fa.fa-slack(aria-hidden='true')$0",
 		"description" : "slack",
 		"scope" : ""
 	},
 	"sliders" : {
 		"prefix" : "fa-sliders",
-		"body" : ".fa.fa-sliders(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sliders(aria-hidden='true')$0",
 		"description" : "sliders",
 		"scope" : ""
 	},
 	"slideshare" : {
 		"prefix" : "fa-slideshare",
-		"body" : ".fa.fa-slideshare(aria-hidden='true')$0",
+		"body" : "i.fa.fa-slideshare(aria-hidden='true')$0",
 		"description" : "slideshare",
 		"scope" : ""
 	},
 	"smile-o" : {
 		"prefix" : "fa-smile-o",
-		"body" : ".fa.fa-smile-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-smile-o(aria-hidden='true')$0",
 		"description" : "smile-o",
 		"scope" : ""
 	},
 	"snapchat" : {
 		"prefix" : "fa-snapchat",
-		"body" : ".fa.fa-snapchat(aria-hidden='true')$0",
+		"body" : "i.fa.fa-snapchat(aria-hidden='true')$0",
 		"description" : "snapchat",
 		"scope" : ""
 	},
 	"snapchat-ghost" : {
 		"prefix" : "fa-snapchat-ghost",
-		"body" : ".fa.fa-snapchat-ghost(aria-hidden='true')$0",
+		"body" : "i.fa.fa-snapchat-ghost(aria-hidden='true')$0",
 		"description" : "snapchat-ghost",
 		"scope" : ""
 	},
 	"snapchat-square" : {
 		"prefix" : "fa-snapchat-square",
-		"body" : ".fa.fa-snapchat-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-snapchat-square(aria-hidden='true')$0",
 		"description" : "snapchat-square",
 		"scope" : ""
 	},
 	"snowflake-o" : {
 		"prefix" : "fa-snowflake-o",
-		"body" : ".fa.fa-snowflake-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-snowflake-o(aria-hidden='true')$0",
 		"description" : "snowflake-o",
 		"scope" : ""
 	},
 	"soccer-ball-o" : {
 		"prefix" : "fa-soccer-ball-o",
-		"body" : ".fa.fa-soccer-ball-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-soccer-ball-o(aria-hidden='true')$0",
 		"description" : "soccer-ball-o",
 		"scope" : ""
 	},
 	"sort" : {
 		"prefix" : "fa-sort",
-		"body" : ".fa.fa-sort(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sort(aria-hidden='true')$0",
 		"description" : "sort",
 		"scope" : ""
 	},
 	"sort-alpha-asc" : {
 		"prefix" : "fa-sort-alpha-asc",
-		"body" : ".fa.fa-sort-alpha-asc(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sort-alpha-asc(aria-hidden='true')$0",
 		"description" : "sort-alpha-asc",
 		"scope" : ""
 	},
 	"sort-alpha-desc" : {
 		"prefix" : "fa-sort-alpha-desc",
-		"body" : ".fa.fa-sort-alpha-desc(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sort-alpha-desc(aria-hidden='true')$0",
 		"description" : "sort-alpha-desc",
 		"scope" : ""
 	},
 	"sort-amount-asc" : {
 		"prefix" : "fa-sort-amount-asc",
-		"body" : ".fa.fa-sort-amount-asc(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sort-amount-asc(aria-hidden='true')$0",
 		"description" : "sort-amount-asc",
 		"scope" : ""
 	},
 	"sort-amount-desc" : {
 		"prefix" : "fa-sort-amount-desc",
-		"body" : ".fa.fa-sort-amount-desc(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sort-amount-desc(aria-hidden='true')$0",
 		"description" : "sort-amount-desc",
 		"scope" : ""
 	},
 	"sort-asc" : {
 		"prefix" : "fa-sort-asc",
-		"body" : ".fa.fa-sort-asc(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sort-asc(aria-hidden='true')$0",
 		"description" : "sort-asc",
 		"scope" : ""
 	},
 	"sort-desc" : {
 		"prefix" : "fa-sort-desc",
-		"body" : ".fa.fa-sort-desc(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sort-desc(aria-hidden='true')$0",
 		"description" : "sort-desc",
 		"scope" : ""
 	},
 	"sort-down" : {
 		"prefix" : "fa-sort-down",
-		"body" : ".fa.fa-sort-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sort-down(aria-hidden='true')$0",
 		"description" : "sort-down",
 		"scope" : ""
 	},
 	"sort-numeric-asc" : {
 		"prefix" : "fa-sort-numeric-asc",
-		"body" : ".fa.fa-sort-numeric-asc(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sort-numeric-asc(aria-hidden='true')$0",
 		"description" : "sort-numeric-asc",
 		"scope" : ""
 	},
 	"sort-numeric-desc" : {
 		"prefix" : "fa-sort-numeric-desc",
-		"body" : ".fa.fa-sort-numeric-desc(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sort-numeric-desc(aria-hidden='true')$0",
 		"description" : "sort-numeric-desc",
 		"scope" : ""
 	},
 	"sort-up" : {
 		"prefix" : "fa-sort-up",
-		"body" : ".fa.fa-sort-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sort-up(aria-hidden='true')$0",
 		"description" : "sort-up",
 		"scope" : ""
 	},
 	"soundcloud" : {
 		"prefix" : "fa-soundcloud",
-		"body" : ".fa.fa-soundcloud(aria-hidden='true')$0",
+		"body" : "i.fa.fa-soundcloud(aria-hidden='true')$0",
 		"description" : "soundcloud",
 		"scope" : ""
 	},
 	"space-shuttle" : {
 		"prefix" : "fa-space-shuttle",
-		"body" : ".fa.fa-space-shuttle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-space-shuttle(aria-hidden='true')$0",
 		"description" : "space-shuttle",
 		"scope" : ""
 	},
 	"spinner" : {
 		"prefix" : "fa-spinner",
-		"body" : ".fa.fa-spinner(aria-hidden='true')$0",
+		"body" : "i.fa.fa-spinner(aria-hidden='true')$0",
 		"description" : "spinner",
 		"scope" : ""
 	},
 	"spoon" : {
 		"prefix" : "fa-spoon",
-		"body" : ".fa.fa-spoon(aria-hidden='true')$0",
+		"body" : "i.fa.fa-spoon(aria-hidden='true')$0",
 		"description" : "spoon",
 		"scope" : ""
 	},
 	"spotify" : {
 		"prefix" : "fa-spotify",
-		"body" : ".fa.fa-spotify(aria-hidden='true')$0",
+		"body" : "i.fa.fa-spotify(aria-hidden='true')$0",
 		"description" : "spotify",
 		"scope" : ""
 	},
 	"square" : {
 		"prefix" : "fa-square",
-		"body" : ".fa.fa-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-square(aria-hidden='true')$0",
 		"description" : "square",
 		"scope" : ""
 	},
 	"square-o" : {
 		"prefix" : "fa-square-o",
-		"body" : ".fa.fa-square-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-square-o(aria-hidden='true')$0",
 		"description" : "square-o",
 		"scope" : ""
 	},
 	"stack-exchange" : {
 		"prefix" : "fa-stack-exchange",
-		"body" : ".fa.fa-stack-exchange(aria-hidden='true')$0",
+		"body" : "i.fa.fa-stack-exchange(aria-hidden='true')$0",
 		"description" : "stack-exchange",
 		"scope" : ""
 	},
 	"stack-overflow" : {
 		"prefix" : "fa-stack-overflow",
-		"body" : ".fa.fa-stack-overflow(aria-hidden='true')$0",
+		"body" : "i.fa.fa-stack-overflow(aria-hidden='true')$0",
 		"description" : "stack-overflow",
 		"scope" : ""
 	},
 	"star" : {
 		"prefix" : "fa-star",
-		"body" : ".fa.fa-star(aria-hidden='true')$0",
+		"body" : "i.fa.fa-star(aria-hidden='true')$0",
 		"description" : "star",
 		"scope" : ""
 	},
 	"star-half" : {
 		"prefix" : "fa-star-half",
-		"body" : ".fa.fa-star-half(aria-hidden='true')$0",
+		"body" : "i.fa.fa-star-half(aria-hidden='true')$0",
 		"description" : "star-half",
 		"scope" : ""
 	},
 	"star-half-empty" : {
 		"prefix" : "fa-star-half-empty",
-		"body" : ".fa.fa-star-half-empty(aria-hidden='true')$0",
+		"body" : "i.fa.fa-star-half-empty(aria-hidden='true')$0",
 		"description" : "star-half-empty",
 		"scope" : ""
 	},
 	"star-half-full" : {
 		"prefix" : "fa-star-half-full",
-		"body" : ".fa.fa-star-half-full(aria-hidden='true')$0",
+		"body" : "i.fa.fa-star-half-full(aria-hidden='true')$0",
 		"description" : "star-half-full",
 		"scope" : ""
 	},
 	"star-half-o" : {
 		"prefix" : "fa-star-half-o",
-		"body" : ".fa.fa-star-half-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-star-half-o(aria-hidden='true')$0",
 		"description" : "star-half-o",
 		"scope" : ""
 	},
 	"star-o" : {
 		"prefix" : "fa-star-o",
-		"body" : ".fa.fa-star-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-star-o(aria-hidden='true')$0",
 		"description" : "star-o",
 		"scope" : ""
 	},
 	"steam" : {
 		"prefix" : "fa-steam",
-		"body" : ".fa.fa-steam(aria-hidden='true')$0",
+		"body" : "i.fa.fa-steam(aria-hidden='true')$0",
 		"description" : "steam",
 		"scope" : ""
 	},
 	"steam-square" : {
 		"prefix" : "fa-steam-square",
-		"body" : ".fa.fa-steam-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-steam-square(aria-hidden='true')$0",
 		"description" : "steam-square",
 		"scope" : ""
 	},
 	"step-backward" : {
 		"prefix" : "fa-step-backward",
-		"body" : ".fa.fa-step-backward(aria-hidden='true')$0",
+		"body" : "i.fa.fa-step-backward(aria-hidden='true')$0",
 		"description" : "step-backward",
 		"scope" : ""
 	},
 	"step-forward" : {
 		"prefix" : "fa-step-forward",
-		"body" : ".fa.fa-step-forward(aria-hidden='true')$0",
+		"body" : "i.fa.fa-step-forward(aria-hidden='true')$0",
 		"description" : "step-forward",
 		"scope" : ""
 	},
 	"stethoscope" : {
 		"prefix" : "fa-stethoscope",
-		"body" : ".fa.fa-stethoscope(aria-hidden='true')$0",
+		"body" : "i.fa.fa-stethoscope(aria-hidden='true')$0",
 		"description" : "stethoscope",
 		"scope" : ""
 	},
 	"sticky-note" : {
 		"prefix" : "fa-sticky-note",
-		"body" : ".fa.fa-sticky-note(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sticky-note(aria-hidden='true')$0",
 		"description" : "sticky-note",
 		"scope" : ""
 	},
 	"sticky-note-o" : {
 		"prefix" : "fa-sticky-note-o",
-		"body" : ".fa.fa-sticky-note-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sticky-note-o(aria-hidden='true')$0",
 		"description" : "sticky-note-o",
 		"scope" : ""
 	},
 	"stop" : {
 		"prefix" : "fa-stop",
-		"body" : ".fa.fa-stop(aria-hidden='true')$0",
+		"body" : "i.fa.fa-stop(aria-hidden='true')$0",
 		"description" : "stop",
 		"scope" : ""
 	},
 	"stop-circle" : {
 		"prefix" : "fa-stop-circle",
-		"body" : ".fa.fa-stop-circle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-stop-circle(aria-hidden='true')$0",
 		"description" : "stop-circle",
 		"scope" : ""
 	},
 	"stop-circle-o" : {
 		"prefix" : "fa-stop-circle-o",
-		"body" : ".fa.fa-stop-circle-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-stop-circle-o(aria-hidden='true')$0",
 		"description" : "stop-circle-o",
 		"scope" : ""
 	},
 	"street-view" : {
 		"prefix" : "fa-street-view",
-		"body" : ".fa.fa-street-view(aria-hidden='true')$0",
+		"body" : "i.fa.fa-street-view(aria-hidden='true')$0",
 		"description" : "street-view",
 		"scope" : ""
 	},
 	"strikethrough" : {
 		"prefix" : "fa-strikethrough",
-		"body" : ".fa.fa-strikethrough(aria-hidden='true')$0",
+		"body" : "i.fa.fa-strikethrough(aria-hidden='true')$0",
 		"description" : "strikethrough",
 		"scope" : ""
 	},
 	"stumbleupon" : {
 		"prefix" : "fa-stumbleupon",
-		"body" : ".fa.fa-stumbleupon(aria-hidden='true')$0",
+		"body" : "i.fa.fa-stumbleupon(aria-hidden='true')$0",
 		"description" : "stumbleupon",
 		"scope" : ""
 	},
 	"stumbleupon-circle" : {
 		"prefix" : "fa-stumbleupon-circle",
-		"body" : ".fa.fa-stumbleupon-circle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-stumbleupon-circle(aria-hidden='true')$0",
 		"description" : "stumbleupon-circle",
 		"scope" : ""
 	},
 	"subscript" : {
 		"prefix" : "fa-subscript",
-		"body" : ".fa.fa-subscript(aria-hidden='true')$0",
+		"body" : "i.fa.fa-subscript(aria-hidden='true')$0",
 		"description" : "subscript",
 		"scope" : ""
 	},
 	"subway" : {
 		"prefix" : "fa-subway",
-		"body" : ".fa.fa-subway(aria-hidden='true')$0",
+		"body" : "i.fa.fa-subway(aria-hidden='true')$0",
 		"description" : "subway",
 		"scope" : ""
 	},
 	"suitcase" : {
 		"prefix" : "fa-suitcase",
-		"body" : ".fa.fa-suitcase(aria-hidden='true')$0",
+		"body" : "i.fa.fa-suitcase(aria-hidden='true')$0",
 		"description" : "suitcase",
 		"scope" : ""
 	},
 	"sun-o" : {
 		"prefix" : "fa-sun-o",
-		"body" : ".fa.fa-sun-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-sun-o(aria-hidden='true')$0",
 		"description" : "sun-o",
 		"scope" : ""
 	},
 	"superpowers" : {
 		"prefix" : "fa-superpowers",
-		"body" : ".fa.fa-superpowers(aria-hidden='true')$0",
+		"body" : "i.fa.fa-superpowers(aria-hidden='true')$0",
 		"description" : "superpowers",
 		"scope" : ""
 	},
 	"superscript" : {
 		"prefix" : "fa-superscript",
-		"body" : ".fa.fa-superscript(aria-hidden='true')$0",
+		"body" : "i.fa.fa-superscript(aria-hidden='true')$0",
 		"description" : "superscript",
 		"scope" : ""
 	},
 	"support" : {
 		"prefix" : "fa-support",
-		"body" : ".fa.fa-support(aria-hidden='true')$0",
+		"body" : "i.fa.fa-support(aria-hidden='true')$0",
 		"description" : "support",
 		"scope" : ""
 	},
 	"table" : {
 		"prefix" : "fa-table",
-		"body" : ".fa.fa-table(aria-hidden='true')$0",
+		"body" : "i.fa.fa-table(aria-hidden='true')$0",
 		"description" : "table",
 		"scope" : ""
 	},
 	"tablet" : {
 		"prefix" : "fa-tablet",
-		"body" : ".fa.fa-tablet(aria-hidden='true')$0",
+		"body" : "i.fa.fa-tablet(aria-hidden='true')$0",
 		"description" : "tablet",
 		"scope" : ""
 	},
 	"tachometer" : {
 		"prefix" : "fa-tachometer",
-		"body" : ".fa.fa-tachometer(aria-hidden='true')$0",
+		"body" : "i.fa.fa-tachometer(aria-hidden='true')$0",
 		"description" : "tachometer",
 		"scope" : ""
 	},
 	"tag" : {
 		"prefix" : "fa-tag",
-		"body" : ".fa.fa-tag(aria-hidden='true')$0",
+		"body" : "i.fa.fa-tag(aria-hidden='true')$0",
 		"description" : "tag",
 		"scope" : ""
 	},
 	"tags" : {
 		"prefix" : "fa-tags",
-		"body" : ".fa.fa-tags(aria-hidden='true')$0",
+		"body" : "i.fa.fa-tags(aria-hidden='true')$0",
 		"description" : "tags",
 		"scope" : ""
 	},
 	"tasks" : {
 		"prefix" : "fa-tasks",
-		"body" : ".fa.fa-tasks(aria-hidden='true')$0",
+		"body" : "i.fa.fa-tasks(aria-hidden='true')$0",
 		"description" : "tasks",
 		"scope" : ""
 	},
 	"taxi" : {
 		"prefix" : "fa-taxi",
-		"body" : ".fa.fa-taxi(aria-hidden='true')$0",
+		"body" : "i.fa.fa-taxi(aria-hidden='true')$0",
 		"description" : "taxi",
 		"scope" : ""
 	},
 	"telegram" : {
 		"prefix" : "fa-telegram",
-		"body" : ".fa.fa-telegram(aria-hidden='true')$0",
+		"body" : "i.fa.fa-telegram(aria-hidden='true')$0",
 		"description" : "telegram",
 		"scope" : ""
 	},
 	"television" : {
 		"prefix" : "fa-television",
-		"body" : ".fa.fa-television(aria-hidden='true')$0",
+		"body" : "i.fa.fa-television(aria-hidden='true')$0",
 		"description" : "television",
 		"scope" : ""
 	},
 	"tencent-weibo" : {
 		"prefix" : "fa-tencent-weibo",
-		"body" : ".fa.fa-tencent-weibo(aria-hidden='true')$0",
+		"body" : "i.fa.fa-tencent-weibo(aria-hidden='true')$0",
 		"description" : "tencent-weibo",
 		"scope" : ""
 	},
 	"terminal" : {
 		"prefix" : "fa-terminal",
-		"body" : ".fa.fa-terminal(aria-hidden='true')$0",
+		"body" : "i.fa.fa-terminal(aria-hidden='true')$0",
 		"description" : "terminal",
 		"scope" : ""
 	},
 	"text-height" : {
 		"prefix" : "fa-text-height",
-		"body" : ".fa.fa-text-height(aria-hidden='true')$0",
+		"body" : "i.fa.fa-text-height(aria-hidden='true')$0",
 		"description" : "text-height",
 		"scope" : ""
 	},
 	"text-width" : {
 		"prefix" : "fa-text-width",
-		"body" : ".fa.fa-text-width(aria-hidden='true')$0",
+		"body" : "i.fa.fa-text-width(aria-hidden='true')$0",
 		"description" : "text-width",
 		"scope" : ""
 	},
 	"th" : {
 		"prefix" : "fa-th",
-		"body" : ".fa.fa-th(aria-hidden='true')$0",
+		"body" : "i.fa.fa-th(aria-hidden='true')$0",
 		"description" : "th",
 		"scope" : ""
 	},
 	"themeisle" : {
 		"prefix" : "fa-themeisle",
-		"body" : ".fa.fa-themeisle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-themeisle(aria-hidden='true')$0",
 		"description" : "themeisle",
 		"scope" : ""
 	},
 	"thermometer" : {
 		"prefix" : "fa-thermometer",
-		"body" : ".fa.fa-thermometer(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thermometer(aria-hidden='true')$0",
 		"description" : "thermometer",
 		"scope" : ""
 	},
 	"thermometer-0" : {
 		"prefix" : "fa-thermometer-0",
-		"body" : ".fa.fa-thermometer-0(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thermometer-0(aria-hidden='true')$0",
 		"description" : "thermometer-0",
 		"scope" : ""
 	},
 	"thermometer-1" : {
 		"prefix" : "fa-thermometer-1",
-		"body" : ".fa.fa-thermometer-1(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thermometer-1(aria-hidden='true')$0",
 		"description" : "thermometer-1",
 		"scope" : ""
 	},
 	"thermometer-2" : {
 		"prefix" : "fa-thermometer-2",
-		"body" : ".fa.fa-thermometer-2(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thermometer-2(aria-hidden='true')$0",
 		"description" : "thermometer-2",
 		"scope" : ""
 	},
 	"thermometer-3" : {
 		"prefix" : "fa-thermometer-3",
-		"body" : ".fa.fa-thermometer-3(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thermometer-3(aria-hidden='true')$0",
 		"description" : "thermometer-3",
 		"scope" : ""
 	},
 	"thermometer-4" : {
 		"prefix" : "fa-thermometer-4",
-		"body" : ".fa.fa-thermometer-4(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thermometer-4(aria-hidden='true')$0",
 		"description" : "thermometer-4",
 		"scope" : ""
 	},
 	"thermometer-empty" : {
 		"prefix" : "fa-thermometer-empty",
-		"body" : ".fa.fa-thermometer-empty(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thermometer-empty(aria-hidden='true')$0",
 		"description" : "thermometer-empty",
 		"scope" : ""
 	},
 	"thermometer-full" : {
 		"prefix" : "fa-thermometer-full",
-		"body" : ".fa.fa-thermometer-full(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thermometer-full(aria-hidden='true')$0",
 		"description" : "thermometer-full",
 		"scope" : ""
 	},
 	"thermometer-half" : {
 		"prefix" : "fa-thermometer-half",
-		"body" : ".fa.fa-thermometer-half(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thermometer-half(aria-hidden='true')$0",
 		"description" : "thermometer-half",
 		"scope" : ""
 	},
 	"thermometer-quarter" : {
 		"prefix" : "fa-thermometer-quarter",
-		"body" : ".fa.fa-thermometer-quarter(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thermometer-quarter(aria-hidden='true')$0",
 		"description" : "thermometer-quarter",
 		"scope" : ""
 	},
 	"thermometer-three-quarters" : {
 		"prefix" : "fa-thermometer-three-quarters",
-		"body" : ".fa.fa-thermometer-three-quarters(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thermometer-three-quarters(aria-hidden='true')$0",
 		"description" : "thermometer-three-quarters",
 		"scope" : ""
 	},
 	"th-large" : {
 		"prefix" : "fa-th-large",
-		"body" : ".fa.fa-th-large(aria-hidden='true')$0",
+		"body" : "i.fa.fa-th-large(aria-hidden='true')$0",
 		"description" : "th-large",
 		"scope" : ""
 	},
 	"th-list" : {
 		"prefix" : "fa-th-list",
-		"body" : ".fa.fa-th-list(aria-hidden='true')$0",
+		"body" : "i.fa.fa-th-list(aria-hidden='true')$0",
 		"description" : "th-list",
 		"scope" : ""
 	},
 	"thumbs-down" : {
 		"prefix" : "fa-thumbs-down",
-		"body" : ".fa.fa-thumbs-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thumbs-down(aria-hidden='true')$0",
 		"description" : "thumbs-down",
 		"scope" : ""
 	},
 	"thumbs-o-down" : {
 		"prefix" : "fa-thumbs-o-down",
-		"body" : ".fa.fa-thumbs-o-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thumbs-o-down(aria-hidden='true')$0",
 		"description" : "thumbs-o-down",
 		"scope" : ""
 	},
 	"thumbs-o-up" : {
 		"prefix" : "fa-thumbs-o-up",
-		"body" : ".fa.fa-thumbs-o-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thumbs-o-up(aria-hidden='true')$0",
 		"description" : "thumbs-o-up",
 		"scope" : ""
 	},
 	"thumbs-up" : {
 		"prefix" : "fa-thumbs-up",
-		"body" : ".fa.fa-thumbs-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thumbs-up(aria-hidden='true')$0",
 		"description" : "thumbs-up",
 		"scope" : ""
 	},
 	"thumb-tack" : {
 		"prefix" : "fa-thumb-tack",
-		"body" : ".fa.fa-thumb-tack(aria-hidden='true')$0",
+		"body" : "i.fa.fa-thumb-tack(aria-hidden='true')$0",
 		"description" : "thumb-tack",
 		"scope" : ""
 	},
 	"ticket" : {
 		"prefix" : "fa-ticket",
-		"body" : ".fa.fa-ticket(aria-hidden='true')$0",
+		"body" : "i.fa.fa-ticket(aria-hidden='true')$0",
 		"description" : "ticket",
 		"scope" : ""
 	},
 	"times" : {
 		"prefix" : "fa-times",
-		"body" : ".fa.fa-times(aria-hidden='true')$0",
+		"body" : "i.fa.fa-times(aria-hidden='true')$0",
 		"description" : "times",
 		"scope" : ""
 	},
 	"times-circle" : {
 		"prefix" : "fa-times-circle",
-		"body" : ".fa.fa-times-circle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-times-circle(aria-hidden='true')$0",
 		"description" : "times-circle",
 		"scope" : ""
 	},
 	"times-circle-o" : {
 		"prefix" : "fa-times-circle-o",
-		"body" : ".fa.fa-times-circle-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-times-circle-o(aria-hidden='true')$0",
 		"description" : "times-circle-o",
 		"scope" : ""
 	},
 	"times-rectangle" : {
 		"prefix" : "fa-times-rectangle",
-		"body" : ".fa.fa-times-rectangle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-times-rectangle(aria-hidden='true')$0",
 		"description" : "times-rectangle",
 		"scope" : ""
 	},
 	"times-rectangle-o" : {
 		"prefix" : "fa-times-rectangle-o",
-		"body" : ".fa.fa-times-rectangle-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-times-rectangle-o(aria-hidden='true')$0",
 		"description" : "times-rectangle-o",
 		"scope" : ""
 	},
 	"tint" : {
 		"prefix" : "fa-tint",
-		"body" : ".fa.fa-tint(aria-hidden='true')$0",
+		"body" : "i.fa.fa-tint(aria-hidden='true')$0",
 		"description" : "tint",
 		"scope" : ""
 	},
 	"toggle-down" : {
 		"prefix" : "fa-toggle-down",
-		"body" : ".fa.fa-toggle-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-toggle-down(aria-hidden='true')$0",
 		"description" : "toggle-down",
 		"scope" : ""
 	},
 	"toggle-left" : {
 		"prefix" : "fa-toggle-left",
-		"body" : ".fa.fa-toggle-left(aria-hidden='true')$0",
+		"body" : "i.fa.fa-toggle-left(aria-hidden='true')$0",
 		"description" : "toggle-left",
 		"scope" : ""
 	},
 	"toggle-off" : {
 		"prefix" : "fa-toggle-off",
-		"body" : ".fa.fa-toggle-off(aria-hidden='true')$0",
+		"body" : "i.fa.fa-toggle-off(aria-hidden='true')$0",
 		"description" : "toggle-off",
 		"scope" : ""
 	},
 	"toggle-on" : {
 		"prefix" : "fa-toggle-on",
-		"body" : ".fa.fa-toggle-on(aria-hidden='true')$0",
+		"body" : "i.fa.fa-toggle-on(aria-hidden='true')$0",
 		"description" : "toggle-on",
 		"scope" : ""
 	},
 	"toggle-right" : {
 		"prefix" : "fa-toggle-right",
-		"body" : ".fa.fa-toggle-right(aria-hidden='true')$0",
+		"body" : "i.fa.fa-toggle-right(aria-hidden='true')$0",
 		"description" : "toggle-right",
 		"scope" : ""
 	},
 	"toggle-up" : {
 		"prefix" : "fa-toggle-up",
-		"body" : ".fa.fa-toggle-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-toggle-up(aria-hidden='true')$0",
 		"description" : "toggle-up",
 		"scope" : ""
 	},
 	"trademark" : {
 		"prefix" : "fa-trademark",
-		"body" : ".fa.fa-trademark(aria-hidden='true')$0",
+		"body" : "i.fa.fa-trademark(aria-hidden='true')$0",
 		"description" : "trademark",
 		"scope" : ""
 	},
 	"train" : {
 		"prefix" : "fa-train",
-		"body" : ".fa.fa-train(aria-hidden='true')$0",
+		"body" : "i.fa.fa-train(aria-hidden='true')$0",
 		"description" : "train",
 		"scope" : ""
 	},
 	"transgender" : {
 		"prefix" : "fa-transgender",
-		"body" : ".fa.fa-transgender(aria-hidden='true')$0",
+		"body" : "i.fa.fa-transgender(aria-hidden='true')$0",
 		"description" : "transgender",
 		"scope" : ""
 	},
 	"transgender-alt" : {
 		"prefix" : "fa-transgender-alt",
-		"body" : ".fa.fa-transgender-alt(aria-hidden='true')$0",
+		"body" : "i.fa.fa-transgender-alt(aria-hidden='true')$0",
 		"description" : "transgender-alt",
 		"scope" : ""
 	},
 	"trash" : {
 		"prefix" : "fa-trash",
-		"body" : ".fa.fa-trash(aria-hidden='true')$0",
+		"body" : "i.fa.fa-trash(aria-hidden='true')$0",
 		"description" : "trash",
 		"scope" : ""
 	},
 	"trash-o" : {
 		"prefix" : "fa-trash-o",
-		"body" : ".fa.fa-trash-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-trash-o(aria-hidden='true')$0",
 		"description" : "trash-o",
 		"scope" : ""
 	},
 	"tree" : {
 		"prefix" : "fa-tree",
-		"body" : ".fa.fa-tree(aria-hidden='true')$0",
+		"body" : "i.fa.fa-tree(aria-hidden='true')$0",
 		"description" : "tree",
 		"scope" : ""
 	},
 	"trello" : {
 		"prefix" : "fa-trello",
-		"body" : ".fa.fa-trello(aria-hidden='true')$0",
+		"body" : "i.fa.fa-trello(aria-hidden='true')$0",
 		"description" : "trello",
 		"scope" : ""
 	},
 	"tripadvisor" : {
 		"prefix" : "fa-tripadvisor",
-		"body" : ".fa.fa-tripadvisor(aria-hidden='true')$0",
+		"body" : "i.fa.fa-tripadvisor(aria-hidden='true')$0",
 		"description" : "tripadvisor",
 		"scope" : ""
 	},
 	"trophy" : {
 		"prefix" : "fa-trophy",
-		"body" : ".fa.fa-trophy(aria-hidden='true')$0",
+		"body" : "i.fa.fa-trophy(aria-hidden='true')$0",
 		"description" : "trophy",
 		"scope" : ""
 	},
 	"truck" : {
 		"prefix" : "fa-truck",
-		"body" : ".fa.fa-truck(aria-hidden='true')$0",
+		"body" : "i.fa.fa-truck(aria-hidden='true')$0",
 		"description" : "truck",
 		"scope" : ""
 	},
 	"try" : {
 		"prefix" : "fa-try",
-		"body" : ".fa.fa-try(aria-hidden='true')$0",
+		"body" : "i.fa.fa-try(aria-hidden='true')$0",
 		"description" : "try",
 		"scope" : ""
 	},
 	"tty" : {
 		"prefix" : "fa-tty",
-		"body" : ".fa.fa-tty(aria-hidden='true')$0",
+		"body" : "i.fa.fa-tty(aria-hidden='true')$0",
 		"description" : "tty",
 		"scope" : ""
 	},
 	"tumblr" : {
 		"prefix" : "fa-tumblr",
-		"body" : ".fa.fa-tumblr(aria-hidden='true')$0",
+		"body" : "i.fa.fa-tumblr(aria-hidden='true')$0",
 		"description" : "tumblr",
 		"scope" : ""
 	},
 	"tumblr-square" : {
 		"prefix" : "fa-tumblr-square",
-		"body" : ".fa.fa-tumblr-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-tumblr-square(aria-hidden='true')$0",
 		"description" : "tumblr-square",
 		"scope" : ""
 	},
 	"turkish-lira" : {
 		"prefix" : "fa-turkish-lira",
-		"body" : ".fa.fa-turkish-lira(aria-hidden='true')$0",
+		"body" : "i.fa.fa-turkish-lira(aria-hidden='true')$0",
 		"description" : "turkish-lira",
 		"scope" : ""
 	},
 	"tv" : {
 		"prefix" : "fa-tv",
-		"body" : ".fa.fa-tv(aria-hidden='true')$0",
+		"body" : "i.fa.fa-tv(aria-hidden='true')$0",
 		"description" : "tv",
 		"scope" : ""
 	},
 	"twitch" : {
 		"prefix" : "fa-twitch",
-		"body" : ".fa.fa-twitch(aria-hidden='true')$0",
+		"body" : "i.fa.fa-twitch(aria-hidden='true')$0",
 		"description" : "twitch",
 		"scope" : ""
 	},
 	"twitter" : {
 		"prefix" : "fa-twitter",
-		"body" : ".fa.fa-twitter(aria-hidden='true')$0",
+		"body" : "i.fa.fa-twitter(aria-hidden='true')$0",
 		"description" : "twitter",
 		"scope" : ""
 	},
 	"twitter-square" : {
 		"prefix" : "fa-twitter-square",
-		"body" : ".fa.fa-twitter-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-twitter-square(aria-hidden='true')$0",
 		"description" : "twitter-square",
 		"scope" : ""
 	},
 	"umbrella" : {
 		"prefix" : "fa-umbrella",
-		"body" : ".fa.fa-umbrella(aria-hidden='true')$0",
+		"body" : "i.fa.fa-umbrella(aria-hidden='true')$0",
 		"description" : "umbrella",
 		"scope" : ""
 	},
 	"underline" : {
 		"prefix" : "fa-underline",
-		"body" : ".fa.fa-underline(aria-hidden='true')$0",
+		"body" : "i.fa.fa-underline(aria-hidden='true')$0",
 		"description" : "underline",
 		"scope" : ""
 	},
 	"undo" : {
 		"prefix" : "fa-undo",
-		"body" : ".fa.fa-undo(aria-hidden='true')$0",
+		"body" : "i.fa.fa-undo(aria-hidden='true')$0",
 		"description" : "undo",
 		"scope" : ""
 	},
 	"universal-access" : {
 		"prefix" : "fa-universal-access",
-		"body" : ".fa.fa-universal-access(aria-hidden='true')$0",
+		"body" : "i.fa.fa-universal-access(aria-hidden='true')$0",
 		"description" : "universal-access",
 		"scope" : ""
 	},
 	"university" : {
 		"prefix" : "fa-university",
-		"body" : ".fa.fa-university(aria-hidden='true')$0",
+		"body" : "i.fa.fa-university(aria-hidden='true')$0",
 		"description" : "university",
 		"scope" : ""
 	},
 	"unlink" : {
 		"prefix" : "fa-unlink",
-		"body" : ".fa.fa-unlink(aria-hidden='true')$0",
+		"body" : "i.fa.fa-unlink(aria-hidden='true')$0",
 		"description" : "unlink",
 		"scope" : ""
 	},
 	"unlock" : {
 		"prefix" : "fa-unlock",
-		"body" : ".fa.fa-unlock(aria-hidden='true')$0",
+		"body" : "i.fa.fa-unlock(aria-hidden='true')$0",
 		"description" : "unlock",
 		"scope" : ""
 	},
 	"unlock-alt" : {
 		"prefix" : "fa-unlock-alt",
-		"body" : ".fa.fa-unlock-alt(aria-hidden='true')$0",
+		"body" : "i.fa.fa-unlock-alt(aria-hidden='true')$0",
 		"description" : "unlock-alt",
 		"scope" : ""
 	},
 	"unsorted" : {
 		"prefix" : "fa-unsorted",
-		"body" : ".fa.fa-unsorted(aria-hidden='true')$0",
+		"body" : "i.fa.fa-unsorted(aria-hidden='true')$0",
 		"description" : "unsorted",
 		"scope" : ""
 	},
 	"upload" : {
 		"prefix" : "fa-upload",
-		"body" : ".fa.fa-upload(aria-hidden='true')$0",
+		"body" : "i.fa.fa-upload(aria-hidden='true')$0",
 		"description" : "upload",
 		"scope" : ""
 	},
 	"usb" : {
 		"prefix" : "fa-usb",
-		"body" : ".fa.fa-usb(aria-hidden='true')$0",
+		"body" : "i.fa.fa-usb(aria-hidden='true')$0",
 		"description" : "usb",
 		"scope" : ""
 	},
 	"usd" : {
 		"prefix" : "fa-usd",
-		"body" : ".fa.fa-usd(aria-hidden='true')$0",
+		"body" : "i.fa.fa-usd(aria-hidden='true')$0",
 		"description" : "usd",
 		"scope" : ""
 	},
 	"user" : {
 		"prefix" : "fa-user",
-		"body" : ".fa.fa-user(aria-hidden='true')$0",
+		"body" : "i.fa.fa-user(aria-hidden='true')$0",
 		"description" : "user",
 		"scope" : ""
 	},
 	"user-circle" : {
 		"prefix" : "fa-user-circle",
-		"body" : ".fa.fa-user-circle(aria-hidden='true')$0",
+		"body" : "i.fa.fa-user-circle(aria-hidden='true')$0",
 		"description" : "user-circle",
 		"scope" : ""
 	},
 	"user-circle-o" : {
 		"prefix" : "fa-user-circle-o",
-		"body" : ".fa.fa-user-circle-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-user-circle-o(aria-hidden='true')$0",
 		"description" : "user-circle-o",
 		"scope" : ""
 	},
 	"user-md" : {
 		"prefix" : "fa-user-md",
-		"body" : ".fa.fa-user-md(aria-hidden='true')$0",
+		"body" : "i.fa.fa-user-md(aria-hidden='true')$0",
 		"description" : "user-md",
 		"scope" : ""
 	},
 	"user-o" : {
 		"prefix" : "fa-user-o",
-		"body" : ".fa.fa-user-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-user-o(aria-hidden='true')$0",
 		"description" : "user-o",
 		"scope" : ""
 	},
 	"user-plus" : {
 		"prefix" : "fa-user-plus",
-		"body" : ".fa.fa-user-plus(aria-hidden='true')$0",
+		"body" : "i.fa.fa-user-plus(aria-hidden='true')$0",
 		"description" : "user-plus",
 		"scope" : ""
 	},
 	"users" : {
 		"prefix" : "fa-users",
-		"body" : ".fa.fa-users(aria-hidden='true')$0",
+		"body" : "i.fa.fa-users(aria-hidden='true')$0",
 		"description" : "users",
 		"scope" : ""
 	},
 	"user-secret" : {
 		"prefix" : "fa-user-secret",
-		"body" : ".fa.fa-user-secret(aria-hidden='true')$0",
+		"body" : "i.fa.fa-user-secret(aria-hidden='true')$0",
 		"description" : "user-secret",
 		"scope" : ""
 	},
 	"user-times" : {
 		"prefix" : "fa-user-times",
-		"body" : ".fa.fa-user-times(aria-hidden='true')$0",
+		"body" : "i.fa.fa-user-times(aria-hidden='true')$0",
 		"description" : "user-times",
 		"scope" : ""
 	},
 	"vcard" : {
 		"prefix" : "fa-vcard",
-		"body" : ".fa.fa-vcard(aria-hidden='true')$0",
+		"body" : "i.fa.fa-vcard(aria-hidden='true')$0",
 		"description" : "vcard",
 		"scope" : ""
 	},
 	"vcard-o" : {
 		"prefix" : "fa-vcard-o",
-		"body" : ".fa.fa-vcard-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-vcard-o(aria-hidden='true')$0",
 		"description" : "vcard-o",
 		"scope" : ""
 	},
 	"venus" : {
 		"prefix" : "fa-venus",
-		"body" : ".fa.fa-venus(aria-hidden='true')$0",
+		"body" : "i.fa.fa-venus(aria-hidden='true')$0",
 		"description" : "venus",
 		"scope" : ""
 	},
 	"venus-double" : {
 		"prefix" : "fa-venus-double",
-		"body" : ".fa.fa-venus-double(aria-hidden='true')$0",
+		"body" : "i.fa.fa-venus-double(aria-hidden='true')$0",
 		"description" : "venus-double",
 		"scope" : ""
 	},
 	"venus-mars" : {
 		"prefix" : "fa-venus-mars",
-		"body" : ".fa.fa-venus-mars(aria-hidden='true')$0",
+		"body" : "i.fa.fa-venus-mars(aria-hidden='true')$0",
 		"description" : "venus-mars",
 		"scope" : ""
 	},
 	"viacoin" : {
 		"prefix" : "fa-viacoin",
-		"body" : ".fa.fa-viacoin(aria-hidden='true')$0",
+		"body" : "i.fa.fa-viacoin(aria-hidden='true')$0",
 		"description" : "viacoin",
 		"scope" : ""
 	},
 	"viadeo" : {
 		"prefix" : "fa-viadeo",
-		"body" : ".fa.fa-viadeo(aria-hidden='true')$0",
+		"body" : "i.fa.fa-viadeo(aria-hidden='true')$0",
 		"description" : "viadeo",
 		"scope" : ""
 	},
 	"viadeo-square" : {
 		"prefix" : "fa-viadeo-square",
-		"body" : ".fa.fa-viadeo-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-viadeo-square(aria-hidden='true')$0",
 		"description" : "viadeo-square",
 		"scope" : ""
 	},
 	"video-camera" : {
 		"prefix" : "fa-video-camera",
-		"body" : ".fa.fa-video-camera(aria-hidden='true')$0",
+		"body" : "i.fa.fa-video-camera(aria-hidden='true')$0",
 		"description" : "video-camera",
 		"scope" : ""
 	},
 	"vimeo" : {
 		"prefix" : "fa-vimeo",
-		"body" : ".fa.fa-vimeo(aria-hidden='true')$0",
+		"body" : "i.fa.fa-vimeo(aria-hidden='true')$0",
 		"description" : "vimeo",
 		"scope" : ""
 	},
 	"vimeo-square" : {
 		"prefix" : "fa-vimeo-square",
-		"body" : ".fa.fa-vimeo-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-vimeo-square(aria-hidden='true')$0",
 		"description" : "vimeo-square",
 		"scope" : ""
 	},
 	"vine" : {
 		"prefix" : "fa-vine",
-		"body" : ".fa.fa-vine(aria-hidden='true')$0",
+		"body" : "i.fa.fa-vine(aria-hidden='true')$0",
 		"description" : "vine",
 		"scope" : ""
 	},
 	"vk" : {
 		"prefix" : "fa-vk",
-		"body" : ".fa.fa-vk(aria-hidden='true')$0",
+		"body" : "i.fa.fa-vk(aria-hidden='true')$0",
 		"description" : "vk",
 		"scope" : ""
 	},
 	"volume-control-phone" : {
 		"prefix" : "fa-volume-control-phone",
-		"body" : ".fa.fa-volume-control-phone(aria-hidden='true')$0",
+		"body" : "i.fa.fa-volume-control-phone(aria-hidden='true')$0",
 		"description" : "volume-control-phone",
 		"scope" : ""
 	},
 	"volume-down" : {
 		"prefix" : "fa-volume-down",
-		"body" : ".fa.fa-volume-down(aria-hidden='true')$0",
+		"body" : "i.fa.fa-volume-down(aria-hidden='true')$0",
 		"description" : "volume-down",
 		"scope" : ""
 	},
 	"volume-off" : {
 		"prefix" : "fa-volume-off",
-		"body" : ".fa.fa-volume-off(aria-hidden='true')$0",
+		"body" : "i.fa.fa-volume-off(aria-hidden='true')$0",
 		"description" : "volume-off",
 		"scope" : ""
 	},
 	"volume-up" : {
 		"prefix" : "fa-volume-up",
-		"body" : ".fa.fa-volume-up(aria-hidden='true')$0",
+		"body" : "i.fa.fa-volume-up(aria-hidden='true')$0",
 		"description" : "volume-up",
 		"scope" : ""
 	},
 	"warning" : {
 		"prefix" : "fa-warning",
-		"body" : ".fa.fa-warning(aria-hidden='true')$0",
+		"body" : "i.fa.fa-warning(aria-hidden='true')$0",
 		"description" : "warning",
 		"scope" : ""
 	},
 	"wechat" : {
 		"prefix" : "fa-wechat",
-		"body" : ".fa.fa-wechat(aria-hidden='true')$0",
+		"body" : "i.fa.fa-wechat(aria-hidden='true')$0",
 		"description" : "wechat",
 		"scope" : ""
 	},
 	"weibo" : {
 		"prefix" : "fa-weibo",
-		"body" : ".fa.fa-weibo(aria-hidden='true')$0",
+		"body" : "i.fa.fa-weibo(aria-hidden='true')$0",
 		"description" : "weibo",
 		"scope" : ""
 	},
 	"weixin" : {
 		"prefix" : "fa-weixin",
-		"body" : ".fa.fa-weixin(aria-hidden='true')$0",
+		"body" : "i.fa.fa-weixin(aria-hidden='true')$0",
 		"description" : "weixin",
 		"scope" : ""
 	},
 	"whatsapp" : {
 		"prefix" : "fa-whatsapp",
-		"body" : ".fa.fa-whatsapp(aria-hidden='true')$0",
+		"body" : "i.fa.fa-whatsapp(aria-hidden='true')$0",
 		"description" : "whatsapp",
 		"scope" : ""
 	},
 	"wheelchair" : {
 		"prefix" : "fa-wheelchair",
-		"body" : ".fa.fa-wheelchair(aria-hidden='true')$0",
+		"body" : "i.fa.fa-wheelchair(aria-hidden='true')$0",
 		"description" : "wheelchair",
 		"scope" : ""
 	},
 	"wheelchair-alt" : {
 		"prefix" : "fa-wheelchair-alt",
-		"body" : ".fa.fa-wheelchair-alt(aria-hidden='true')$0",
+		"body" : "i.fa.fa-wheelchair-alt(aria-hidden='true')$0",
 		"description" : "wheelchair-alt",
 		"scope" : ""
 	},
 	"wifi" : {
 		"prefix" : "fa-wifi",
-		"body" : ".fa.fa-wifi(aria-hidden='true')$0",
+		"body" : "i.fa.fa-wifi(aria-hidden='true')$0",
 		"description" : "wifi",
 		"scope" : ""
 	},
 	"wikipedia-w" : {
 		"prefix" : "fa-wikipedia-w",
-		"body" : ".fa.fa-wikipedia-w(aria-hidden='true')$0",
+		"body" : "i.fa.fa-wikipedia-w(aria-hidden='true')$0",
 		"description" : "wikipedia-w",
 		"scope" : ""
 	},
 	"window-close" : {
 		"prefix" : "fa-window-close",
-		"body" : ".fa.fa-window-close(aria-hidden='true')$0",
+		"body" : "i.fa.fa-window-close(aria-hidden='true')$0",
 		"description" : "window-close",
 		"scope" : ""
 	},
 	"window-close-o" : {
 		"prefix" : "fa-window-close-o",
-		"body" : ".fa.fa-window-close-o(aria-hidden='true')$0",
+		"body" : "i.fa.fa-window-close-o(aria-hidden='true')$0",
 		"description" : "window-close-o",
 		"scope" : ""
 	},
 	"window-maximize" : {
 		"prefix" : "fa-window-maximize",
-		"body" : ".fa.fa-window-maximize(aria-hidden='true')$0",
+		"body" : "i.fa.fa-window-maximize(aria-hidden='true')$0",
 		"description" : "window-maximize",
 		"scope" : ""
 	},
 	"window-minimize" : {
 		"prefix" : "fa-window-minimize",
-		"body" : ".fa.fa-window-minimize(aria-hidden='true')$0",
+		"body" : "i.fa.fa-window-minimize(aria-hidden='true')$0",
 		"description" : "window-minimize",
 		"scope" : ""
 	},
 	"window-restore" : {
 		"prefix" : "fa-window-restore",
-		"body" : ".fa.fa-window-restore(aria-hidden='true')$0",
+		"body" : "i.fa.fa-window-restore(aria-hidden='true')$0",
 		"description" : "window-restore",
 		"scope" : ""
 	},
 	"windows" : {
 		"prefix" : "fa-windows",
-		"body" : ".fa.fa-windows(aria-hidden='true')$0",
+		"body" : "i.fa.fa-windows(aria-hidden='true')$0",
 		"description" : "windows",
 		"scope" : ""
 	},
 	"won" : {
 		"prefix" : "fa-won",
-		"body" : ".fa.fa-won(aria-hidden='true')$0",
+		"body" : "i.fa.fa-won(aria-hidden='true')$0",
 		"description" : "won",
 		"scope" : ""
 	},
 	"wordpress" : {
 		"prefix" : "fa-wordpress",
-		"body" : ".fa.fa-wordpress(aria-hidden='true')$0",
+		"body" : "i.fa.fa-wordpress(aria-hidden='true')$0",
 		"description" : "wordpress",
 		"scope" : ""
 	},
 	"wpbeginner" : {
 		"prefix" : "fa-wpbeginner",
-		"body" : ".fa.fa-wpbeginner(aria-hidden='true')$0",
+		"body" : "i.fa.fa-wpbeginner(aria-hidden='true')$0",
 		"description" : "wpbeginner",
 		"scope" : ""
 	},
 	"wpexplorer" : {
 		"prefix" : "fa-wpexplorer",
-		"body" : ".fa.fa-wpexplorer(aria-hidden='true')$0",
+		"body" : "i.fa.fa-wpexplorer(aria-hidden='true')$0",
 		"description" : "wpexplorer",
 		"scope" : ""
 	},
 	"wpforms" : {
 		"prefix" : "fa-wpforms",
-		"body" : ".fa.fa-wpforms(aria-hidden='true')$0",
+		"body" : "i.fa.fa-wpforms(aria-hidden='true')$0",
 		"description" : "wpforms",
 		"scope" : ""
 	},
 	"wrench" : {
 		"prefix" : "fa-wrench",
-		"body" : ".fa.fa-wrench(aria-hidden='true')$0",
+		"body" : "i.fa.fa-wrench(aria-hidden='true')$0",
 		"description" : "wrench",
 		"scope" : ""
 	},
 	"xing" : {
 		"prefix" : "fa-xing",
-		"body" : ".fa.fa-xing(aria-hidden='true')$0",
+		"body" : "i.fa.fa-xing(aria-hidden='true')$0",
 		"description" : "xing",
 		"scope" : ""
 	},
 	"xing-square" : {
 		"prefix" : "fa-xing-square",
-		"body" : ".fa.fa-xing-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-xing-square(aria-hidden='true')$0",
 		"description" : "xing-square",
 		"scope" : ""
 	},
 	"yahoo" : {
 		"prefix" : "fa-yahoo",
-		"body" : ".fa.fa-yahoo(aria-hidden='true')$0",
+		"body" : "i.fa.fa-yahoo(aria-hidden='true')$0",
 		"description" : "yahoo",
 		"scope" : ""
 	},
 	"yc" : {
 		"prefix" : "fa-yc",
-		"body" : ".fa.fa-yc(aria-hidden='true')$0",
+		"body" : "i.fa.fa-yc(aria-hidden='true')$0",
 		"description" : "yc",
 		"scope" : ""
 	},
 	"y-combinator" : {
 		"prefix" : "fa-y-combinator",
-		"body" : ".fa.fa-y-combinator(aria-hidden='true')$0",
+		"body" : "i.fa.fa-y-combinator(aria-hidden='true')$0",
 		"description" : "y-combinator",
 		"scope" : ""
 	},
 	"y-combinator-square" : {
 		"prefix" : "fa-y-combinator-square",
-		"body" : ".fa.fa-y-combinator-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-y-combinator-square(aria-hidden='true')$0",
 		"description" : "y-combinator-square",
 		"scope" : ""
 	},
 	"yc-square" : {
 		"prefix" : "fa-yc-square",
-		"body" : ".fa.fa-yc-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-yc-square(aria-hidden='true')$0",
 		"description" : "yc-square",
 		"scope" : ""
 	},
 	"yelp" : {
 		"prefix" : "fa-yelp",
-		"body" : ".fa.fa-yelp(aria-hidden='true')$0",
+		"body" : "i.fa.fa-yelp(aria-hidden='true')$0",
 		"description" : "yelp",
 		"scope" : ""
 	},
 	"yen" : {
 		"prefix" : "fa-yen",
-		"body" : ".fa.fa-yen(aria-hidden='true')$0",
+		"body" : "i.fa.fa-yen(aria-hidden='true')$0",
 		"description" : "yen",
 		"scope" : ""
 	},
 	"yoast" : {
 		"prefix" : "fa-yoast",
-		"body" : ".fa.fa-yoast(aria-hidden='true')$0",
+		"body" : "i.fa.fa-yoast(aria-hidden='true')$0",
 		"description" : "yoast",
 		"scope" : ""
 	},
 	"youtube" : {
 		"prefix" : "fa-youtube",
-		"body" : ".fa.fa-youtube(aria-hidden='true')$0",
+		"body" : "i.fa.fa-youtube(aria-hidden='true')$0",
 		"description" : "youtube",
 		"scope" : ""
 	},
 	"youtube-play" : {
 		"prefix" : "fa-youtube-play",
-		"body" : ".fa.fa-youtube-play(aria-hidden='true')$0",
+		"body" : "i.fa.fa-youtube-play(aria-hidden='true')$0",
 		"description" : "youtube-play",
 		"scope" : ""
 	},
 	"youtube-square" : {
 		"prefix" : "fa-youtube-square",
-		"body" : ".fa.fa-youtube-square(aria-hidden='true')$0",
+		"body" : "i.fa.fa-youtube-square(aria-hidden='true')$0",
 		"description" : "youtube-square",
 		"scope" : ""
 	}
