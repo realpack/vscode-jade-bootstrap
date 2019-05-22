@@ -4,17 +4,25 @@
 	"description": "Bootstrap and Font Awesome Snippets with Pug\\Jade for VS Code",
 	"icon": "images/icon.png",
 	"publisher": "pack",
+	"license": "MIT",
+	"author": {
+		"name": "pack",
+		"url": "https://github.com/realpack"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/realpack/vscode-jade-bootstrap"
 	},
 	"version": "0.2.6",
 	"engines": {
-		"vscode": "^1.32.0"
+		"vscode": "^1.11.0"
 	},
 	"categories": [
 		"Snippets"
 	],
+	"galleryBanner": {
+		"color": "#563d7c"
+	},
 	"contributes": {
 		"snippets": [
 			{
@@ -28,8 +36,9 @@
 		]
 	},
 	"preview": true,
+	"homepage": "https://github.com/realpack/vscode-jade-bootstrap",
 	"dependencies": {
-		"vsce": "^1.59.0"
+		"vsce": "^1.11.0"
 	},
 	"__metadata": {
 		"id": "de1f021a-8ed2-4a23-91cb-fe75ac6372e8",
