@@ -27,6 +27,7 @@
 			}
 		]
 	},
+	"preview": true,
 	"dependencies": {
 		"vsce": "^1.59.0"
 	},
