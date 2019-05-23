@@ -13,7 +13,7 @@
 		"type": "git",
 		"url": "https://github.com/realpack/vscode-jade-bootstrap"
 	},
-	"version": "0.2.6",
+	"version": "0.2.7",
 	"engines": {
 		"vscode": "^1.11.0"
 	},
@@ -21,7 +21,8 @@
 		"Snippets"
 	],
 	"galleryBanner": {
-		"color": "#563d7c"
+		"color": "#563d7c",
+		"theme": "dark"
 	},
 	"contributes": {
 		"snippets": [
